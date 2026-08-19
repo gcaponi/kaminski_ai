@@ -7,14 +7,14 @@ published: 2026-02-11
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 751
-temas: [_inbox]
+temas: [pessoal]
 sha256: 329c425f3690fc3593aea143ce25bdaa91fc1bd2e910bbb9c54fcc4f94df4bca
 ---
 
 # FOMOS PRA CASA COM AS MENINAS
 
 - Fonte: https://www.youtube.com/watch?v=uM4BqnFsM9o
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[pessoal]] · [[gabriel-kaminski]]
 
 ## Transcript
 

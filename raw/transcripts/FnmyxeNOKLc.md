@@ -7,14 +7,14 @@ published: 2026-03-04
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 373
-temas: [_inbox]
+temas: [exames-e-saude, farmacologia-geral, esteroides-aas]
 sha256: 58a696c8ca2ba8ef38e6dcf012d597a3de35ad055177b7b2843c3973c9a8b011
 ---
 
 # O QUE REALMENTE É DOENÇA CARDIOVASCULAR?
 
 - Fonte: https://www.youtube.com/watch?v=FnmyxeNOKLc
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[exames-e-saude]] · [[farmacologia-geral]] · [[esteroides-aas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

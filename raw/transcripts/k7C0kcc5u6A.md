@@ -7,14 +7,14 @@ published: 2026-01-16
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 370
-temas: [_inbox]
+temas: [hormonio-de-crescimento, peptideos]
 sha256: 6d4d3889f374ac901ef98dd8e45be704b255ed6ccdb0490252706232c4fbbb7f
 ---
 
 # CJC-1295 E IPAMORELINA: O QUE NÃO TE CONTAM
 
 - Fonte: https://www.youtube.com/watch?v=k7C0kcc5u6A
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[hormonio-de-crescimento]] · [[peptideos]] · [[gabriel-kaminski]]
 
 ## Transcript
 

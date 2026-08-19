@@ -7,14 +7,14 @@ published: 2026-07-15
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 403
-temas: [_inbox]
+temas: [tireoide]
 sha256: d0725b818d43406a2ccc42f7351460e4ee8a6e64727c8636b006bfb55283c1ce
 ---
 
 # EIXO TIREOIDIANO: O QUE VOCÊ PRECISA ENTENDER
 
 - Fonte: https://www.youtube.com/watch?v=Kq40hzsRG8A
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[tireoide]] · [[gabriel-kaminski]]
 
 ## Transcript
 

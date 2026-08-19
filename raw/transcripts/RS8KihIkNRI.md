@@ -7,14 +7,14 @@ published: 2026-02-20
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 485
-temas: [_inbox]
+temas: [hormonio-de-crescimento, peptideos, farmacologia-geral]
 sha256: 48a03ea8945b0b81d5435e18a9a220e068a4af9ffd65f432d87e222ef1196033
 ---
 
 # IGF-1: TUDO QUE VOCE PRECISA SABER
 
 - Fonte: https://www.youtube.com/watch?v=RS8KihIkNRI
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[hormonio-de-crescimento]] · [[peptideos]] · [[farmacologia-geral]] · [[gabriel-kaminski]]
 
 ## Transcript
 

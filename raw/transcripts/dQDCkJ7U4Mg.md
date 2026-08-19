@@ -7,14 +7,14 @@ published: 2026-04-06
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 297
-temas: [_inbox]
+temas: [peptideos]
 sha256: 69b4d2647983896105e35f13cf2d3aab8601954f67eea0b589ccbc853f4d2759
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE A KISSPEPTINA
 
 - Fonte: https://www.youtube.com/watch?v=dQDCkJ7U4Mg
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[peptideos]] · [[gabriel-kaminski]]
 
 ## Transcript
 

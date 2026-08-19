@@ -7,14 +7,14 @@ published: 2026-05-18
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 344
-temas: [_inbox]
+temas: [longevidade, farmacologia-geral]
 sha256: a5f9b236a8048f1dedbb769820f7cc7502555657a0808e1fe68c3c13e31bfc17
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE ADIPONECTINA
 
 - Fonte: https://www.youtube.com/watch?v=aje8vh5_hro
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[longevidade]] · [[farmacologia-geral]] · [[gabriel-kaminski]]
 
 ## Transcript
 

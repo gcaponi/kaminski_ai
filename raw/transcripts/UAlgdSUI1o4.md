@@ -7,14 +7,14 @@ published: 2026-01-26
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 330
-temas: [_inbox]
+temas: [mulher, farmacologia-geral]
 sha256: 1172f137d949e353aa37aad0ecd6fcaddf687dc21b8dbdb1bb3f348ceb301151
 ---
 
 # CHEGOU NA MENOPAUSA SEM ENERGIA? SAIBA O QUE FAZER!
 
 - Fonte: https://www.youtube.com/watch?v=UAlgdSUI1o4
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[farmacologia-geral]] · [[gabriel-kaminski]]
 
 ## Transcript
 

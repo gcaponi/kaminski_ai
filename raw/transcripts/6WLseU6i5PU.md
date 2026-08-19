@@ -7,14 +7,14 @@ published: 2026-01-20
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 377
-temas: [_inbox]
+temas: [longevidade]
 sha256: a81d66852ee85bf6d0bdc5e61bebbe728754994cdb0890b741df812f84a22040
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE A NNMT
 
 - Fonte: https://www.youtube.com/watch?v=6WLseU6i5PU
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[longevidade]] · [[gabriel-kaminski]]
 
 ## Transcript
 

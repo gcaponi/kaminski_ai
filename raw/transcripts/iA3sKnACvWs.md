@@ -7,14 +7,14 @@ published: 2026-03-23
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 297
-temas: [_inbox]
+temas: [peptideos]
 sha256: 45e8d4c900b8058e65aabe6a0c72ebe57f8264693058b0d96da099f33f44e18c
 ---
 
 # VOCÊ PRECISA DESSES PEPTÍDEOS OU É SÓ HYPE?
 
 - Fonte: https://www.youtube.com/watch?v=iA3sKnACvWs
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[peptideos]] · [[gabriel-kaminski]]
 
 ## Transcript
 

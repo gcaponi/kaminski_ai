@@ -7,14 +7,14 @@ published: 2026-06-15
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 403
-temas: [_inbox]
+temas: [peptideos, hormonio-de-crescimento, farmacologia-geral]
 sha256: 4f307ab85da0aa0d83ca5e044d5468592cfbffd4be3c2378a930899fa3acc8be
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE SELANK E SEMAX
 
 - Fonte: https://www.youtube.com/watch?v=NwE73_dpWPk
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[peptideos]] · [[hormonio-de-crescimento]] · [[farmacologia-geral]] · [[gabriel-kaminski]]
 
 ## Transcript
 

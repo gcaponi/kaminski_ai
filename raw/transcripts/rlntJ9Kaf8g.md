@@ -7,14 +7,14 @@ published: 2026-02-04
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 307
-temas: [_inbox]
+temas: [nutricao, longevidade, farmacologia-geral]
 sha256: 3ab068ff2d8af1106a71706b611ed4d539acc946f42f4e52cf2cb2325860bbdf
 ---
 
 # PRINCIPAIS SUPLEMENTOS PARA LONGEVIDADE
 
 - Fonte: https://www.youtube.com/watch?v=rlntJ9Kaf8g
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[nutricao]] · [[longevidade]] · [[farmacologia-geral]] · [[gabriel-kaminski]]
 
 ## Transcript
 

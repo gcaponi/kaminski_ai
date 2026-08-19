@@ -7,14 +7,14 @@ published: 2025-12-23
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 328
-temas: [_inbox]
+temas: [peptideos]
 sha256: 4a489d535aaadd30753b7e3e8c66634f2a9129334b900f65b03822821ea49046
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE A BIOGLUTIDA
 
 - Fonte: https://www.youtube.com/watch?v=ZONKu7kXv4A
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[peptideos]] · [[gabriel-kaminski]]
 
 ## Transcript
 

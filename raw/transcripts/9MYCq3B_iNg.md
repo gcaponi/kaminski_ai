@@ -7,14 +7,14 @@ published: 2026-06-09
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 372
-temas: [_inbox]
+temas: [longevidade, mulher]
 sha256: 55caed8275f2e1931e0a906f352c2b174a81dbc7b531c79b3558cc6ffc940767
 ---
 
 # LEPTINA E RESISTÊNCIA LEPTÍNICA: O QUE VOCÊ PRECISA SABER
 
 - Fonte: https://www.youtube.com/watch?v=9MYCq3B_iNg
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[longevidade]] · [[mulher]] · [[gabriel-kaminski]]
 
 ## Transcript
 

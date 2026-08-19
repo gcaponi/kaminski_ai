@@ -7,14 +7,14 @@ published: 2026-02-05
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 335
-temas: [_inbox]
+temas: [pessoal]
 sha256: 363f428033990ba928e21a5a311b04aea6a392c00c02d7ad595b473b46365c74
 ---
 
 # NOSSAS MENINAS NASCERAM!
 
 - Fonte: https://www.youtube.com/watch?v=UBEYAZk3pzo
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[pessoal]] · [[gabriel-kaminski]]
 
 ## Transcript
 

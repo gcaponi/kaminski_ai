@@ -7,14 +7,14 @@ published: 2025-10-02
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 232
-temas: [_inbox]
+temas: [esteroides-aas]
 sha256: 72074bc48974f3d069cd04fc8c59a82314cf977d45dba65bbf11a9601fef6fc8
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE O TURINABOL
 
 - Fonte: https://www.youtube.com/watch?v=bd4PdR4y4eE
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[esteroides-aas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

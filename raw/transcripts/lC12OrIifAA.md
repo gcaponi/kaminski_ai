@@ -7,14 +7,14 @@ published: 2025-10-24
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 251
-temas: [_inbox]
+temas: [esteroides-aas]
 sha256: 7106f3403a0a2608f14d9f63059e7decdadf3f0f87053e95a330d3e7c723e2d2
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE O DIANABOL
 
 - Fonte: https://www.youtube.com/watch?v=lC12OrIifAA
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[esteroides-aas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

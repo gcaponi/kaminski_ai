@@ -7,14 +7,14 @@ published: 2025-11-29
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 126
-temas: [_inbox]
+temas: [mulher]
 sha256: 1dd73c570f0af300ceb0e076d845d32642ed1bf2abeeeb66ec64841ca286b7e7
 ---
 
 # O QUE NÃO TE CONTARAM SOBRE O ESTROGÊNIO
 
 - Fonte: https://www.youtube.com/watch?v=06IiQ6uAaB8
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[gabriel-kaminski]]
 
 ## Transcript
 

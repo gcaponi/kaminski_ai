@@ -7,14 +7,14 @@ published: 2025-10-15
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 217
-temas: [_inbox]
+temas: [esteroides-aas]
 sha256: 1aa84e92b3a4e5c7aee7e2781ee59c87d0f3b4476807c3ccb9036e855e9f3a27
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE A TREMBOLONA
 
 - Fonte: https://www.youtube.com/watch?v=JA1fFiMO9Nw
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[esteroides-aas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

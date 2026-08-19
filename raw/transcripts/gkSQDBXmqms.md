@@ -7,14 +7,14 @@ published: 2026-01-23
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 380
-temas: [_inbox]
+temas: [mulher, nutricao, tireoide]
 sha256: 6d01f36685ac8714ed8a80bc3d5850b9168fc817fc58cd820c24a113cd15570b
 ---
 
 # FAZ TUDO CORRETO E VIVE SEM LIBIDO? O QUE FAZER?
 
 - Fonte: https://www.youtube.com/watch?v=gkSQDBXmqms
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[nutricao]] · [[tireoide]] · [[gabriel-kaminski]]
 
 ## Transcript
 

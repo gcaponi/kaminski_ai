@@ -7,14 +7,14 @@ published: 2025-11-18
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 140
-temas: [_inbox]
+temas: [mulher, nutricao]
 sha256: f301aca2f6e1183da97e9cae7cc01fde566caf7cee6bebec4a6818c2d4fdbe8b
 ---
 
 # SUPLEMENTAÇÃO NO CLIMATÉRIO E NA MENOPAUSA
 
 - Fonte: https://www.youtube.com/watch?v=PO0RTo9My9w
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[nutricao]] · [[gabriel-kaminski]]
 
 ## Transcript
 

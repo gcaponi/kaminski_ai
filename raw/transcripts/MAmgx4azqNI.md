@@ -7,14 +7,14 @@ published: 2026-02-16
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 1256
-temas: [_inbox]
+temas: [treino]
 sha256: b1e8f423e56a9af1099253fabd5e62c0a8bc63fb8746ce614ef19b65abfbba68
 ---
 
 # LEG DAY E RESENHA COM GABRIEL FRANCISCON
 
 - Fonte: https://www.youtube.com/watch?v=MAmgx4azqNI
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[treino]] · [[gabriel-kaminski]]
 
 ## Transcript
 

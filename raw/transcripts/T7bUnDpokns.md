@@ -7,14 +7,14 @@ published: 2026-05-11
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 312
-temas: [_inbox]
+temas: [nutricao, longevidade, farmacologia-geral]
 sha256: 79031158f072144805e066ff3e5b2fc9fecf9ab2fe031842a8b2e5e1f9ce16e7
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE A PROTEÍNA KLOTHO
 
 - Fonte: https://www.youtube.com/watch?v=T7bUnDpokns
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[nutricao]] · [[longevidade]] · [[farmacologia-geral]] · [[gabriel-kaminski]]
 
 ## Transcript
 

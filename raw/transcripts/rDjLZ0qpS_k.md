@@ -7,14 +7,14 @@ published: 2025-11-07
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 229
-temas: [_inbox]
+temas: [esteroides-aas]
 sha256: 62e519b0f86535767234e20aca875c5d8cf7b1625e3e6113a82bda0ecfbe30a8
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE O PRIMOBOLAN
 
 - Fonte: https://www.youtube.com/watch?v=rDjLZ0qpS_k
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[esteroides-aas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

@@ -7,14 +7,14 @@ published: 2025-09-05
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 298
-temas: [_inbox]
+temas: [esteroides-aas, mulher, exames-e-saude]
 sha256: 9ce1563c570cbc85cbb1f02a3e4d6f9edf6821b4c7396a54bf91812989e17a60
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE ESTERÓIDES
 
 - Fonte: https://www.youtube.com/watch?v=w0x28CvT1Jg
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[esteroides-aas]] · [[mulher]] · [[exames-e-saude]] · [[gabriel-kaminski]]
 
 ## Transcript
 

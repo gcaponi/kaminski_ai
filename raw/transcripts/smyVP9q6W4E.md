@@ -7,14 +7,14 @@ published: 2026-05-25
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 370
-temas: [_inbox]
+temas: [incretinas, peptideos]
 sha256: 77fc0778f17f36ec5c49698d8541a3d82ad720d17e17311a1f0e94e37e510208
 ---
 
 # O QUE NÃO TEM CONTARAM SOBRE O PEPTÍDEO YY E O GLP1
 
 - Fonte: https://www.youtube.com/watch?v=smyVP9q6W4E
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[incretinas]] · [[peptideos]] · [[gabriel-kaminski]]
 
 ## Transcript
 

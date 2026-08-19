@@ -7,14 +7,14 @@ published: 2026-08-12
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 438
-temas: [_inbox]
+temas: [farmacologia-geral, esteroides-aas]
 sha256: 29582eefd32ffea2c2b1febe2329c4e7854a241d8097d0d14cdca8cbed96cbdb
 ---
 
 # É MELHOR COMPRIMIDO OU INJETÁVEL? A RESPOSTA DEFINITIVA
 
 - Fonte: https://www.youtube.com/watch?v=fNtrWuE_m68
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[farmacologia-geral]] · [[esteroides-aas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

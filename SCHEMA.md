@@ -59,7 +59,7 @@ Usar só estas tags. Se faltar uma, acrescentar aqui primeiro.
 - Pessoas/canais: `pessoa`, `canal`
 - Hormônios: `testosterona`, `aesh`, `gh`, `insulina`, `tireoide`, `estradiol`
 - Compostos: `peptideo`, `incretina`, `retatrutida`, `aas`, `sarms`
-- Prática: `ciclo`, `pct`, `treino`, `nutricao`, `exames`, `mulher`
+- Prática: `ciclo`, `pct`, `treino`, `nutricao`, `exames`, `mulher`, `longevidade`, `pessoal`
 - Meta: `farmacologia`, `genetica`, `limite`, `controversia`, `clip`, `podcast`
 
 ## Page thresholds
@@ -89,6 +89,8 @@ Usar só estas tags. Se faltar uma, acrescentar aqui primeiro.
 | `genetica` | `temas/genetica.md` | polimorfismos, resposta individual |
 | `mulher` | `temas/mulher.md` | farmacologia / preparo feminino |
 | `farmacologia-geral` | `temas/farmacologia-geral.md` | mecanismos, PK/PD, aula transversal |
+| `longevidade` | `temas/longevidade.md` | Klotho, SIRT, NNMT, longevidade |
+| `pessoal` | `temas/pessoal.md` | vlog, família — não é aula |
 
 ## Update policy
 

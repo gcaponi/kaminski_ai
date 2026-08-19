@@ -7,14 +7,14 @@ published: 2026-02-02
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 329
-temas: [_inbox]
+temas: [exames-e-saude]
 sha256: c74bcc50d8dd75b27da7266c7fa41c5586f2b5a67b0407280194c008cbbff19a
 ---
 
 # SE SENTE CANSADO E SEM ENERGIA? FAÇA ISSO!
 
 - Fonte: https://www.youtube.com/watch?v=n2GjLb-uI1A
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[exames-e-saude]] · [[gabriel-kaminski]]
 
 ## Transcript
 

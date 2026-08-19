@@ -7,14 +7,14 @@ published: 2025-12-24
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 728
-temas: [_inbox]
+temas: [nutricao]
 sha256: 7c9ff8dd47651f7fd96ab267f9376b76005ee3fb66e0d013e890aedd13b02596
 ---
 
 # COMIDA DE VERDADE QUE DURA 1 ANO FORA DA GELADEIRA
 
 - Fonte: https://www.youtube.com/watch?v=hE-GCWW2W1Q
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[nutricao]] · [[gabriel-kaminski]]
 
 ## Transcript
 

@@ -7,14 +7,14 @@ published: 2026-03-16
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 741
-temas: [_inbox]
+temas: [exames-e-saude, hormonio-de-crescimento]
 sha256: a054c1f3d573331bcb60be7949a3ec0d3b19083ef5a369bf963b2a18f8a83438
 ---
 
 # É ISSO QUE FAZ VOCCÊ VOLTAR A TREINAR SEM DOR!
 
 - Fonte: https://www.youtube.com/watch?v=-AHaoaJB5B8
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[exames-e-saude]] · [[hormonio-de-crescimento]] · [[gabriel-kaminski]]
 
 ## Transcript
 

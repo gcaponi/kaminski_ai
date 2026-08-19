@@ -7,14 +7,14 @@ published: 2026-04-30
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 362
-temas: [_inbox]
+temas: [mulher, nutricao]
 sha256: f085480129fccfdff80a4464ef1d6612a80b4e6dc6fc9ebf834ed26a6599e255
 ---
 
 # GRÁVIDA PODE TOMAR CREATINA?
 
 - Fonte: https://www.youtube.com/watch?v=HF92xlNC5IU
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[nutricao]] · [[gabriel-kaminski]]
 
 ## Transcript
 

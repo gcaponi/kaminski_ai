@@ -7,14 +7,14 @@ published: 2026-04-20
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 772
-temas: [_inbox]
+temas: [farmacologia-geral, exames-e-saude]
 sha256: 49000e0a62b74fc3e36c425b403844e2b1cd8d233fc84b9eddffa02ec31d0e54
 ---
 
 # COMO A INTERLEUCINA 6 ATUA PARA MEDIA INFLAMAÇÕES
 
 - Fonte: https://www.youtube.com/watch?v=eUf8FpuCgzU
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[farmacologia-geral]] · [[exames-e-saude]] · [[gabriel-kaminski]]
 
 ## Transcript
 

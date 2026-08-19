@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Catálogo. Toda página wiki aparece aqui, com uma linha de resumo.
-> Last updated: 2026-08-19 | Total pages: 17
+> Last updated: 2026-08-19 | Total pages: 19
 
 ## Entities
 
@@ -24,7 +24,9 @@
 - [[genetica]] — resposta individual
 - [[mulher]] — farmacologia / preparo feminino
 - [[farmacologia-geral]] — mecanismos e aulas transversais
+- [[longevidade]] — Klotho, SIRT, NNMT
+- [[pessoal]] — vlog / família
 
 ## Transcripts
 
-Nenhum ainda. Catalogo oficial: 67 vídeos em `video.txt` (`@kaminskilab/videos`). Sem Shorts.
+67 vídeos oficiais em `raw/transcripts/`. Classificação automática via `scripts/classify.py`. Novos arquivos: `raw/inbox/`.

@@ -7,14 +7,14 @@ published: 2026-01-04
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 499
-temas: [_inbox]
+temas: [farmacologia-geral]
 sha256: 785f330c0f08771e97937aa86f738e270a0eee1c3a48b85635c6b71c24bdd5a8
 ---
 
 # AS MOLÉCULAS QUE VÃO MUDAR O METABOLISMO HUMANO
 
 - Fonte: https://www.youtube.com/watch?v=SS0auWj03P4
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[farmacologia-geral]] · [[gabriel-kaminski]]
 
 ## Transcript
 

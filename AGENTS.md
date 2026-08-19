@@ -28,13 +28,11 @@ Workspace: vault-wiki delle trascrizioni di Gabriel Kaminski.
 
 ## Ingest
 
-Automatico dalla VPS. YouTube blocca gli IP datacenter: usiamo i cookie del Chrome Profile 3 già loggato, un caption `pt-orig` per video, con pausa anti-429.
+Automatico. YouTube: `scripts/ingest_ytdlp.py`. File lasciati in `raw/inbox/`: `scripts/ingest_inbox.py` poi `scripts/classify.py`.
 
-```bash
-uv run python scripts/ingest_ytdlp.py video.txt
-```
+Classificare solo con `scripts/themes.py` (tassonomia chiusa). Se manca un tema, aggiungerlo lì e in SCHEMA.md prima di usarlo.
 
-Poi classificare i nuovi file in `raw/transcripts/` collegandoli ai temi.
+Poi aggiornare `index.md` e `log.md`.
 
 ## Query
 

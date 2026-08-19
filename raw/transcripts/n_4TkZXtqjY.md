@@ -7,14 +7,14 @@ published: 2025-11-21
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 115
-temas: [_inbox]
+temas: [mulher, nutricao]
 sha256: 557e25771c9df538d12d6e9771852039db46d0f62c172a80137b1aff83bc45d5
 ---
 
 # POR QUE HÁBITOS E SUPLEMENTOS FAZEM TANTA DIFERENÇA - SUPLEMENTAÇÃO NO CLIMATÉRIO E NA MENOPAUSA
 
 - Fonte: https://www.youtube.com/watch?v=n_4TkZXtqjY
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[nutricao]] · [[gabriel-kaminski]]
 
 ## Transcript
 

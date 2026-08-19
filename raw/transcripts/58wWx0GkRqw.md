@@ -7,14 +7,14 @@ published: 2026-01-22
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 309
-temas: [_inbox]
+temas: [nutricao]
 sha256: 2080130b5f427f7c8662f694603d1a77b8b6663d6c9c777f0bce3cc5e2a06649
 ---
 
 # VIVE DOENTE E CANSADO? SAIBA COMO RESOLVER ISSO!
 
 - Fonte: https://www.youtube.com/watch?v=58wWx0GkRqw
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[nutricao]] · [[gabriel-kaminski]]
 
 ## Transcript
 

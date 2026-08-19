@@ -7,14 +7,14 @@ published: 2026-08-10
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 385
-temas: [_inbox]
+temas: [nutricao]
 sha256: f7e64a1b0573c8069ae10689f86db12bfaffbafd28d1ebebf5041d66edf99ce4
 ---
 
 # SUPLEMENTAÇÃO PROTEICA: O QUE VOCÊ PRECISA SABER
 
 - Fonte: https://www.youtube.com/watch?v=mWVZDliSzHk
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[nutricao]] · [[gabriel-kaminski]]
 
 ## Transcript
 

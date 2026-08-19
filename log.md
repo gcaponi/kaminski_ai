@@ -31,3 +31,9 @@
 
 - Chiusi gli 8 mancanti
 - `AdUQmiPvq5Q` (AS MENINAS NASCERAM): niente pt-orig, solo ASR inglese scarsa
+
+## [2026-08-19] classify | regole automatiche
+
+- `scripts/themes.py` + `scripts/classify.py` + `scripts/ingest_inbox.py`
+- Kaminski lascia file in `raw/inbox/` (PDF/PPT/Word/txt)
+- 67 video etichettati; `_inbox` vuoto dopo correzione accenti

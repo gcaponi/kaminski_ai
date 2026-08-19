@@ -7,14 +7,14 @@ published: 2026-04-16
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 310
-temas: [_inbox]
+temas: [mulher, nutricao]
 sha256: 3ce7c28041a66b56e2d69a4c4cbb0dc1cd11420629ec83d262ac60485dbdcf5a
 ---
 
 # TOMAR CAFÉ NA GESTAÇÃO FAZ MAL?
 
 - Fonte: https://www.youtube.com/watch?v=gYRnbyt6rac
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[nutricao]] · [[gabriel-kaminski]]
 
 ## Transcript
 

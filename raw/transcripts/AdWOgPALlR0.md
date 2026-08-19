@@ -7,14 +7,14 @@ published: 2025-10-07
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 235
-temas: [_inbox]
+temas: [farmacologia-geral]
 sha256: 1c64723773e13b1426427c13be2315c4e909eef29138a4d05921e014d0f5cc69
 ---
 
 # COMO RETINÓIDES E LUZ SOLAR MELHORAM SUA PELE
 
 - Fonte: https://www.youtube.com/watch?v=AdWOgPALlR0
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[farmacologia-geral]] · [[gabriel-kaminski]]
 
 ## Transcript
 

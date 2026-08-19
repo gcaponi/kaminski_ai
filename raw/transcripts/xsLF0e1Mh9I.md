@@ -7,14 +7,14 @@ published: 2025-10-30
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 300
-temas: [_inbox]
+temas: [incretinas]
 sha256: c0150c44c9b959c9ccf9875e1a25ecf6b43b3dd4e143944074d7a1cd7e717440
 ---
 
 # FIM DA BARIÁTRICA? COMO PERDER 25% DO PESO EM 1 ANO
 
 - Fonte: https://www.youtube.com/watch?v=xsLF0e1Mh9I
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[incretinas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

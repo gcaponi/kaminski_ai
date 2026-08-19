@@ -7,14 +7,14 @@ published: 2026-04-13
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 320
-temas: [_inbox]
+temas: [mulher]
 sha256: c9afcb07a0d28fbfe27e8232ee6a13489bda664fc2a9d3c7eace2cf90c6bcc58
 ---
 
 # EXERCÍCIO FÍSICO NA GESTAÇÃO PODE CAUSAR ABORTO?
 
 - Fonte: https://www.youtube.com/watch?v=ydRdkxWnN38
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[gabriel-kaminski]]
 
 ## Transcript
 

@@ -7,14 +7,14 @@ published: 2026-07-21
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 365
-temas: [_inbox]
+temas: [farmacologia-geral, nutricao]
 sha256: c13483a4fc6f1d779ab75940e0fc77966d00c8eb4ff61a5a86e5f0338c86a86b
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE A TERMOGÊNESE
 
 - Fonte: https://www.youtube.com/watch?v=JKKpkBdZRP0
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[farmacologia-geral]] · [[nutricao]] · [[gabriel-kaminski]]
 
 ## Transcript
 

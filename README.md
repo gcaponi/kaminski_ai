@@ -62,15 +62,19 @@ Non serve lanciare script sul laptop.
 
 ---
 
-## Ingest (solo VPS)
+## Ingest (solo VPS / agente)
 
-YouTube blocca gli IP da datacenter. Sulla VPS usiamo i cookie del Chrome già loggato (Profile 3), un caption `pt-orig` per video, con pausa anti-429.
+YouTube: `scripts/ingest_ytdlp.py` (cookie Chrome VPS, caption `pt-orig`).
+
+Classificazione: `scripts/classify.py` — regole fisse, niente tabella manuale.
+
+File nuovi di Kaminski: lui li lascia in `raw/inbox/`. L'agente lancia:
 
 ```bash
-python scripts/ingest_ytdlp.py video.txt
+python scripts/ingest_inbox.py
 ```
 
-Il parser tiene anche le ultime parole del caption (le auto-caption YouTube le lasciano solo sull’ultimo cue).
+Supportati: txt, md, pdf, pptx, docx.
 
 ---
 

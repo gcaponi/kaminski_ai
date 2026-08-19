@@ -22,4 +22,5 @@ Fonte: [[gabriel-kaminski]]
 
 ## Vídeos
 
-Nenhum ainda.
+- [[Kq40hzsRG8A]] — EIXO TIREOIDIANO: O QUE VOCÊ PRECISA ENTENDER
+- [[gkSQDBXmqms]] — FAZ TUDO CORRETO E VIVE SEM LIBIDO? O QUE FAZER?

@@ -7,14 +7,14 @@ published: 2025-08-28
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 274
-temas: [_inbox]
+temas: [treino]
 sha256: acde1bdd55b14fd1ecef3b4de893aea38a54275d1e8b2aa4a1d53c1ab0cbac47
 ---
 
 # VOU SAIR DE 120KG E METER O SHAPE - PROJETO SHAPE DE PAI EP #01
 
 - Fonte: https://www.youtube.com/watch?v=k21RTgR6NHY
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[treino]] · [[gabriel-kaminski]]
 
 ## Transcript
 

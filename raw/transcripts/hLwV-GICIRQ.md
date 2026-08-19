@@ -7,14 +7,14 @@ published: 2026-01-28
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 329
-temas: [_inbox]
+temas: [longevidade, exames-e-saude, farmacologia-geral]
 sha256: 03303a6389fc86f0ee16168289a521a779ecd608b0fae27fd26fa00fb98286a2
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE A NATTOKINASE
 
 - Fonte: https://www.youtube.com/watch?v=hLwV-GICIRQ
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[longevidade]] · [[exames-e-saude]] · [[farmacologia-geral]] · [[gabriel-kaminski]]
 
 ## Transcript
 

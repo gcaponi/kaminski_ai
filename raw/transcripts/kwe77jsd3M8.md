@@ -7,14 +7,14 @@ published: 2025-12-12
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 396
-temas: [_inbox]
+temas: [hormonio-de-crescimento, peptideos]
 sha256: 37a4caf2bf1ea5d31db8eb853b664818875512a4e186696f6e38ef1672ba5918
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE A TESAMORELINA
 
 - Fonte: https://www.youtube.com/watch?v=kwe77jsd3M8
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[hormonio-de-crescimento]] · [[peptideos]] · [[gabriel-kaminski]]
 
 ## Transcript
 

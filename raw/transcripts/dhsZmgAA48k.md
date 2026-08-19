@@ -7,14 +7,14 @@ published: 2026-03-30
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 344
-temas: [_inbox]
+temas: [incretinas, peptideos]
 sha256: 6fd40f04a0e2522e3a768a551ee408f0cd29e9a97e3fe23f0d3a87e80af38ffa
 ---
 
 # MOTS-C VS RETATRUTIDA: QUAL É MELHOR?
 
 - Fonte: https://www.youtube.com/watch?v=dhsZmgAA48k
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[incretinas]] · [[peptideos]] · [[gabriel-kaminski]]
 
 ## Transcript
 

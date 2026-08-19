@@ -7,14 +7,14 @@ published: 2025-12-19
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 352
-temas: [_inbox]
+temas: [peptideos]
 sha256: dc409d627099c7592884397129b0a2fccb8aa2d8a452d15086377385e0577994
 ---
 
 # TUDO QUE VOCÊ PRECISA saber SOBRE ELAMIPRETIDE - SS-31
 
 - Fonte: https://www.youtube.com/watch?v=CZV3my0fTuI
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[peptideos]] · [[gabriel-kaminski]]
 
 ## Transcript
 

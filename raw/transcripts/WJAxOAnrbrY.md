@@ -7,14 +7,14 @@ published: 2025-12-05
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 297
-temas: [_inbox]
+temas: [mulher, exames-e-saude, hormonio-de-crescimento]
 sha256: 10bbc8f08b8feba5fd28914e2f9a727e64b64c8c12d833802906989ff5fb5e57
 ---
 
 # FAZER REPOSIÇÃO HORMONAL É SEGURO?
 
 - Fonte: https://www.youtube.com/watch?v=WJAxOAnrbrY
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[exames-e-saude]] · [[hormonio-de-crescimento]] · [[gabriel-kaminski]]
 
 ## Transcript
 

@@ -7,14 +7,14 @@ published: 2026-02-23
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 431
-temas: [_inbox]
+temas: [incretinas]
 sha256: 0ec6f0448c436ce7067c7543a8b9c0aec0933bd087a08c67a91f04207ee4911b
 ---
 
 # ISSO É MELHOR QUE OZEMPIC E MOUNJARO!?
 
 - Fonte: https://www.youtube.com/watch?v=_bQetGxk1ZI
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[incretinas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

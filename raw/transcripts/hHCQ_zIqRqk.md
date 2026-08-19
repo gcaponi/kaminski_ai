@@ -7,14 +7,14 @@ published: 2026-02-26
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 431
-temas: [_inbox]
+temas: [incretinas]
 sha256: a016dc1274fb95602ac1431ab103880841d75cfdfe066b02b33adb8e8c0be8c8
 ---
 
 # OZEMPIC, MOUNJARO E RETATRUTIDA: O QUE VOCÊ PRECISA SABER!
 
 - Fonte: https://www.youtube.com/watch?v=hHCQ_zIqRqk
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[incretinas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

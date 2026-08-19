@@ -7,14 +7,14 @@ published: 2026-06-22
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 410
-temas: [_inbox]
+temas: [testosterona, mulher]
 sha256: e778b21555fc5b9ba01b48ec1dcf369cde5f11bbe63343b96ef1a08e3861dea7
 ---
 
 # TUDO QUE NÃO TE CONTARAM SOBRE HCG
 
 - Fonte: https://www.youtube.com/watch?v=hftqDJ74u6I
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[testosterona]] · [[mulher]] · [[gabriel-kaminski]]
 
 ## Transcript
 

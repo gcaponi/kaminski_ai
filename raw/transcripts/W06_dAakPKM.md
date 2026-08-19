@@ -7,14 +7,14 @@ published: 2026-04-23
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 783
-temas: [_inbox]
+temas: [treino]
 sha256: f6a1d267300142d10e34685a4b4c1190a984b51f6d301cd3f24dc74d8902b223
 ---
 
 # TREINÃO DE PEITO COM FRANCISCON NA OFICIAL FARMA
 
 - Fonte: https://www.youtube.com/watch?v=W06_dAakPKM
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[treino]] · [[gabriel-kaminski]]
 
 ## Transcript
 

@@ -7,14 +7,14 @@ published: 2026-04-27
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 726
-temas: [_inbox]
+temas: [longevidade, farmacologia-geral, nutricao]
 sha256: 6fa52d09002c8f31f5a741ac6b2e05742d911c679adfa1bc9fcfbefc667bbc60
 ---
 
 # TUDO  QUE VOCÊ PRECISA SABER SOBRE SIR2
 
 - Fonte: https://www.youtube.com/watch?v=piEDlYidDTs
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[longevidade]] · [[farmacologia-geral]] · [[nutricao]] · [[gabriel-kaminski]]
 
 ## Transcript
 

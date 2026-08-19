@@ -7,14 +7,14 @@ published: 2026-08-04
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 423
-temas: [_inbox]
+temas: [nutricao]
 sha256: ef33c6d5853d19af7dd14d4828f542730145bf060e4be1050f31e09c0d942db9
 ---
 
 # O QUE NÃO TE CONTARAM SOBRE ESTRATÉGIA DE EMAGRECIMENTO
 
 - Fonte: https://www.youtube.com/watch?v=g5SCjTFdYNk
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[nutricao]] · [[gabriel-kaminski]]
 
 ## Transcript
 

@@ -7,14 +7,14 @@ published: 2025-09-09
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 312
-temas: [_inbox]
+temas: [peptideos, hormonio-de-crescimento, incretinas]
 sha256: d55858ed54411a382aa9b2b05e2cb4bde33d675b211147f6d4a4a737a4b93f97
 ---
 
 # O QUE SÃO PEPTÍDEOS
 
 - Fonte: https://www.youtube.com/watch?v=qdB5hpBqnrY
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[peptideos]] · [[hormonio-de-crescimento]] · [[incretinas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

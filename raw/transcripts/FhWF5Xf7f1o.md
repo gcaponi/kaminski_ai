@@ -7,14 +7,14 @@ published: 2025-09-26
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 212
-temas: [_inbox]
+temas: [esteroides-aas]
 sha256: 0c0bd66afe02c6425ce26933cc70c2775cd3b5d47234e3707607767d3fb4c032
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE A OXANDROLONA
 
 - Fonte: https://www.youtube.com/watch?v=FhWF5Xf7f1o
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[esteroides-aas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

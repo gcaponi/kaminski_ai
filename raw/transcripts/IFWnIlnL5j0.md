@@ -7,14 +7,14 @@ published: 2025-09-13
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 336
-temas: [_inbox]
+temas: [farmacologia-geral]
 sha256: 18f221a2c7e975467ff35183da0e739811395831ac4a82e0a00f62b9e418cb96
 ---
 
 # O QUE HÁ DE MAIS MODERNO NA REGENERAÇÃO TECIDUAL
 
 - Fonte: https://www.youtube.com/watch?v=IFWnIlnL5j0
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[farmacologia-geral]] · [[gabriel-kaminski]]
 
 ## Transcript
 

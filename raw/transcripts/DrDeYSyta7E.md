@@ -7,14 +7,14 @@ published: 2026-07-06
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 353
-temas: [_inbox]
+temas: [esteroides-aas]
 sha256: a58d2a365279d4569f811f5bae441fae423576996bce9940d178e8862d2d5b6a
 ---
 
 # O QUE VOCÊ PRECISA SABER SOBRE A BOLDENONA
 
 - Fonte: https://www.youtube.com/watch?v=DrDeYSyta7E
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[esteroides-aas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

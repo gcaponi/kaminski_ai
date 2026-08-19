@@ -7,14 +7,14 @@ published: 2026-03-26
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 1398
-temas: [_inbox]
+temas: [treino]
 sha256: cdf406853a73279eb4afe3a22d045819d3e52a7ec2c56f998f0132ec8dc88bec
 ---
 
 # TREINO DE RESPEITO COM PACHO E O GABRIEL FRANCISCON - PROJETO SHAPE DE PAI #2
 
 - Fonte: https://www.youtube.com/watch?v=2O_oTGVW6Pg
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[treino]] · [[gabriel-kaminski]]
 
 ## Transcript
 

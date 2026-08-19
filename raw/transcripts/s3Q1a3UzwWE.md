@@ -7,14 +7,14 @@ published: 2026-05-07
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 1277
-temas: [_inbox]
+temas: [treino]
 sha256: 4fde6c63c4fca52227a9d73c63d5cec793686d375bc3e6174c7eee1122ac4475
 ---
 
 # FIZ UM TREINO INTENSO COM O PACHO NO CT DA OFICIAL
 
 - Fonte: https://www.youtube.com/watch?v=s3Q1a3UzwWE
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[treino]] · [[gabriel-kaminski]]
 
 ## Transcript
 

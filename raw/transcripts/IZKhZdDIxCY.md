@@ -7,14 +7,14 @@ published: 2026-01-30
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 408
-temas: [_inbox]
+temas: [exames-e-saude, farmacologia-geral, esteroides-aas]
 sha256: fc952f3f2e929a9f07eb801c80af2d6a8969e06671dae92dfb180a00e1ebabd8
 ---
 
 # SEU CORAÇÃO CORRE SÉRIOS RISCOS FAZENDO ISSO
 
 - Fonte: https://www.youtube.com/watch?v=IZKhZdDIxCY
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[exames-e-saude]] · [[farmacologia-geral]] · [[esteroides-aas]] · [[gabriel-kaminski]]
 
 ## Transcript
 

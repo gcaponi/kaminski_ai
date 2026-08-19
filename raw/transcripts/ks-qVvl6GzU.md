@@ -7,14 +7,14 @@ published: 2026-01-09
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 509
-temas: [_inbox]
+temas: [hormonio-de-crescimento, peptideos]
 sha256: c1bc6db04091261069d9e291da922814e8365843592b5a3a9dbb52cf13f6e93e
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE OS GHRP's
 
 - Fonte: https://www.youtube.com/watch?v=ks-qVvl6GzU
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[hormonio-de-crescimento]] · [[peptideos]] · [[gabriel-kaminski]]
 
 ## Transcript
 

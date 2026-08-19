@@ -7,7 +7,7 @@ published: 2026-01-21
 ingested: 2026-08-19
 language: en
 duration_s: 121
-temas: [_inbox]
+temas: [pessoal]
 sha256: 96ed238b2efd2a0d6649ad4a102194f356683a483a99a7aa06ee4dde6a829dea
 caption_note: "no pt-orig; YouTube ASR en-orig only, low quality (vlog)"
 ---
@@ -15,7 +15,7 @@ caption_note: "no pt-orig; YouTube ASR en-orig only, low quality (vlog)"
 # AS MENINAS NASCERAM!
 
 - Fonte: https://www.youtube.com/watch?v=AdUQmiPvq5Q
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[pessoal]] · [[gabriel-kaminski]]
 
 ## Transcript
 

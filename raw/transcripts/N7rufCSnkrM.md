@@ -7,14 +7,14 @@ published: 2025-11-14
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 246
-temas: [_inbox]
+temas: [esteroides-aas, mulher]
 sha256: 22bde20d6e180a3d5144ba4174307314f38eec63b28647b9221282b390f90c7f
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE O MASTERON
 
 - Fonte: https://www.youtube.com/watch?v=N7rufCSnkrM
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[esteroides-aas]] · [[mulher]] · [[gabriel-kaminski]]
 
 ## Transcript
 

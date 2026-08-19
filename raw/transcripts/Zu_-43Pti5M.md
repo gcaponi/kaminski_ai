@@ -7,14 +7,14 @@ published: 2026-06-29
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 425
-temas: [_inbox]
+temas: [peptideos, mulher]
 sha256: 0684b6aaec605838f872bf9e9548029c4d502fd7f783b4c4864141aa88ae447a
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE O PT141
 
 - Fonte: https://www.youtube.com/watch?v=Zu_-43Pti5M
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[peptideos]] · [[mulher]] · [[gabriel-kaminski]]
 
 ## Transcript
 

@@ -7,14 +7,14 @@ published: 2026-03-10
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 1764
-temas: [_inbox]
+temas: [mulher, nutricao, exames-e-saude]
 sha256: 060fc996755861a3289174e18867c8c65c421af4a96d5c31439dd925ac912e7a
 ---
 
 # TALK SOBRE MATERNIDADE COM CAROL SARAIVA
 
 - Fonte: https://www.youtube.com/watch?v=hT-4do6J-bM
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[nutricao]] · [[exames-e-saude]] · [[gabriel-kaminski]]
 
 ## Transcript
 

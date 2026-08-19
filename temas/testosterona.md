@@ -22,4 +22,4 @@ Fonte: [[gabriel-kaminski]]
 
 ## Vídeos
 
-Nenhum ainda.
+- [[hftqDJ74u6I]] — TUDO QUE NÃO TE CONTARAM SOBRE HCG

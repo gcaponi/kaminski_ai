@@ -7,14 +7,14 @@ published: 2026-06-01
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 395
-temas: [_inbox]
+temas: [longevidade]
 sha256: e752d8203a21f92cfaeb51dded3aee159b75a7189cbb1dbaae186df7803abe1a
 ---
 
 # TUDO QUE VOCÊ PRECISA SABER SOBRE A IRISINA
 
 - Fonte: https://www.youtube.com/watch?v=JTmy36LRb1Q
-- Temas: [[_inbox]] · [[gabriel-kaminski]]
+- Temas: [[longevidade]] · [[gabriel-kaminski]]
 
 ## Transcript
 
