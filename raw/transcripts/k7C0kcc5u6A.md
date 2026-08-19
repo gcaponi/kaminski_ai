@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=k7C0kcc5u6A
 youtube_id: k7C0kcc5u6A
 title: "CJC-1295 E IPAMORELINA: O QUE NÃO TE CONTAM"
@@ -20,7 +21,7 @@ sha256: 93b72d213b4fa81cacf50451d07b6fe3f562900b95a565408dd90f7706c0a937
 
 Você já ouviu falar em CJC 1295 e IPAIN? Ou talvez em CJC combinado com GHRP2 ou GHRP6. Essas combinações estão entre as mais usadas em protocolos de modulação hormonal e regeneração celular, mas muita gente aplica sem entender o porquê de associar essas moléculas, ou pior, sem saber a diferença entre o CJ com DAC e sem DAC. Hoje eu vou te explicar com base bioquímica como cada uma dessas combinações funciona, qual o papel do CJC 1295, como ele interage com os GHPs e qual combinação faz mais sentido para longevidade, recomposição corporal ou performance.
 
-Mas antes, aproveita para se inscrever no canal, ativar as notificações e curtir esse vídeo pro YouTube recomendar para você mais conteúdo semelhante. Eu sou o Dr. Gabriel Caminski, farmacêutico bioquímico, PhD em Ciências Farmacêuticas. E aqui no canal a gente fala de bioquímica aplicada à performance, com precisão científica e foco em equilíbrio hormonal.
+Mas antes, aproveita para se inscrever no canal, ativar as notificações e curtir esse vídeo pro YouTube recomendar para você mais conteúdo semelhante. Eu sou o Dr. Gabriel Kaminski, farmacêutico bioquímico, PhD em Ciências Farmacêuticas. E aqui no canal a gente fala de bioquímica aplicada à performance, com precisão científica e foco em equilíbrio hormonal.
 
 O GH, o hormônio do crescimento, é produzido pela hipófise anterior em pulsos, ou seja, ele não é secretado de forma constante, mas em picos ao longo do dia, principalmente durante o sono profundo e após o treino. Quem controla isso é GHRH, o hormônio liberador do GH que é produzido no hipotálamo. Ele envia o sinal pra hipófise liberar o GH, mas ao mesmo tempo existe a somatostatina que inibe essa liberação. O equilíbrio entre essas duas forças de HRH e somatostatina define o quanto de HH o corpo vai produzir em cada pulso.
 

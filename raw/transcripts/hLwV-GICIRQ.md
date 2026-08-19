@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=hLwV-GICIRQ
 youtube_id: hLwV-GICIRQ
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE A NATTOKINASE"
@@ -20,7 +21,7 @@ sha256: 28e70b94ac119ab289303c98330d615099c95fd6c4e345d1373802da9c86ddd8
 
 Você provavelmente já ouviu falar alguém dizer que o sangue grosso é o preço da força. E quem usa esteroides anabolizantes sabe bem do que eu estou falando. Aquela sensação de pressão alta, batimentos mais fortes e exames mostrando o hematócrito nas alturas, LDL subindo, o coração trabalhando mais pesado. Mas o que pouca gente sabe é que existe uma ferramenta natural, segura e extremamente bem estudada, que pode normalizar a fluidez do sangue, reduzir o risco de microcoágulos, proteger o endotélio e até reverter placas de ateroma iniciais.
 
-O nome dela é Natoquinas, uma enzima fibrinolítica derivada do nato, um alimento fermentado japonês e que hoje é uma das moléculas mais interessantes na interseção entre performance, saúde cardiovascular e longevidade. Hoje eu vou te explicar como ela funciona, porque ela é essencial para atletas em uso de esteroides anabolizantes e porque o seu uso vem crescendo também entre quem busca prevenção vascular, melhor fluidez sanguínea e regeneração endotelial. Eu sou o Dr. Gabriel Caminski, farmacêutico bioquímico, PhD em Ciências Farmacêuticas.
+O nome dela é Natoquinas, uma enzima fibrinolítica derivada do nato, um alimento fermentado japonês e que hoje é uma das moléculas mais interessantes na interseção entre performance, saúde cardiovascular e longevidade. Hoje eu vou te explicar como ela funciona, porque ela é essencial para atletas em uso de esteroides anabolizantes e porque o seu uso vem crescendo também entre quem busca prevenção vascular, melhor fluidez sanguínea e regeneração endotelial. Eu sou o Dr. Gabriel Kaminski, farmacêutico bioquímico, PhD em Ciências Farmacêuticas.
 
 E aqui no canal a gente fala de bioquímica aplicada a performance e longevidade com base científica e sem modismo, sem achismo. Quando você usa esteroides anabolizantes, o corpo responde aumentando a eritropoese, ou seja, ele fabrica mais glóbulos vermelhos. Isso é ótimo para transporte de oxigênio, mas péssimo pra viscosidade sanguínea. O hematócrito acima de 54% já começa a comprometer o fluxo microvascular.
 
@@ -40,4 +41,4 @@ Isso coloca a toquinase como uma opção segura para o uso em atletas, indivídu
 
 O único efeito relatado ocasionalmente é leve redução da pressão em indivíduos hipersensíveis, algo benéfico para quem está hipertente por conta dos esteroides anabolizantes. Anatoquinase é mais do que um suplemento. É uma ferramenta bioquímica de longevidade para quem exige mais do corpo e quer continuar performando com segurança. Eu sou o Dr.
 
-Gabriel Camiski. E aqui no canal, a gente vive 10 anos à frente da ciência, entendendo que longevidade não é só viver mais, é viver com fluxo, energia e coerência bioquímica. Se inscreva no canal, ativa o sininho e me siga no Instagram @camiscão, porque o futuro da performance está no sangue.
+Gabriel Kaminski. E aqui no canal, a gente vive 10 anos à frente da ciência, entendendo que longevidade não é só viver mais, é viver com fluxo, energia e coerência bioquímica. Se inscreva no canal, ativa o sininho e me siga no Instagram @kaminskao, porque o futuro da performance está no sangue.

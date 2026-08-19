@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=rlntJ9Kaf8g
 youtube_id: rlntJ9Kaf8g
 title: "PRINCIPAIS SUPLEMENTOS PARA LONGEVIDADE"
@@ -22,7 +23,7 @@ Você já percebeu como o mercado de longevidade mudou durante anos? O foco era 
 
 Perda de nademais, queda das cirtuínas, acúmulo de células senescentes, células idosas, colapso mitocondrial e falha nos mecanismos de autofagia, que é a morte programada das células. A nova fronteira da longevidade não é estética, é bioquímica celular. E neste vídeo eu vou te mostrar os principais suplementos com base científica que atuam diretamente nesses mecanismos. Os boosters de nadimais, os ativadores de cirtuínas, os senolíticos, otimizadores de gluta os indutores de autofagia e os ativadores de AMPK, a enzima que literalmente comanda o metabolismo da juventude.
 
-Eu sou o Dr. Gabriel Caminsk, farmacêutico bioquímico, PhD em Ciências Farmacêuticas e aqui no canal a gente fala de bioquímica aplicada performance e longevidade, sempre com base científica e sem promessas vazias. O nad é o cofator mais importante do metabolismo celular. Sem NADA, a mitocôndria não gera energia, as cirtuínas não funcionam e o DNA não é reparado.
+Eu sou o Dr. Gabriel Kaminski, farmacêutico bioquímico, PhD em Ciências Farmacêuticas e aqui no canal a gente fala de bioquímica aplicada performance e longevidade, sempre com base científica e sem promessas vazias. O nad é o cofator mais importante do metabolismo celular. Sem NADA, a mitocôndria não gera energia, as cirtuínas não funcionam e o DNA não é reparado.
 
 O problema é que a partir dos 30 anos, os níveis de nadimais caem até 50% por década. E isso significa menos energia, menos reparo e mais envelhecimento. Aqui entram os Nad mais boosters, substâncias que aumentam os níveis intracelulares de NAD mais. NMn, a nicotinamida mononucleotídio.
 
@@ -42,4 +43,4 @@ A gluta é o antioxidante mestre do corpo humano. Ela neutraliza radicais livres
 
 Ela também protege o coração e o cérebro contra envelhecimento precoce e melhora a função mitocondrial. Por fim, temos a AMPK, uma enzima que age como um sensor energético do corpo. Quando o nível de energia cai, a MPK é ativada para aumentar a oxidação de gordura, melhorar a sensibilidade à insulina e estimular autofagia. Eu sou o Dr.
 
-Gabriel Kaminsk e aqui no canal você aprende a usar a bioquímica para performar melhor, viver mais e envelhecer com coerência celular. Se inscreva no canal, ativa o sininho e me segue no Instagram @caminscão, porque aqui a gente vive 10 anos à frente da ciência e o futuro da saúde começa dentro das suas mitocôndrias. M.
+Gabriel Kaminski e aqui no canal você aprende a usar a bioquímica para performar melhor, viver mais e envelhecer com coerência celular. Se inscreva no canal, ativa o sininho e me segue no Instagram @kaminskao, porque aqui a gente vive 10 anos à frente da ciência e o futuro da saúde começa dentro das suas mitocôndrias. M.

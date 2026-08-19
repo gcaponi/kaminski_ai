@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=Kq40hzsRG8A
 youtube_id: Kq40hzsRG8A
 title: "EIXO TIREOIDIANO: O QUE VOCÊ PRECISA ENTENDER"

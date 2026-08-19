@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=-AHaoaJB5B8
 youtube_id: -AHaoaJB5B8
 title: "É ISSO QUE FAZ VOCCÊ VOLTAR A TREINAR SEM DOR!"
@@ -76,10 +77,10 @@ E isso conecta com o debate de crioterapia e ais. São ferramentas de sintoma, n
 
 O canteiro trabalha à noite e aqui eu falo de higiene do sono, apneia, álcool, horários, luz, cafeína e não necessariamente de empilhar secretagogos de GH. Quinto, nutrição de reparo. Colágeno e matriz extracelular exigem aminoácido, vitamina C, cobre, zinco, manganês e energia total suficiente. Você pode ter o melhor petídio no mundo, mas se você está em déficit calórico, agressivo e dormindo mal, a obra não entrega.
 
-Então, no Caminskab, o posicionamento mais forte, mais honesto e mais científico de verdade é: existe uma lógica de engenharia de reparo, aumentar o suprimento, melhorar sinalização, melhorar a qualidade da matriz e garantir um ambiente noturno de recuperação. Algumas moléculas experimentais têm sinais pré-clínicos interessantes, mas o nível de evidência humana ainda não acompanha o marketing. Portanto, se alguém for explorar, deve ser sob super supervisão, entendendo o risco, legalidade, dopping e, principalmente, sem abandonar o básico, diagnóstico, carga, sono e nutrição. E aqui eu vou colocar a conclusão com a metáfora do canteiro de obras.
+Então, no Kaminski Lab, o posicionamento mais forte, mais honesto e mais científico de verdade é: existe uma lógica de engenharia de reparo, aumentar o suprimento, melhorar sinalização, melhorar a qualidade da matriz e garantir um ambiente noturno de recuperação. Algumas moléculas experimentais têm sinais pré-clínicos interessantes, mas o nível de evidência humana ainda não acompanha o marketing. Portanto, se alguém for explorar, deve ser sob super supervisão, entendendo o risco, legalidade, dopping e, principalmente, sem abandonar o básico, diagnóstico, carga, sono e nutrição. E aqui eu vou colocar a conclusão com a metáfora do canteiro de obras.
 
 Imagine que a sua lesão é uma obra parada. O que a maioria faz é cercar o local com fita e torcer para o prédio se reconstruir sozinho. Isso é o modelo descanso, gelo e anti-inflamatório. Uma abordagem inteligente é montar um plano de obra.
 
 Primeiro entender o que quebrou, depois liberar acesso, depois colocar material certo, depois dosar carga e só então acelerar o turno noturno com sono de qualidade. O protocolo Wolverini de segunda geração tenta ser a equipe completa, mas hoje várias ferramentas desse kit ainda não estão perto do laboratório e do mercado cinza de alguns guidelines clínicos. Se você quer viver sem dor e voltar a performar, você não precisa de misticismo, você precisa de fisiologia aplicada, decisões inteligentes, paciência estratégica. E é isso que a Dra.
 
-Franciele Kaminsk vamos continuar fazendo aqui no Kaminsk Lab. Separar o que é comprovado do que é promissor, do que é pura promessa. E se você quer acompanhar mais conteúdos como esse, não se esqueça de se inscrever no canal, ativar as notificações e deixar um comentário sugerindo o que você quer ver aqui.
+Franciele Conter vamos continuar fazendo aqui no Kaminski Lab. Separar o que é comprovado do que é promissor, do que é pura promessa. E se você quer acompanhar mais conteúdos como esse, não se esqueça de se inscrever no canal, ativar as notificações e deixar um comentário sugerindo o que você quer ver aqui.

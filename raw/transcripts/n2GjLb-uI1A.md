@@ -1,4 +1,5 @@
 ---
+speaker: franciele-conter
 source_url: https://www.youtube.com/watch?v=n2GjLb-uI1A
 youtube_id: n2GjLb-uI1A
 title: "SE SENTE CANSADO E SEM ENERGIA? FAÇA ISSO!"
@@ -14,11 +15,11 @@ sha256: c7383bef112ff29f04c48daba3db1e8f943d298063d714ed212e9bae5a888608
 # SE SENTE CANSADO E SEM ENERGIA? FAÇA ISSO!
 
 - Fonte: https://www.youtube.com/watch?v=n2GjLb-uI1A
-- Temas: [[exames-e-saude]] · [[gabriel-kaminski]]
+- Temas: [[exames-e-saude]] · [[franciele-conter]]
 
 ## Transcript
 
-Se você sente que vive cansado, sem energia, com dificuldade de evoluir no treino, no trabalho ou até na vida, mesmo dormindo, comendo direito e fazendo exames aparentemente normais, existe uma grande chance de problema estar dentro das suas células. Eu sou a Dra. Franciele Kaminski, médica e aqui no canal Kaminski Lab, eu e meu marido Gabriel Kaminski, farmacêutico, trazemos ciência de verdade explicada de forma clara, prática e aplicada à vida real para quem quer entender sobre saúde, performance e longevidade. E hoje eu quero começar esse vídeo te fazendo uma pergunta muito simples, mas extremamente poderosa.
+Se você sente que vive cansado, sem energia, com dificuldade de evoluir no treino, no trabalho ou até na vida, mesmo dormindo, comendo direito e fazendo exames aparentemente normais, existe uma grande chance de problema estar dentro das suas células. Eu sou a Dra. Franciele Conter, médica e aqui no canal Kaminski Lab, eu e meu marido Gabriel Kaminski, farmacêutico, trazemos ciência de verdade explicada de forma clara, prática e aplicada à vida real para quem quer entender sobre saúde, performance e longevidade. E hoje eu quero começar esse vídeo te fazendo uma pergunta muito simples, mas extremamente poderosa.
 
 Você vive cansado porque dorme mal ou você dorme mal porque as suas células estão cansadas? A maioria das pessoas associa cansaço, baixa energia, dificuldade de emagrecer, perda de massa muscular, queda da libido, ansiedade, brain fog, né, falta de foco, apenas a estress, idade ou uma rotina corrida. Mas a verdade é que na base de tudo isso existe uma estrutura microscópica que decide quanto de energia você consegue produzir todos os dias. Essa estrutura se chama mitocôndria.
 

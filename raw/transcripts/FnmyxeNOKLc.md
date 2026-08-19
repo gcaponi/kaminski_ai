@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=FnmyxeNOKLc
 youtube_id: FnmyxeNOKLc
 title: "O QUE REALMENTE É DOENÇA CARDIOVASCULAR?"
@@ -20,7 +21,7 @@ sha256: ee15e77bc0b7f45916fc594e34921b56572de58c2813d1a0324617aec22c9d8b
 
 Doença cardiovascular não começa com infarto, ela começa anos antes, quando o endotélio para de funcionar direito. E a maioria das pessoas ainda pensa que o problema é artéria entupida, como se fosse um encanamento. Não é. Placa é consequência.
 
-O problema real é falência metabólica, inflamação crônica, disfunção mitocondrial. Quando você entende isso, você para de tratar número de exame e começa a tratar o sistema. Eu sou Dr. Gabriel Kaminsk e isso aqui é o Kaminsk.
+O problema real é falência metabólica, inflamação crônica, disfunção mitocondrial. Quando você entende isso, você para de tratar número de exame e começa a tratar o sistema. Eu sou Dr. Gabriel Kaminski e isso aqui é o Kaminsk.
 
 Hoje vou te mostrar o que realmente é doença cardiovascular. Porque diabetes tipo 2 e doença cardiovascular são praticamente a mesma doença? Por que colesterol virou um bode expiatório? E quais intervenções fazem sentido quando você pensa em fisiologia de verdade?
 

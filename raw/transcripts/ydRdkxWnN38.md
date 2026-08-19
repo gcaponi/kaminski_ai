@@ -1,4 +1,5 @@
 ---
+speaker: franciele-conter
 source_url: https://www.youtube.com/watch?v=ydRdkxWnN38
 youtube_id: ydRdkxWnN38
 title: "EXERCÍCIO FÍSICO NA GESTAÇÃO PODE CAUSAR ABORTO?"
@@ -14,7 +15,7 @@ sha256: 88bca3355ae1bbdb879ae10761e47838c00d5e0494c81911a32c6f5656d63c95
 # EXERCÍCIO FÍSICO NA GESTAÇÃO PODE CAUSAR ABORTO?
 
 - Fonte: https://www.youtube.com/watch?v=ydRdkxWnN38
-- Temas: [[mulher]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[franciele-conter]]
 
 ## Transcript
 
@@ -22,7 +23,7 @@ Exercício físico na gestação pode causar aborto. Exercícios abdominais caus
 
 A resposta é simples, mas antes da gente entrar no assunto, se inscreve no canal para acompanhar mais vídeos como esse e ativa o sininho para não perder nenhuma notificação. Vamos lá. Embora desconfortável, por muito tempo não existiu evidência científica de qualidade suficiente para sustentar recomendações claras para essa população tão querida. E na ausência de evidência, a medicina e a sociedade escolhem com frequência o caminho mais conservador: Restringir e até proibir.
 
-É aquela velha frase: "Melhor prevenir do que remediar, infelizmente." Mas a medicina evolui e hoje nós não precisamos mais operar no campo do achismo. Eu sou Dra. Franciele Kaminsk, médica e esse é o canal Kaminsk Lab. Aqui eu e meu marido Gabriel Kaminski falamos de ciência aplicada com base fisiológica e evidência científica atualizada para quem quer saúde, performance e longevidade.
+É aquela velha frase: "Melhor prevenir do que remediar, infelizmente." Mas a medicina evolui e hoje nós não precisamos mais operar no campo do achismo. Eu sou Dra. Franciele Conter, médica e esse é o canal Kaminski Lab. Aqui eu e meu marido Gabriel Kaminski falamos de ciência aplicada com base fisiológica e evidência científica atualizada para quem quer saúde, performance e longevidade.
 
 Então vamos aos fatos. Vamos separar mitos de verdades com base no que a ciência realmente mostra hoje. Primeiro mito: grávida não pode fazer exercícios abdominais porque pioram a diáste. Essa é uma das crianças mais difundidas e uma das mais mal compreendidas.
 

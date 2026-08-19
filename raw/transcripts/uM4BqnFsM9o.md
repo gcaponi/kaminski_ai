@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=uM4BqnFsM9o
 youtube_id: uM4BqnFsM9o
 title: "FOMOS PRA CASA COM AS MENINAS"

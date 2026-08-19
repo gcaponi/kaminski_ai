@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=s3Q1a3UzwWE
 youtube_id: s3Q1a3UzwWE
 title: "FIZ UM TREINO INTENSO COM O PACHO NO CT DA OFICIAL"

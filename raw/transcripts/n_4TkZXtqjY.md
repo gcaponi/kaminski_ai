@@ -1,4 +1,5 @@
 ---
+speaker: franciele-conter
 source_url: https://www.youtube.com/watch?v=n_4TkZXtqjY
 youtube_id: n_4TkZXtqjY
 title: "POR QUE HÁBITOS E SUPLEMENTOS FAZEM TANTA DIFERENÇA - SUPLEMENTAÇÃO NO CLIMATÉRIO E NA MENOPAUSA"
@@ -14,7 +15,7 @@ sha256: 17530fcfbf5a566151aec2d95cf29402191308ab9dfe39024589ebb1835d5384
 # POR QUE HÁBITOS E SUPLEMENTOS FAZEM TANTA DIFERENÇA - SUPLEMENTAÇÃO NO CLIMATÉRIO E NA MENOPAUSA
 
 - Fonte: https://www.youtube.com/watch?v=n_4TkZXtqjY
-- Temas: [[mulher]] · [[nutricao]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[nutricao]] · [[franciele-conter]]
 
 ## Transcript
 
@@ -30,4 +31,4 @@ Por quê? Porque vitaminas do complexo B são cofatores que alimentam diretament
 
 A epigenética mostra que o futuro da sua saúde não está apenas nos gens que você herdou, mas no que você faz com eles. E aqui a suplementação entra como ferramenta de ajuste fino para manter as suas células funcionando como deveriam. No próximo vídeo, nós vamos aprofundar em algo ainda mais específico, a metabolização dos estrogênios e como direcioná-la para uma via protetora com ajuda de suplementação. Se inscreva no canal e ative as notificações para ser avisado quando esse vídeo for ao ar.
 
-e nos siga nas redes sociais @dfrancelteror e @camiscão.
+e nos siga nas redes sociais @drafrancieleconter e @kaminskao.

@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=eUf8FpuCgzU
 youtube_id: eUf8FpuCgzU
 title: "COMO A INTERLEUCINA 6 ATUA PARA MEDIA INFLAMAÇÕES"

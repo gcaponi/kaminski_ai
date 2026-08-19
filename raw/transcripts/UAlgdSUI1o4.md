@@ -1,4 +1,5 @@
 ---
+speaker: franciele-conter
 source_url: https://www.youtube.com/watch?v=UAlgdSUI1o4
 youtube_id: UAlgdSUI1o4
 title: "CHEGOU NA MENOPAUSA SEM ENERGIA? SAIBA O QUE FAZER!"
@@ -14,11 +15,11 @@ sha256: 1a3b4b77672ee557472b00da9ddbb82df75c632cfdb4657e9409c7963ed3bdf7
 # CHEGOU NA MENOPAUSA SEM ENERGIA? SAIBA O QUE FAZER!
 
 - Fonte: https://www.youtube.com/watch?v=UAlgdSUI1o4
-- Temas: [[mulher]] · [[farmacologia-geral]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[farmacologia-geral]] · [[franciele-conter]]
 
 ## Transcript
 
-Se você chegou à menopausa sentindo que o seu corpo não responde mais como antes, que o treino não rende, o sono não recupera e a energia simplesmente não volta, a explicação não está apenas na idade, na fisiologia que mudou e que exige novas estratégias. Eu sou a Dra. da Franciara Kaminsk, médica e aqui no canal Caminsk, eu e meu marido Gabriel Caminsk, farmacêutico, trazemos ciência de verdade explicada de forma clara, prática e aplicada à vida real para quem quer ciência, saúde, performance, longevidade, especialmente entendendo as transições hormonais da mulher nesse videozinho de hoje. E eu quero começar esse vídeo com uma afirmação muito importante.
+Se você chegou à menopausa sentindo que o seu corpo não responde mais como antes, que o treino não rende, o sono não recupera e a energia simplesmente não volta, a explicação não está apenas na idade, na fisiologia que mudou e que exige novas estratégias. Eu sou a Dra. Franciele Conter, médica e aqui no canal Caminsk, eu e meu marido Gabriel Kaminski, farmacêutico, trazemos ciência de verdade explicada de forma clara, prática e aplicada à vida real para quem quer ciência, saúde, performance, longevidade, especialmente entendendo as transições hormonais da mulher nesse videozinho de hoje. E eu quero começar esse vídeo com uma afirmação muito importante.
 
 Peptídeos não substituem hormônios na menopausa, mas podem fazer muito sentido como ferramentas complementares quando a fisiologia muda. Assim que forem aprovados, é claro, a menopausa, ela é uma transição hormonal profunda. A queda de estradiol e progesterona impacta metabolismo, músculo, osso, sono, cognição, inflamação e função mitocondrial. Muitas mulheres chegam nessa fase acreditando que os sintomas são inevitáveis ou que a única saída é suportar, passar por isso.
 

@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=DrDeYSyta7E
 youtube_id: DrDeYSyta7E
 title: "O QUE VOCÊ PRECISA SABER SOBRE A BOLDENONA"

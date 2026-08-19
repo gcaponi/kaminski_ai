@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=g5SCjTFdYNk
 youtube_id: g5SCjTFdYNk
 title: "O QUE NÃO TE CONTARAM SOBRE ESTRATÉGIA DE EMAGRECIMENTO"
@@ -22,7 +23,7 @@ Existe uma narrativa que dominou o discurso popular sobre emagrecimento durante 
 
 Na prática, essa lógica linear se quebra rapidamente. O organismo humano não é um sistema mecânico estático que continua perdendo gordura indefinidamente em resposta de sustentado. é um sistema adaptativo com múltiplos mecanismos hormonais e metabólicos que respondem ao déficit calórico crônico de forma a frear progressivamente a perda de gordura, reduzir o gasto energético basal, aumentar a fome e comprometer a adesão, recuperação do treino e função fisiológica geral. Reconhecer essa fisiologia abriu um caminho para estratégias que combinam déficit calórico com pausas planejadas, conhecidas como refeed e diet break.
 
-Essas estratégias têm fundamento fisiológico claro e impacto clínico real em adesão de longo prazo, manutenção de massa muscular durante o emagrecimento e em qualidade de vida durante o processo. Neste vídeo você vai entender o que é a leptina, como a queda dela em déficit prolongado compromete emagrecimento, qual a diferença entre refeed break e como aplicar essas estratégias na prática. Meu nome é Gabriel Caminsk, sou mestre, doutor em ciências Farmacêuticas e esse conteúdo foi desenvolvido para quem quer entender a fisiologia do emagrecimento com profundidade real. Peptina é um hormônio peptídico produzido pelos adipos do tecido adiposo branco, com função principal de sinalizar para o hipotálamo o estado dos estoques energéticos corporais.
+Essas estratégias têm fundamento fisiológico claro e impacto clínico real em adesão de longo prazo, manutenção de massa muscular durante o emagrecimento e em qualidade de vida durante o processo. Neste vídeo você vai entender o que é a leptina, como a queda dela em déficit prolongado compromete emagrecimento, qual a diferença entre refeed break e como aplicar essas estratégias na prática. Meu nome é Gabriel Kaminski, sou mestre, doutor em ciências Farmacêuticas e esse conteúdo foi desenvolvido para quem quer entender a fisiologia do emagrecimento com profundidade real. Peptina é um hormônio peptídico produzido pelos adipos do tecido adiposo branco, com função principal de sinalizar para o hipotálamo o estado dos estoques energéticos corporais.
 
 Quando os estoques de gordura estão altos, a produção de leptina é alta. O hipotálamo percebe sinal de abundância energética e ajusta múltiplos sistemas. reduz fome, aumenta o gasto energético basal, sustenta a função reprodutiva, mantém ritmo tiroidiano e sistema imune em estado ativo. Quando os estoques de gordura caem por déficit calórico sustentado, a leptina cai de forma proporcional e o hipotálamo percebe um sinal de escassez energética.
 

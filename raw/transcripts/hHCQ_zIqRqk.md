@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=hHCQ_zIqRqk
 youtube_id: hHCQ_zIqRqk
 title: "OZEMPIC, MOUNJARO E RETATRUTIDA: O QUE VOCÊ PRECISA SABER!"
@@ -42,6 +43,6 @@ Se pensarmos em custo benefício com base em evidência humana existente, semagl
 
 forte no eixo GLP1, mas fisiologicamente mais limitado. Mas em termos de evidência clínica consolidada, hoje a ordem é: semaglotida e tirepatida, ligadas a populações realmente estudadas e depois reta trutida com evidência emergente e promessa ampliada. Isso não é uma crítica ao potencial da reta trutida. é apenas um reconhecimento de que ciência clínica robusta e replicada leva tempo.
 
-Os agonistas clássicos já passaram por esse tempo. A diferença entre essas moléculas não está no hype do marketing, está no mecanismo fisiológico real. E isso da perspectiva metabólica é uma mudança qualitativa, não só quantitativa. Se você quer saber mais sobre onde cada uma dessas moléculas se encaixa em estratégia clínica ou de performance, se inscreva no Caminsk Lab e acompanhe os nossos próximos vídeos.
+Os agonistas clássicos já passaram por esse tempo. A diferença entre essas moléculas não está no hype do marketing, está no mecanismo fisiológico real. E isso da perspectiva metabólica é uma mudança qualitativa, não só quantitativa. Se você quer saber mais sobre onde cada uma dessas moléculas se encaixa em estratégia clínica ou de performance, se inscreva no Kaminski Lab e acompanhe os nossos próximos vídeos.
 
 Aqui a ciência vem antes do hype,

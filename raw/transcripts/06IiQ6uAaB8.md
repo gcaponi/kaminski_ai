@@ -1,4 +1,5 @@
 ---
+speaker: franciele-conter
 source_url: https://www.youtube.com/watch?v=06IiQ6uAaB8
 youtube_id: 06IiQ6uAaB8
 title: "O QUE NÃO TE CONTARAM SOBRE O ESTROGÊNIO"
@@ -14,7 +15,7 @@ sha256: 87f2691f3143fd622cabcdf3316e41c4b2f29f066d342c5c76278d070949052e
 # O QUE NÃO TE CONTARAM SOBRE O ESTROGÊNIO
 
 - Fonte: https://www.youtube.com/watch?v=06IiQ6uAaB8
-- Temas: [[mulher]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[franciele-conter]]
 
 ## Transcript
 
@@ -28,4 +29,4 @@ E quais são os suplementos chave que desviam a metabolização estrogênica par
 
 O jean ajuda a converter estrona em estradiol, reduzindo riscos. Uma estratégia prática seria dosar estrona antes, suplementar e repetir exame em dois meses para medir resultados. O metabolismo estrogênico, ele pode ser um aliado a um inimigo. Com a suplementação correta, é possível direcioná-lo para a via mais segura, reduzindo riscos de câncer e melhorando os sintomas da menopausa.
 
-No próximo vídeo, nós vamos falar de outro hormônio importante, a leptina e como ela se conecta à obesidade, ao câncer de mama e a suplementação. Se inscreva aqui no canal e ative as notificações para saber quando esse vídeo for ao ar. E também nos sigue nas redes sociais @dfrancelteror e @camiscão
+No próximo vídeo, nós vamos falar de outro hormônio importante, a leptina e como ela se conecta à obesidade, ao câncer de mama e a suplementação. Se inscreva aqui no canal e ative as notificações para saber quando esse vídeo for ao ar. E também nos sigue nas redes sociais @drafrancieleconter e @kaminskao

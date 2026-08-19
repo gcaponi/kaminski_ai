@@ -1,4 +1,5 @@
 ---
+speaker: franciele-conter
 source_url: https://www.youtube.com/watch?v=WJAxOAnrbrY
 youtube_id: WJAxOAnrbrY
 title: "FAZER REPOSIÇÃO HORMONAL É SEGURO?"
@@ -14,13 +15,13 @@ sha256: fa124336f543d5745f2ba3ec11c80362e4874c664012fb6fa9025b170f301335
 # FAZER REPOSIÇÃO HORMONAL É SEGURO?
 
 - Fonte: https://www.youtube.com/watch?v=WJAxOAnrbrY
-- Temas: [[mulher]] · [[exames-e-saude]] · [[hormonio-de-crescimento]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[exames-e-saude]] · [[hormonio-de-crescimento]] · [[franciele-conter]]
 
 ## Transcript
 
 Fazer reposição hormonal é seguro. Quais hormônios realmente valem a pena e qual é a melhor opção para você? Esse é o nosso tema do vídeo de hoje. Olá, seja bem-vindo ao canal.
 
-Eu sou Franciele Kaminsk, médica e aqui a gente traduz ciência de verdade em conteúdo prático, direto e aplicável para quem busca saúde, longevidade e performance. No vídeo de hoje, vamos falar sobre hormônios na gestão do envelhecimento. Vamos falar sobre testosterona, estradiol, estriol, progesterona, DHEA, GH, entre outros. sempre com base na fisiologia e nas evidências clínicas mais recentes.
+Eu sou Franciele Conter, médica e aqui a gente traduz ciência de verdade em conteúdo prático, direto e aplicável para quem busca saúde, longevidade e performance. No vídeo de hoje, vamos falar sobre hormônios na gestão do envelhecimento. Vamos falar sobre testosterona, estradiol, estriol, progesterona, DHEA, GH, entre outros. sempre com base na fisiologia e nas evidências clínicas mais recentes.
 
 E para deixar tudo claro, vamos separar o vídeo em duas partes. Primeiro, vamos entender a fisiologia e estratégias para mulheres. Depois, vamos falar dos homens. Se esse tema te interessa e deveria, porque todos nós envelhecemos, fica comigo até o final.
 
@@ -46,6 +47,6 @@ Como o passar dos anos, a produção de GH diminui. E quais são as consequênci
 
 E esses compostos são conhecidos como secretagogos do GH e oferecem uma alternativa menos agressiva do que o do GH sintético. A decisão de repor GH ou usar secretagogos deve ser sempre baseada em sintomas clínicos, avaliação do GF1, exames de composição corporal e riscos individuais como histórico de câncer. Lembrando que alguns desses peptídeos ainda não são regulamentados por órgãos como Anvisa e FA, mas hormônio não é cosmético, muito menos milagre. É ciência, é fisiologia.
 
-Reposição sem indicação e sem monitoramento pode trazer mais riscos do que benefícios. Por isso, se você é um profissional da saúde, paciente ou curioso no assunto, invista no conhecimento. E se quiser que eu aprofunde algum desses hormônios em vídeos separados, deixa aqui nos comentários. Se inscreve no canal, ativa o sininho e nos acompanhe também no Instagram @dorfrancior @camiscam.
+Reposição sem indicação e sem monitoramento pode trazer mais riscos do que benefícios. Por isso, se você é um profissional da saúde, paciente ou curioso no assunto, invista no conhecimento. E se quiser que eu aprofunde algum desses hormônios em vídeos separados, deixa aqui nos comentários. Se inscreve no canal, ativa o sininho e nos acompanhe também no Instagram @drafrancieleconter @kaminskao.
 
 A gente se vê no próximo vídeo.

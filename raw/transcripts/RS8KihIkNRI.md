@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=RS8KihIkNRI
 youtube_id: RS8KihIkNRI
 title: "IGF-1: TUDO QUE VOCE PRECISA SABER"
@@ -54,4 +55,4 @@ Se você está assistindo isso e pensando qual é o melhor, a pergunta correta �
 
 Aqui no Kaminsk Life, eu e a Dra. Franciski, queremos que você entenda uma regra de ouro. Quanto mais você se afasta do medicamento aprovado e se aproxima de análogo experimental, mais você troca previsibilidade por aposta. E quando a conversa envolve IGF1, a aposta não é pequena.
 
-Se você quer, no próximo vídeo nós podemos fazer a continuação lógica. Como interpretar IGF1 sérico, IGFB3, glicemia e marcadores de risco quando alguém está manipulando esse eixo e por sentir pump não é métrica de segurança. Se inscreva no Caminskab, ativa o sininho. Aqui o objetivo é sempre o mesmo, fisiologia real, evidência real e decisões mais inteligentes.
+Se você quer, no próximo vídeo nós podemos fazer a continuação lógica. Como interpretar IGF1 sérico, IGFB3, glicemia e marcadores de risco quando alguém está manipulando esse eixo e por sentir pump não é métrica de segurança. Se inscreva no Kaminski Lab, ativa o sininho. Aqui o objetivo é sempre o mesmo, fisiologia real, evidência real e decisões mais inteligentes.

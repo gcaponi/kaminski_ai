@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=IFWnIlnL5j0
 youtube_id: IFWnIlnL5j0
 title: "O QUE HÁ DE MAIS MODERNO NA REGENERAÇÃO TECIDUAL"
@@ -18,7 +19,7 @@ sha256: 6d710a5409dfed718d2f2f121bceea947739afc950cae84481ec838a8cea26ae
 
 ## Transcript
 
-Já pensou em cicatrizar como Volverine? O que existe de mais moderno para regeneração tecidual? Olá, seja bem-vindo ao canal. Eu sou o Gabriel Camiski, farmacêutico bioquímico, mestre e doutor em ciências farmacêuticas.
+Já pensou em cicatrizar como Volverine? O que existe de mais moderno para regeneração tecidual? Olá, seja bem-vindo ao canal. Eu sou o Gabriel Kaminski, farmacêutico bioquímico, mestre e doutor em ciências farmacêuticas.
 
 Hoje vou te apresentar um dos protocolos mais promissores e mais polêmicos da medicina regenerativa moderna, protocolo Volverini, que utiliza dois peptídios bioativos com ações potentes sobre a cicatrização, regeneração tecidual e redução de inflamação. Bpc 157 e TB500. Se você é profissional da saúde, atleta, paciente com lesões crônicas ou simplesmente quer entender como a ciência pode potencializar a recuperação do corpo, esse vídeo vai abrir a sua mente. Vamos entender o que é o protocolo Volverine, como funcionam os peptídeos BPC157 e TB500, quais são as evidências científicas e como isso pode ser aplicado com segurança e critério clínico.
 
@@ -42,4 +43,4 @@ Apesar de promissor, o protocolo Volverine ainda não é uma terapia regulamenta
 
 Individualização, cada paciente responde de forma diferente. Monitoramento clínico e laboratorial deve ser feito durante o ciclo. Mas é fato, os peptídios bioativos representam uma nova fronteira na medicina regenerativa e a tendência é que novos estudos ampliem a sua aplicação clínica com segurança. Se você gostou desse conteúdo, se inscreva no canal, deixe seu like e compartilha com quem precisa saber disso.
 
-Siga também o nosso Instagram Caminscão e Dra. Franciell Conter para conteúdos diários sobre medicina integrativa, biohacking e longevidade.
+Siga também o nosso Instagram @kaminskao e Dra. Franciele Conter para conteúdos diários sobre medicina integrativa, biohacking e longevidade.

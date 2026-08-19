@@ -1,4 +1,5 @@
 ---
+speaker: franciele-conter
 source_url: https://www.youtube.com/watch?v=58wWx0GkRqw
 youtube_id: 58wWx0GkRqw
 title: "VIVE DOENTE E CANSADO? SAIBA COMO RESOLVER ISSO!"
@@ -14,11 +15,11 @@ sha256: 1785a8f6de76cae4dcbe83ae1dc3cad1db844d2f04b6d916bd901c21038cda75
 # VIVE DOENTE E CANSADO? SAIBA COMO RESOLVER ISSO!
 
 - Fonte: https://www.youtube.com/watch?v=58wWx0GkRqw
-- Temas: [[nutricao]] · [[gabriel-kaminski]]
+- Temas: [[nutricao]] · [[franciele-conter]]
 
 ## Transcript
 
-Se você vive doente, inflamado, cansado ou com dificuldade de recuperar de treinos, estress ou infecções, talvez o problema não esteja no seu sistema imunológico em si, mas no ecossistema invisível que regula ele todos os dias, o seu microbioma. Eu sou a Dra. Franciele Kaminski, médica e esse é o nosso canal Kaminsk Lab. Aqui a gente fala de ciência aplicada, sem extremismos, para quem quer saúde, performance e longevidade, entendendo como o corpo realmente funciona como um sistema integrado.
+Se você vive doente, inflamado, cansado ou com dificuldade de recuperar de treinos, estress ou infecções, talvez o problema não esteja no seu sistema imunológico em si, mas no ecossistema invisível que regula ele todos os dias, o seu microbioma. Eu sou a Dra. Franciele Conter, médica e esse é o nosso canal Kaminski Lab. Aqui a gente fala de ciência aplicada, sem extremismos, para quem quer saúde, performance e longevidade, entendendo como o corpo realmente funciona como um sistema integrado.
 
 E eu quero começar esse vídeo com uma provocação necessária. A imunidade não começa no remédio e não começa no suplemento e não começa quando você fica doente. Imunidade começa no intestino. Hoje nós sabemos que cerca de 70% do sistema imunológico está direta ou indiretamente ligado ao intestino.
 
@@ -36,4 +37,4 @@ Inflamação intestinal crônica prejudica a função mitocondrial, reduz a prod
 
 Inclusive, todos esses peptídes que eu citei aqui, BPC157, Timosin Alfa 1, LL37, KPV, já foram explicados com muito mais profundidade, mecanismo por mecanismo, em vídeos específicos. aqui do canal. Eles estão organizados em uma playlist completa sobre peptídeos e eu recomendo fortemente que você assista porque isso complementa esse conteúdo e aprofunda a parte farmacológica e científica dessas estratégias em estudo. Se esse conteúdo fez sentido para você, curta esse vídeo, se inscreva no canal e compartilhe com quem vive tratando sintomas sem nunca olhar pro intestino.
 
-Deixa aqui nos comentários se você quer que a gente aprofunde temas como reparo intestinal, imunidade, inflamação ou estratégias clínicas mais avançadas para restaurar a saúde do microbioma. E não esquece de assistir a playlist de peptides aqui do canal, porque ela complementa exatamente tudo o que a gente falou hoje. Se inscreve no canal Caminskab, porque toda semana a gente traz ciência aplicada para quem quer mais saúde, performance e longevidade de verdade. Até a próxima.
+Deixa aqui nos comentários se você quer que a gente aprofunde temas como reparo intestinal, imunidade, inflamação ou estratégias clínicas mais avançadas para restaurar a saúde do microbioma. E não esquece de assistir a playlist de peptides aqui do canal, porque ela complementa exatamente tudo o que a gente falou hoje. Se inscreve no canal Kaminski Lab, porque toda semana a gente traz ciência aplicada para quem quer mais saúde, performance e longevidade de verdade. Até a próxima.

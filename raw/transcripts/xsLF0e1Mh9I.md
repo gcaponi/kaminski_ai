@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=xsLF0e1Mh9I
 youtube_id: xsLF0e1Mh9I
 title: "FIM DA BARIÁTRICA? COMO PERDER 25% DO PESO EM 1 ANO"
@@ -20,7 +21,7 @@ sha256: 63bd8e3686608eefe35b1bee6d8edcbaa8f1f64eea70002dfe9772da9eb477b6
 
 O fim da cirurgia bariátrica. Já pensou perder 25% do peso corporal em menos de 1 ano? Pois é, se você tá duvidando, fica aqui nesse vídeo, porque a reta trutida chegou para revolucionar o mercado da farmacologia contra obesidade. Olá, pessoal, tudo bem?
 
-Aqui é Gabriel Camiski, farmacêutico bioquímico, mestre e doutor em ciências farmacêuticas. E hoje nós vamos explorar um tema que está no centro do debate em endocrinologia, obesidade e longevidade. Os agonistas dos receptores encretínicos, em especial semaglutida, tirepatida e o mais recente retatrutida. Essas moléculas estão redefinindo o tratamento da obesidade, do diabetes tipo 2 e até da doença hepática gordurosa.
+Aqui é Gabriel Kaminski, farmacêutico bioquímico, mestre e doutor em ciências farmacêuticas. E hoje nós vamos explorar um tema que está no centro do debate em endocrinologia, obesidade e longevidade. Os agonistas dos receptores encretínicos, em especial semaglutida, tirepatida e o mais recente retatrutida. Essas moléculas estão redefinindo o tratamento da obesidade, do diabetes tipo 2 e até da doença hepática gordurosa.
 
 Vamos entender os mecanismos farmacológicos de cada um, a eficácia clínica comparativa, perfil de segurança e futuras aplicações e impacto na prática clínica. A semaglutida é agonista do GLP1 único. É um análogo de GLP1 que modula a saciedade via sistema nervoso central, retardando o esvaziamento gástrico e aprimorando a secreção de insulina. Usada desde 2017, o Zen PIC em diabetes, o IGOV para obesidade.
 

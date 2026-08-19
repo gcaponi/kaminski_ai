@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=ks-qVvl6GzU
 youtube_id: ks-qVvl6GzU
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE OS GHRP's"

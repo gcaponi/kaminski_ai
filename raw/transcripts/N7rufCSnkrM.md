@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=N7rufCSnkrM
 youtube_id: N7rufCSnkrM
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE O MASTERON"
@@ -18,7 +19,7 @@ sha256: f8fba665f06a9c12338f7e5298ae84624c937192ffdbba41becb8b206f58dd3d
 
 ## Transcript
 
-Você sabia que um dos esteroides anabolizantes mais famosos foi criado para tratar câncer de mama? Fica aqui comigo que você vai conhecer a história por trás do Masterom. Olá, seja bem-vindo ao meu canal. Eu sou o Gabriel Caminsk, farmacêutico bioquímico, mestre, doutor em ciências farmacêuticas e hoje nós vamos falar sobre um esteroide anabolizante que tem uma história curiosa na medicina e acabou se tornando muito conhecido no fisiculturismo, o masteron, cujo princípio ativo é a drostanolona.
+Você sabia que um dos esteroides anabolizantes mais famosos foi criado para tratar câncer de mama? Fica aqui comigo que você vai conhecer a história por trás do Masterom. Olá, seja bem-vindo ao meu canal. Eu sou o Gabriel Kaminski, farmacêutico bioquímico, mestre, doutor em ciências farmacêuticas e hoje nós vamos falar sobre um esteroide anabolizante que tem uma história curiosa na medicina e acabou se tornando muito conhecido no fisiculturismo, o masteron, cujo princípio ativo é a drostanolona.
 
 Vamos entender onde e por ele foi criado, suas indicações médicas originais, como ele é utilizado hoje e quais os efeitos e riscos associados. A hidrostanolona foi desenvolvida na década de 1950 e começou a ser utilizada clinicamente nos anos 60 e 70. Ele é um derivado, tá? de hidrotestosterona ou DHT, modificado na segunda posição com um grupo metílla, o que aumenta sua estabilidade e ação anabólica sem aromatizar em estrogênio.
 

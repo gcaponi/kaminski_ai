@@ -12,6 +12,8 @@ Workspace: vault-wiki delle trascrizioni di Gabriel Kaminski.
 ## Lingua
 
 - Transcript e note wiki: **portoghese brasiliano**
+- Handle corretti: Instagram Gabriel `@kaminskao`, Franciele `@drafrancieleconter`. Mai lasciare le grafie ASR (Caminscão, @dfrancelteror).
+- Voce del video: `speaker:` nel frontmatter. Se parla [[franciele-conter]], non mettere `[[gabriel-kaminski]]`.
 - File operativi (`README.md`, questo file): italiano
 - Non tradurre i transcript
 

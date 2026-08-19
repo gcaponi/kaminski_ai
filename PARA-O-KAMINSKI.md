@@ -1,6 +1,11 @@
 # Para o Kaminski
 
-Esta pasta é a sua biblioteca. Você não precisa programar.
+O canal tem duas vozes:
+
+- [[gabriel-kaminski]] — @kaminskao
+- [[franciele-conter]] — @drafrancieleconter
+
+Não misturar. Se o vídeo é dela, o link da nota é `[[franciele-conter]]`.
 
 ## O que fazer
 

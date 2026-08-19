@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=pV-GEqGjp48
 youtube_id: pV-GEqGjp48
 title: "A MELATONINA NÃO SERVE SÓ PRA DORMIR MELHOR: ENTENDA!"
@@ -22,7 +23,7 @@ Quando a maioria das pessoas ouve falar em melatonina, pensa em suplemento para 
 
 Ela modula a resposta inflamatória. é um dos antioxidantes mais potentes que o corpo produz e funciona como o principal relógio biológico do organismo, coordenando dezenas de processos com o ciclo de luz e escuridão do ambiente. Entender a melatonina de verdade é entender porque o horário em que você dorme, come e se expõe à luz importa muito mais do que parece. Neste vídeo você vai entender como a melonina é produzida, onde ela age, além do cérebro, quais são os seus efeitos sobre metabolismo e imunidade, o que acontece quando o ritmo de melatonina é cronicamente bagunçado e o que a ciência permite afirmar sobre suplementação.
 
-Meu nome é Gabriel Kaminsk, sou mestre doutor em Ciências Farmacêuticas e esse conteúdo foi feito para quem quer entender a biologia por completo. A melatonina é produzida pela glândula pineal, uma estrutura pequena no centro do cérebro, usando como matériapra o triptofano, um aminoácido presente na alimentação. A produção começa quando escurece. A ausência de luz ativa uma via neural que vai da retina até a pineal, liberando o sinal para produzir melatonina.
+Meu nome é Gabriel Kaminski, sou mestre doutor em Ciências Farmacêuticas e esse conteúdo foi feito para quem quer entender a biologia por completo. A melatonina é produzida pela glândula pineal, uma estrutura pequena no centro do cérebro, usando como matériapra o triptofano, um aminoácido presente na alimentação. A produção começa quando escurece. A ausência de luz ativa uma via neural que vai da retina até a pineal, liberando o sinal para produzir melatonina.
 
 Em condições normais, ela começa a subir algumas horas depois do anoitecer, atinge o pico entre 2 e 4 da madrugada e cai antes do amanhecer. O problema é que a luz artificial à noite, especialmente a luz azul das telas de celular e do computador, bloqueia esse processo com a mesma eficiência que a luz solar. Isso porque as células da retina que detectam a luz para esse sistema são especialmente sensíveis à faixa azul do espectro luminoso em torno de 480 nan. Exatamente a faixa emitida pelas telas.
 

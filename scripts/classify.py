@@ -45,9 +45,10 @@ def parse_note(path: Path) -> tuple[str, str, str]:
 def apply_note(path: Path, themes: list[str], dry: bool) -> None:
     text = path.read_text(encoding="utf-8")
     slug_csv = ", ".join(themes)
+    sm = re.search(r"^speaker:\s*(\S+)", text, re.M)
+    person = sm.group(1) if sm else "gabriel-kaminski"
     links = " · ".join(f"[[{t}]]" for t in themes)
-    if "[[gabriel-kaminski]]" not in links:
-        links = f"{links} · [[gabriel-kaminski]]" if links else "[[gabriel-kaminski]]"
+    links = f"{links} · [[{person}]]" if links else f"[[{person}]]"
     text2 = TEMAS_LINE_RE.sub(f"temas: [{slug_csv}]", text, count=1)
     if text2 == text and "temas:" not in text:
         text2 = text.replace("---\n", f"---\ntemas: [{slug_csv}]\n", 1)

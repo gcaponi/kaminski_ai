@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=hE-GCWW2W1Q
 youtube_id: hE-GCWW2W1Q
 title: "COMIDA DE VERDADE QUE DURA 1 ANO FORA DA GELADEIRA"
@@ -100,7 +101,7 @@ A necessidade, ela cria o a genialidade, porque é genial isso, não tem explica
 
 Exatamente. Então ele tá participando desse projeto a nível mundial. Incrível. Incrível.
 
-E se você quer aproveitar e ganhar um desconto, usa o nosso cupom, na verdade o meu cupom camincão lá no site da Oficial Food. E para você que ainda não conhece Oficial Food, inclusive a gente tem uma aba no site da Official Farm escrito lá Food, você clica e é redirecionado pro site do Food. E o mais legal é que dá para você colocar no mesmo carrinho no site. Então você tá lá comprando ômega-3, vitamina C, vitamina D, vitamina texto black.
+E se você quer aproveitar e ganhar um desconto, usa o nosso cupom, na verdade o meu cupom @kaminskao lá no site da Oficial Food. E para você que ainda não conhece Oficial Food, inclusive a gente tem uma aba no site da Official Farm escrito lá Food, você clica e é redirecionado pro site do Food. E o mais legal é que dá para você colocar no mesmo carrinho no site. Então você tá lá comprando ômega-3, vitamina C, vitamina D, vitamina texto black.
 
 Você vai colocando no carrinho, pode pôr também suas refeições, tudo no mesmo carrinho, um único checkout e chega junto na sua casa. Perfeito. Excelente demais. É isso aí.
 

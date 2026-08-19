@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=qdB5hpBqnrY
 youtube_id: qdB5hpBqnrY
 title: "O QUE SÃO PEPTÍDEOS"
@@ -18,7 +19,7 @@ sha256: aaf7a040effaff65d555791166f2a12de0234b1b7e53717fcf677598a4aca3d6
 
 ## Transcript
 
-Mas afinal, o que são peptídeos? Qual a relação entre GH, GF1, insulina e tirepatida? Olá, seja bem-vindo ao canal Caminscão. Eu sou Gabriel Caminsk, farmacêutico bioquímico, mestre, doutor em ciências Farmacêuticas.
+Mas afinal, o que são peptídeos? Qual a relação entre GH, GF1, insulina e tirepatida? Olá, seja bem-vindo ao canal Kaminski Lab. Eu sou Gabriel Kaminski, farmacêutico bioquímico, mestre, doutor em ciências Farmacêuticas.
 
 E hoje vamos falar sobre um tema que vem ganhando cada vez mais destaque entre profissionais da saúde, atletas e também entre quem busca melhorar o metabolismo, emagrecer e até envelhecer com mais vitalidade os peptídios. Mas afinal, o que são peptídeos? Como eles funcionam no corpo? Qual a relação entre eles?
 
@@ -46,6 +47,6 @@ Ela estimula o apetite e também a secreção de GH. Curiosamente, alguns peptí
 
 também favorece o estoque de gordura se consumido em excesso. Glucagon, hormônio antagico, a insulina. Ele estimula a quebra de glicogênio e a liberação de glicose no sangue. Pode ser usado terapeuticamente para hipoglicemia grave e está presente em agonistas como retrato.
 
-Mas lembre-se, o uso terapêutico de qualquer peptídio exige avaliação profissional, exames e acompanhamento rigoroso. Mesmo que pareçam naturais, são substâncias com potência hormonal. Se quiser um vídeo aprofundado sobre algum desses temas como GHRPs ou os agonistas de GLP1 ou até estratégias pro envelhecimento saudável, comenta aqui embaixo. Se inscreva no canal, deixa o like e acompanhe nossos perfis no Instagram Camincão e Dra.
+Mas lembre-se, o uso terapêutico de qualquer peptídio exige avaliação profissional, exames e acompanhamento rigoroso. Mesmo que pareçam naturais, são substâncias com potência hormonal. Se quiser um vídeo aprofundado sobre algum desses temas como GHRPs ou os agonistas de GLP1 ou até estratégias pro envelhecimento saudável, comenta aqui embaixo. Se inscreva no canal, deixa o like e acompanhe nossos perfis no Instagram @kaminskao e Dra.
 
 Franciele Conter para mais conteúdo sobre saúde, longevidade e performance com base científica. Até a próxima.

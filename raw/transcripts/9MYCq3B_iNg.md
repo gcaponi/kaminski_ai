@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=9MYCq3B_iNg
 youtube_id: 9MYCq3B_iNg
 title: "LEPTINA E RESISTÊNCIA LEPTÍNICA: O QUE VOCÊ PRECISA SABER"
@@ -22,7 +23,7 @@ Existe uma situação que parece completamente contraditória. Pessoas com obesi
 
 Entender a leptina não é apenas entender um hormônio do apetite, é entender como o cérebro monitora o estado energético do corpo e por quando esse sistema de monitoramento falha, o organismo responde como se tivessem privação permanente, mesmo com reservas abundantes. Neste vídeo, você vai entender o que é a leptina e como ela foi descoberta, como ela age no hipotálamo para regular o apetite e gasto energético, quais são os mecanismos da resistência leptínica e como ela se instala. Por que tratar a obesidade sem endereçar a resistência leptílica é tratar apenas as consequências? E quais intervenções têm respaldo biológico para melhorar a sinalização leptíica?
 
-Meu nome é Gabriel Caminsk, sou mestre doutor em Ciências Farmacêuticas e esse conteúdo foi desenvolvido para quem quer entender a biologia antes de qualquer outra coisa. A leptina foi descoberta em 1994 a partir de experimentos com camundongos OBO OB, animais que desenvolviam uma obesidade grave por uma mutação que impedia a produção de leptina. Quando a leptina exógena era administrada a esses animais eles reduziam drasticamente a ingestão alimentar, aumentavam o gasto energético e perdiam peso de forma pronunciado. A descoberta gerou um enorme entusiasmo com a hipótese de que a leptina poderia ser o tratamento definitivo pra obesidade humana.
+Meu nome é Gabriel Kaminski, sou mestre doutor em Ciências Farmacêuticas e esse conteúdo foi desenvolvido para quem quer entender a biologia antes de qualquer outra coisa. A leptina foi descoberta em 1994 a partir de experimentos com camundongos OBO OB, animais que desenvolviam uma obesidade grave por uma mutação que impedia a produção de leptina. Quando a leptina exógena era administrada a esses animais eles reduziam drasticamente a ingestão alimentar, aumentavam o gasto energético e perdiam peso de forma pronunciado. A descoberta gerou um enorme entusiasmo com a hipótese de que a leptina poderia ser o tratamento definitivo pra obesidade humana.
 
 Esse entusiasmo caiu rapidamente quando ficou claro que a maioria das pessoas com obesidade não tm deficiência de leptina, tem excesso e administrar mais leptina não produzia os efeitos dramáticos vistos nos camunongos deficientes. O motivo era a resistência à leptílio, que levaria anos para ser adequadamente compreendida. A leptina é produzida pelos adipostos em proporção direta à quantidade de gordura corporal. Quanto mais gordura, mais leptina circulante.
 

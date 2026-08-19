@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=2O_oTGVW6Pg
 youtube_id: 2O_oTGVW6Pg
 title: "TREINO DE RESPEITO COM PACHO E O GABRIEL FRANCISCON - PROJETO SHAPE DE PAI #2"

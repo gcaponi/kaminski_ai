@@ -52,6 +52,8 @@ sha256: <hex do corpo depois do frontmatter>
 
 `temas:` lista slugs que existem em `temas/`. Um vídeo pode ter vários. Isso alimenta o grafo.
 
+`speaker:` é a voz do vídeo: `gabriel-kaminski` ou `franciele-conter`. Não é um tema. Não misturar.
+
 ## Tag taxonomy
 
 Usar só estas tags. Se faltar uma, acrescentar aqui primeiro.

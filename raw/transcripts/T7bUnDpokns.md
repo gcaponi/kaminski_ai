@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=T7bUnDpokns
 youtube_id: T7bUnDpokns
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE A PROTEÍNA KLOTHO"
@@ -22,7 +23,7 @@ Proteína gluto, o fator de longevidade que declina com envelhecimento e que o e
 
 Não apenas porque sua ausência causa envelhecimento acelerado, mas porque a sua super expressão em camundongos produz efeito oposto. Aumenta a vida útil de 20 a 30%, com melhora de múltiplos parâmetros de saúde. O clot humano declina progressivamente com o envelhecimento, com os níveis mais baixos associados a maior fragilidade, declínio cognitivo, doença cardiovascular e mortalidade por todas as causas. E uma das descobertas mais clinicamente relevantes dos últimos anos é que o exercício físico eleva os níveis de clôton de forma consistente e mensurável.
 
-Meu nome é Gabriel Caminski, sou mestre e doutor em Ciências Farmacêuticas. E esse conteúdo foi desenvolvido para quem quer entender a biologia do envelhecimento com profundidade. Existem três formas de cloto com origens, distribuições e funções distintas. O cloto, transmembrana, expresso principalmente nos túbulos renais e nas células dos plexos coroides cerebrais, funciona como um correceptor do FGF23, fator de crescimento de fibroblastos 23, regulando o metabolismo do fósforo e vitamina D crítica para a saúde óssea e cardiovascular.
+Meu nome é Gabriel Kaminski, sou mestre e doutor em Ciências Farmacêuticas. E esse conteúdo foi desenvolvido para quem quer entender a biologia do envelhecimento com profundidade. Existem três formas de cloto com origens, distribuições e funções distintas. O cloto, transmembrana, expresso principalmente nos túbulos renais e nas células dos plexos coroides cerebrais, funciona como um correceptor do FGF23, fator de crescimento de fibroblastos 23, regulando o metabolismo do fósforo e vitamina D crítica para a saúde óssea e cardiovascular.
 
 O cloto secretado, gerado pela clivagem proteolítica, da forma transmembrana, pelas metaloproteinases ADN10 e ADN17, é liberado na circulação e no fluído cérebro espinhal e exerce efeitos endócrinos e parácinos em múltiplos tecidos. O cloto secretado é a forma medida nos estudos clínicos de envelhecimento e é a que correlaciona com desfechos de saúde e longevidade. O cloto intracelular, uma terceira iso produzida pelo splicing alternativo, tem distribuição e funções ainda menos caracterizadas. As funções do cloto secretado são extensas e mecanisticamente diversas.
 

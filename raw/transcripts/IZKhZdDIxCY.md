@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=IZKhZdDIxCY
 youtube_id: IZKhZdDIxCY
 title: "SEU CORAÇÃO CORRE SÉRIOS RISCOS FAZENDO ISSO"
@@ -7,20 +8,20 @@ published: 2026-01-30
 ingested: 2026-08-19
 language: pt-BR
 duration_s: 408
-temas: [exames-e-saude, farmacologia-geral, esteroides-aas]
+temas: [exames-e-saude, esteroides-aas, farmacologia-geral]
 sha256: e1300b9e0004bc6451392aa58760e965c80719d3cd3f652318e41e1f4df1ad23
 ---
 
 # SEU CORAÇÃO CORRE SÉRIOS RISCOS FAZENDO ISSO
 
 - Fonte: https://www.youtube.com/watch?v=IZKhZdDIxCY
-- Temas: [[exames-e-saude]] · [[farmacologia-geral]] · [[esteroides-aas]] · [[gabriel-kaminski]]
+- Temas: [[exames-e-saude]] · [[esteroides-aas]] · [[farmacologia-geral]] · [[gabriel-kaminski]]
 
 ## Transcript
 
 Você treina pesado, está seco, o shape está no auge, mas seu coração pode estar ficando rígido por dentro e não é força de expressão. Uso crônico de esteroides anabolizantes associado à pressão arterial elevada, hematócrito aumentado e bloqueio completo do estrogênio, pode transformar um sistema cardiovascular elástico e eficiente em uma máquina rígida que bombeia com força, mas sem flexibilidade. Essa perda de complacência arterial é o primeiro passo do que chamamos de rigidez arterial induzida por esteroides anabolizantes. Um processo silencioso que compromete a performance, a recuperação e com o tempo pode reduzir a longevidade do atleta.
 
-Hoje eu vou te explicar por isso acontece, como identificar os sinais precoces, quais suplementos e fármacos podem ajudar a preservar a elasticidade das suas artérias sem comprometer a performance e nem o eixo hormonal. Eu sou o Dr. Gabriel Caminski, farmacêutico bioquímico, PhD em Ciências Farmacêuticas. E aqui no canal a gente fala de bioquímica aplicada à performance e longevidade com base científica e não em achismo.
+Hoje eu vou te explicar por isso acontece, como identificar os sinais precoces, quais suplementos e fármacos podem ajudar a preservar a elasticidade das suas artérias sem comprometer a performance e nem o eixo hormonal. Eu sou o Dr. Gabriel Kaminski, farmacêutico bioquímico, PhD em Ciências Farmacêuticas. E aqui no canal a gente fala de bioquímica aplicada à performance e longevidade com base científica e não em achismo.
 
 A rigidez arterial é a perda da capacidade das artérias de se expandirem e contraírem a cada batimento. Quando as artérias estão elásticas, elas absorvem o impacto dajeção do coração e mantém o fluxo sanguíneo contínuo. Quando elas ficam rígidas, o sangue é impulsionado com mais resistência e a pressão sistólica sobe, a pressão do pulso aumenta e o coração precisa trabalhar com mais força. Em atletas usuários de anabolizantes, isso é agravado porque o coração já vive em sobrecarga.
 
@@ -50,4 +51,4 @@ Taurina, 2 a 3 g por dia, estabiliza o cálcio intracelular e regula tô vascula
 
 O silêncio orgânico, como ex nutriment aumenta a síntese de elastina e colágeneno vascular. A vitamina K2 MK7, que redireciona o cálcio para dentro do osso e evita a calcificação arterial. Magnésio que relaxa a musculatura lisa vascular e reduz a rigidez da parede. Ativar a MPK e cirtoína 1, que são enzimas que mantém o metabolismo vascular jovem.
 
-A berberina ativa MPK, melhora a sensibilidade à insulina e reduz a inflamação endotelial. Eu sou o Dr. Gabriel Kaminski e aqui no canal te ensino a usar a ciência para viver 10 anos à frente sem pagar o preço invisível da performance. Se inscreva no canal, ativa o sininho e me segue no Instagram @caminscão, porque aqui a gente não fala só de músculo, a gente fala de vida em movimento.
+A berberina ativa MPK, melhora a sensibilidade à insulina e reduz a inflamação endotelial. Eu sou o Dr. Gabriel Kaminski e aqui no canal te ensino a usar a ciência para viver 10 anos à frente sem pagar o preço invisível da performance. Se inscreva no canal, ativa o sininho e me segue no Instagram @kaminskao, porque aqui a gente não fala só de músculo, a gente fala de vida em movimento.

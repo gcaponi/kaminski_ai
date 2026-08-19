@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=AdUQmiPvq5Q
 youtube_id: AdUQmiPvq5Q
 title: "AS MENINAS NASCERAM!"

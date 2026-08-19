@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=piEDlYidDTs
 youtube_id: piEDlYidDTs
 title: "TUDO  QUE VOCÊ PRECISA SABER SOBRE SIR2"

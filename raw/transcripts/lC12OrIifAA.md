@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=lC12OrIifAA
 youtube_id: lC12OrIifAA
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE O DIANABOL"
@@ -18,7 +19,7 @@ sha256: 749f41dadc979a131bbe5b2ca7aba2b32a8b21fce1224dd831fdacdc9f43d526
 
 ## Transcript
 
-E se eu te dissesse que o primeiro esteroide anabolizante oral, amplamente usado no esporte, foi criado com o objetivo de dar vantagem competitiva aos atletas dos Estados Unidos durante a Guerra Fria. Esse é o caso da Metandinha nona, mais conhecida como de Anabol, um comprimido que marcou a história do fisiculturismo e mudou para sempre a relação entre esporte, farmacologia e performance. Hoje você vai conhecer a história e o uso clínico dessa molécula tão polêmica. Olá, eu sou Gabriel Camiski, farmacêutico bioquímico, mestre e doutor em Ciências Farmacêuticas.
+E se eu te dissesse que o primeiro esteroide anabolizante oral, amplamente usado no esporte, foi criado com o objetivo de dar vantagem competitiva aos atletas dos Estados Unidos durante a Guerra Fria. Esse é o caso da Metandinha nona, mais conhecida como de Anabol, um comprimido que marcou a história do fisiculturismo e mudou para sempre a relação entre esporte, farmacologia e performance. Hoje você vai conhecer a história e o uso clínico dessa molécula tão polêmica. Olá, eu sou Gabriel Kaminski, farmacêutico bioquímico, mestre e doutor em Ciências Farmacêuticas.
 
 E aqui no canal eu trago ciência e Farmacologia de forma clara, acessível e embasada para profissionais da saúde, atletas e curiosos. No vídeo de hoje sobre a metandia nona, você vai descobrir como ela foi desenvolvida, suas indicações médicas originais, como se popularizou no esporte e quais são os principais efeitos e os riscos. A metandona foi sintetizada em 1955 pela CBA Pharmaceuticals. O nome comercial mais famoso foi de Anabol.
 
@@ -34,4 +35,4 @@ Efeitos colaterais mais comuns incluem os hepáticos, como a elevação acentuad
 
 A metandiena é um marco na história da farmacologia esportiva, o primeiro esteroide oral amplamente usado que abriu as portas para a era dos anabolizantes no fisiculturismo. De medicamento clínico, a ferramenta de performance, a sua trajetória mostra como a ciência pode ser usada tanto para salvar vidas quanto para impulsionar records, mas sempre com riscos significativos. Hoje ela é considerada obsoleta dentro da medicina, mas ainda é lembrada como um símbolo da época dourada do fisiculturismo. Se você gostou desse vídeo, deixe o like, se inscreva no canal e comente se quer que eu fale também sobre stanosol, nandrolona ou outro hormônio que marcou alguma fase da história dos anabolizantes.
 
-Também não esqueça de nos seguir nas redes sociais @caminscão e @dfanciele até o próximo vídeo.
+Também não esqueça de nos seguir nas redes sociais @kaminskao e @drafrancieleconter até o próximo vídeo.

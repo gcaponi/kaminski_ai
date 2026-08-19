@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=aje8vh5_hro
 youtube_id: aje8vh5_hro
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE ADIPONECTINA"
@@ -22,7 +23,7 @@ O tecido adiposo é frequentemente descrito como um depósito passivo de energia
 
 A mais estudada e provavelmente a mais clinicamente relevante dessas adiposinas protetoras é a diponectina. O que torna a diponectina particularmente fascinante é um paradoxo fisiológico. Ela é produzida exclusivamente pelo tecido adiposo, mas seus níveis caem à medida que a quantidade de gordura aumenta. Pessoas obesas têm menos adiponectina do que pessoas magras.
 
-Pessoas com diabetes tipo 2 e síndrome metabólica têm menos adiponectina do que metabolicamente saudáveis. E menor a diponectina está associada de forma independente a maior resistência à insulina, maior inflamação hepática e maior risco cardiovascular. Meu nome é Gabriel Caminsk, sou mestre, doutor em Ciências Farmacêuticas e esse conteúdo foi desenvolvido para quem quer entender a biologia do tecido adiposo com profundidade real. A adiponectina é produzida exclusivamente pelos adipócitos maduros, especialmente pelos adipócitos subcutâneos em comparação com os viscerais, o que é uma das razões pelas quais a gordura subcutânea é metabolicamente mais favorável do que a gordura visceral.
+Pessoas com diabetes tipo 2 e síndrome metabólica têm menos adiponectina do que metabolicamente saudáveis. E menor a diponectina está associada de forma independente a maior resistência à insulina, maior inflamação hepática e maior risco cardiovascular. Meu nome é Gabriel Kaminski, sou mestre, doutor em Ciências Farmacêuticas e esse conteúdo foi desenvolvido para quem quer entender a biologia do tecido adiposo com profundidade real. A adiponectina é produzida exclusivamente pelos adipócitos maduros, especialmente pelos adipócitos subcutâneos em comparação com os viscerais, o que é uma das razões pelas quais a gordura subcutânea é metabolicamente mais favorável do que a gordura visceral.
 
 Ela circula em concentrações relativamente altas em comparação com a maioria dos hormônios peptídicos, entre 5 a 30 microg por mil em adultos saudáveis. E existe três formas multiméricas com a forma de alto peso molecular sendo a mais biologicamente ativa. A diponectina age através de dois receptores principais, a dio R1 e a dio R2, presentes no músculo esquelético, no fígado, no coração, no endotélio e no cérebro. A ativação desses receptores desencadeia a ativação de AMPK e de PPAR alfa, dois dos mais importantes reguladores do metabolismo energético e da oxidação de ácidos gráficos.
 

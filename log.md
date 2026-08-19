@@ -46,6 +46,11 @@
 
 - Rimossi leftover: `catalog/video-urls.txt`, tsv, script di prova (cdp, seed, ingest_urls), README ridondanti.
 
+## [2026-08-19] speakers | Gabriel vs Franciele
+
+- Handle: `@kaminskao` e `@drafrancieleconter` (via ASR Caminscão / dfrancelteror)
+- 11 vídeo com `speaker: franciele-conter` (incl. n_4TkZXtqjY). Wikilink `[[franciele-conter]]`, não Gabriel.
+
 ## [2026-08-19] format | transcript in prosa
 
 - Rimossi i timestamp `[00:00:00]`. Testo continuo a paragrafi. Ingest nuovi già in prosa.

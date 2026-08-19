@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=dQDCkJ7U4Mg
 youtube_id: dQDCkJ7U4Mg
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE A KISSPEPTINA"
@@ -18,7 +19,7 @@ sha256: 72cf535426289910f968127c108abd18613468339dac3e1274c73addbe4a7265
 
 ## Transcript
 
-Hoje no Caminsk Lab vamos falar sobre uma molécula que quase ninguém entende direito, mas que está no topo da hierarquia do eixo hormonal, a quisppeptina. A maioria das pessoas acha que quispeptina é um peptídio para fertilidade. Isso é reducionismo. Kispeptina é o interruptor mestre do eixo reprodutivo humano.
+Hoje no Kaminski Lab vamos falar sobre uma molécula que quase ninguém entende direito, mas que está no topo da hierarquia do eixo hormonal, a quisppeptina. A maioria das pessoas acha que quispeptina é um peptídio para fertilidade. Isso é reducionismo. Kispeptina é o interruptor mestre do eixo reprodutivo humano.
 
 Sem ela, o eixo simplesmente não liga. E mais do que isso, ela é uma integradora de sinais metabólicos, energéticos e ambientais. Ou seja, ela conecta o estado nutricional, gordura corporal, estress e reprodução. Hoje eu vou te mostrar o que é que peptina de verdade, como ela atua no cérebro, porque ela é superior fisiologicamente a muitos protocolos tradicionais de recuperação de eixo onde ela pode fazer sentido clínico e onde ainda é apenas promissora, mas experimental.
 

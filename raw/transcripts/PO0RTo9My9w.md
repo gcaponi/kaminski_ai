@@ -1,4 +1,5 @@
 ---
+speaker: franciele-conter
 source_url: https://www.youtube.com/watch?v=PO0RTo9My9w
 youtube_id: PO0RTo9My9w
 title: "SUPLEMENTAÇÃO NO CLIMATÉRIO E NA MENOPAUSA"
@@ -14,7 +15,7 @@ sha256: bd0ff9f08210428713fd77f6994f22992d73f6c9ba025cef2eb542220a8166f7
 # SUPLEMENTAÇÃO NO CLIMATÉRIO E NA MENOPAUSA
 
 - Fonte: https://www.youtube.com/watch?v=PO0RTo9My9w
-- Temas: [[mulher]] · [[nutricao]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[nutricao]] · [[franciele-conter]]
 
 ## Transcript
 
@@ -30,6 +31,6 @@ Após a última mensuração, o aumento de gordura visceral acelera de forma ní
 
 Ou seja, suplementar não é luxo. A estratégia para proteger o coração, os ossos e a qualidade de vida dessas mulheres. Mas não adianta pular etapas. Antes de suplementos, vem a alimentação, o exercício e o sono.
 
-No próximo vídeo dessa série, vamos falar de epigenética. Como hábitos e suplementos podem literalmente ligar e desligar gens, mudando o rumo da sua saúde. Então não se esquece de inscrever aqui no canal e ativar o sininho para receber a notificação desse vídeo quando ele sair no canal. Nos siga também nas redes sociais @dorfrancielecontor @camescam.
+No próximo vídeo dessa série, vamos falar de epigenética. Como hábitos e suplementos podem literalmente ligar e desligar gens, mudando o rumo da sua saúde. Então não se esquece de inscrever aqui no canal e ativar o sininho para receber a notificação desse vídeo quando ele sair no canal. Nos siga também nas redes sociais @drafrancieleconter @kaminskao.
 
 Até a próxima. Yeah.

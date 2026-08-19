@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=w0x28CvT1Jg
 youtube_id: w0x28CvT1Jg
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE ESTERÓIDES"
@@ -18,9 +19,9 @@ sha256: daa0f00ba4c7f08224623fa6171c6ed1d7ae49f53e83cb66ca62c330d4d3831a
 
 ## Transcript
 
-Nosso corpo produz esteroides. O que são esses hormônios? Eles fazem bem ou fazem mal? Olá, seja bem-vindo ao canal Caminscão.
+Nosso corpo produz esteroides. O que são esses hormônios? Eles fazem bem ou fazem mal? Olá, seja bem-vindo ao canal Kaminski Lab.
 
-Eu sou Gabriel Caminski, farmacêutico bioquímico, mestre e doutor em ciências farmacêuticas. E aqui a gente descomplica a ciência da saúde para você aplicar no dia a dia com conteúdo técnico, mas numa linguagem direta e acessível. Hoje vamos falar sobre um tema que gera muita dúvida, polêmica e até preconceitos, esteroides. Mas afinal, o que são esteroides?
+Eu sou Gabriel Kaminski, farmacêutico bioquímico, mestre e doutor em ciências farmacêuticas. E aqui a gente descomplica a ciência da saúde para você aplicar no dia a dia com conteúdo técnico, mas numa linguagem direta e acessível. Hoje vamos falar sobre um tema que gera muita dúvida, polêmica e até preconceitos, esteroides. Mas afinal, o que são esteroides?
 
 Eles são sempre perigosos? São todos anabolizantes? Existe diferença entre corticoides e esteroides que os atletas usam? Vamos organizar tudo isso até o final do vídeo.
 
@@ -44,4 +45,4 @@ Progesterona, fundamental no ciclo menstrual e na gravidez. Esses hormônios tam
 
 Para recapitular, esteroides são hormônios derivados do colesterol com funções fundamentais no corpo humano. que se dividem em corticoesteroides usados para controlar inflamação e imunidade como cortisol, mineralcortico que regulam o equilíbrio de sais e pressão como audosterona, hormônios sexuais como testosterona, estrogênio e progesterona. Todos esses grupos são essenciais para o funcionamento saudável do nosso corpo, mas seu uso clínico precisa ser feito com acompanhamento médico e muita responsabilidade. Nem todo esteroide é anabolizante e nem todo anabolizante é um vilão, mas o uso correto, o acompanhamento e o bom senso são indispensáveis.
 
-Se você gostou desse conteúdo e quer que eu aprofunde algum desses temas, como esteroides anabolizantes, terapia de reposição hormonal ou tratamento com corticoides, comenta aqui embaixo. E claro, se inscreve no canal, ativa o sininho e nos siga no Instagram, nos perfis Camincão e Dra. Franciele Conter para mais ciência aplicada de forma acessível. Nos vemos no próximo vídeo.
+Se você gostou desse conteúdo e quer que eu aprofunde algum desses temas, como esteroides anabolizantes, terapia de reposição hormonal ou tratamento com corticoides, comenta aqui embaixo. E claro, se inscreve no canal, ativa o sininho e nos siga no Instagram, nos perfis @kaminskao e Dra. Franciele Conter para mais ciência aplicada de forma acessível. Nos vemos no próximo vídeo.

@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=fNtrWuE_m68
 youtube_id: fNtrWuE_m68
 title: "É MELHOR COMPRIMIDO OU INJETÁVEL? A RESPOSTA DEFINITIVA"
@@ -18,7 +19,7 @@ sha256: edf6a305b571959b83e91cb32ab4ab0a993e5eb24d2ca29356bd3772b814b79b
 
 ## Transcript
 
-Meu nome é Gabriel Caminsk, sou mestre doutor em ciências farmacêuticos e hoje eu vou te explicar porque a vi de administração de um esteroide anabolizante muda completamente a forma como ele se comporta dentro do corpo. Toda vez que alguém me pergunta se é melhor usar comprimido ou aplicação injetável, a resposta certa não passa por praticidade, ela passa por farmacocinética, ou seja, o caminho que aquela molécula percorre desde o momento que ela entra no organismo até o momento em que ela é eliminada. E esse caminho muda tudo: eficácia, efeito colateral e risco. Quando o esteroide é administrado por via oral, ele precisa passar primeiro pelo fígado antes de cair na circulação sistêmica.
+Meu nome é Gabriel Kaminski, sou mestre doutor em ciências farmacêuticos e hoje eu vou te explicar porque a vi de administração de um esteroide anabolizante muda completamente a forma como ele se comporta dentro do corpo. Toda vez que alguém me pergunta se é melhor usar comprimido ou aplicação injetável, a resposta certa não passa por praticidade, ela passa por farmacocinética, ou seja, o caminho que aquela molécula percorre desde o momento que ela entra no organismo até o momento em que ela é eliminada. E esse caminho muda tudo: eficácia, efeito colateral e risco. Quando o esteroide é administrado por via oral, ele precisa passar primeiro pelo fígado antes de cair na circulação sistêmica.
 
 Esse fenômeno se chama metabolismo de primeira passagem e ele destrói a maior parte de um hormônio esteroide não modificado antes mesmo de fazer efeito. Por isso, praticamente todo esteroide oral disponível passou por uma alteração estrutural chamada alquilação na posição 17 alfa, que dificulta a quebra da molécula pelas enzimas hepáticas. O problema é que essa mesma modificação que permite ao fármaco sobreviver a passagem pelo fígado é o que aumenta o potencial de hepatotoxicidade, elevação de transaminases e, em casos mais graves, colestase. Já os esteroides injetáveis seguem uma lógica farmacocinética completamente diferente.
 
@@ -40,4 +41,4 @@ Existe até uma exceção interessante nessa história, o decano de testosteron 
 
 Do ponto de vista da prática farmacêutica, essa diferença entre vias também influencia diretamente a adesão ao tratamento quando existe indicação clínica real. Formulações orais parecem mais práticas à primeira vista, mas a necessidade de tomadas mais frequentes associada ao maior risco hepático faz com que na maioria dos protocolos terapêuticos de reposição hormonal legítima, a preferência recaia sobre injetáveis de ação prolongada, g de aplicação diária ou implantes subcutâneos, formas que equilibram melhor comodidade posológica com perfil de segurança. No fim das contas, escolher entre via oral e via injetável nunca deveria ser uma questão de conveniência. É uma decisão farmacológica com implicações diretas sobre onde o risco recai no organismo e que só faz sentido dentro do acompanhamento médico e farmacêutico responsável.
 
-Se você quer continuar aprendendo farmacologia de verdade sem promessa milagrosa e sem atalho, inscreva-se no canal, me siga no Instagram @caminscão e também caminskakad. Todo o conteúdo que eu trago aqui faz parte da mesma ciência que eu uso na bancada da farmácia.
+Se você quer continuar aprendendo farmacologia de verdade sem promessa milagrosa e sem atalho, inscreva-se no canal, me siga no Instagram @kaminskao e também caminskakad. Todo o conteúdo que eu trago aqui faz parte da mesma ciência que eu uso na bancada da farmácia.

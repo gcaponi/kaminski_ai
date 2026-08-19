@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=ZONKu7kXv4A
 youtube_id: ZONKu7kXv4A
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE A BIOGLUTIDA"
@@ -20,7 +21,7 @@ sha256: 0376d76c6a66f3723a30fe529ab10fa6d35fd4e8020fac705e10d1c57552516d
 
 Nos últimos meses, um nome começou a aparecer em fóruns, vídeos e grupos de biohacking, como se fosse a próxima revolução do metabolismo, a bioglutida, ou, tecnicamente, Na1. A promessa é grande, ativar múltiplas vias metabólicas, sendo elas estimular GLP1, GIP e glucagon, aumentar o gasto energético, promover emagrecimento sem perda muscular, ativando também IGF1 e ainda atuar como se fosse um mimético do exercício, ou seja, simulando que você faz exercícios. Soa quase perfeito demais. E quando algo soa perfeito demais na farmacologia, a primeira pergunta não é como usar e sim, isso é real.
 
-Hoje eu quero fazer exatamente isso, analisar a bioglutida com calma, ciência e espírito crítico. O que ela promete, o que faria sentido biologicamente e onde começam os sinais clássicos de que isso pode ser mais marketing do que uma molécula funcional. Eu sou o Dr. Gabriel Camisque, farmacêutico bioquímico, PhD em Ciências Farmacêuticas e aqui no canal Camiscão a gente não compra R, a gente desmonta ele com bioquímico.
+Hoje eu quero fazer exatamente isso, analisar a bioglutida com calma, ciência e espírito crítico. O que ela promete, o que faria sentido biologicamente e onde começam os sinais clássicos de que isso pode ser mais marketing do que uma molécula funcional. Eu sou o Dr. Gabriel Kaminski, farmacêutico bioquímico, PhD em Ciências Farmacêuticas e aqui no canal Kaminski Lab a gente não compra R, a gente desmonta ele com bioquímico.
 
 Vamos começar pelo básico. O que é bioglutina? Segundo os materiais divulgados, o Na1 seria um agonista múltiplo do eixo encretínico com ação em GLP1, Gip Glucagol e IGF1. Algo que lembra conceitualmente moléculas como tirepatida, reta trutida.
 

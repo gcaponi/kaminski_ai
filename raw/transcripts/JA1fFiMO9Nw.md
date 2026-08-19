@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=JA1fFiMO9Nw
 youtube_id: JA1fFiMO9Nw
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE A TREMBOLONA"

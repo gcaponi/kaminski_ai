@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=rDjLZ0qpS_k
 youtube_id: rDjLZ0qpS_k
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE O PRIMOBOLAN"
@@ -20,7 +21,7 @@ sha256: ad7bb54ad83cbabb86df178c01c96db96129f778daeeff4b6513795bf7eeb51d
 
 O esteroide mais seguro da história. Essa é a fama do Primobolan, usado até em pacientes covalescentes, em crianças, em determinado ponto da história. Se você quer saber mais sobre a história dessa droga, fica aqui comigo. Olá, seja bem-vindo ao canal.
 
-Eu sou o Gabriel Caminski, farmacêutico bioquímico, mestre e doutor em ciências farmacêuticas. E hoje nós vamos falar sobre um esteroide anabolizante bastante famoso no meio esportivo e que também tem uma história médica interessante, o Primobolan, cujo princípio ativo é a metenolona. Vamos explorar a história do Primobolan, as suas indicações clínicas, como ele é utilizado hoje e quais são os efeitos e riscos associados. A metanolona foi desenvolvida nos anos 1960 pela companhia farmacêutica Shering.
+Eu sou o Gabriel Kaminski, farmacêutico bioquímico, mestre e doutor em ciências farmacêuticas. E hoje nós vamos falar sobre um esteroide anabolizante bastante famoso no meio esportivo e que também tem uma história médica interessante, o Primobolan, cujo princípio ativo é a metenolona. Vamos explorar a história do Primobolan, as suas indicações clínicas, como ele é utilizado hoje e quais são os efeitos e riscos associados. A metanolona foi desenvolvida nos anos 1960 pela companhia farmacêutica Shering.
 
 Era comercializada em duas formas: primobolã oral, que é a metenolona acetato, e a primobolã depote, que é a metenolana enantato injetado. O objetivo original era oferecer um anabolizante com baixo risco de hepatotoxicidade e perfil mais seguro para pacientes debilitados. O primobolã chegou a ser usado em tratamento de anemia, caquexia associada a doenças crônicas, pacientes covalescentes após cirurgias ou infecções graves e até em alguns casos pediátricos devido a sua relativa segurança comparada a outros esteroides morais. Com o tempo, novas drogas mais específicas foram desenvolvidas e a metanolona deixou de ser utilizada clinicamente em larga escala.
 

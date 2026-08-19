@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=SS0auWj03P4
 youtube_id: SS0auWj03P4
 title: "AS MOLÉCULAS QUE VÃO MUDAR O METABOLISMO HUMANO"
@@ -22,7 +23,7 @@ Três moléculas, três caminhos completamente diferentes, mas todas com o mesmo
 
 E a terceira, SS31, é o peptídio que não acelera o corpo, ele repara a máquina por dentro, rejuvenece mitocôndrias e melhora a eficiência celular. Mas qual dessas moléculas é realmente o futuro da performance, do emagrecimento e da longevidade? É sobre isso que a gente vai falar hoje, com base científica, sem hype e com linguagem direta que você já conhece. Mas antes da gente continuar, não se esquece de se inscrever no canal, ativar as notificações para você não perder esses conteúdos e o principal, deixar um like pro YouTube recomendar o nosso conteúdo.
 
-Eu sou o Dr. Gabriel Caminski, farmacêutico bioquímico e PhD em Ciências Farmacêuticas. E aqui no nosso canal a gente fala de bioquímica aplicada a performance e longevidade real. Nada de budismo, nada de achismo.
+Eu sou o Dr. Gabriel Kaminski, farmacêutico bioquímico e PhD em Ciências Farmacêuticas. E aqui no nosso canal a gente fala de bioquímica aplicada a performance e longevidade real. Nada de budismo, nada de achismo.
 
 Vamos entender profundamente como essas moléculas funcionam, quais os seus riscos e o que a ciência realmente mostra sobre elas. Cardarri, também conhecido como GW50 1516, foi criada nos anos 90. A ideia era simples, desenvolver um fármaco que tratasse dislipidemia e melhorasse o metabolismo da glicose. Mas o que os pesquisadores encontraram foi uma molécula que fazia muito mais do que isso.
 
@@ -62,4 +63,4 @@ O foco deixa de ser a queima de calorias e passa a ser rejuvenescer o sistema qu
 
 O slop é o futuro do metabolismo inteligente, mas ainda experimental. E o SS31 é o que tem o potencial de mudar o jogo a longo prazo, regenerando, não apenas estimulando. A verdadeira performance não está em aumentar o gasto energético, mas em aumentar a eficiência do sistema energético. A Cardarine é fogo, o slop é combustível, SS31 é o motor e motor é o que define até onde você pode ir.
 
-E aí, gostou do vídeo? Deixe seu comentário aqui pedindo mais conteúdos como esse, porque aqui você aprende ciência para construir performance de verdade. Se inscreve no canal, ativa o sininho e me segue no Instagram @camenscão, porque aqui a gente vive 10 anos à frente da ciência com os pés na bioquímica e os olhos na longevidade. Yeah.
+E aí, gostou do vídeo? Deixe seu comentário aqui pedindo mais conteúdos como esse, porque aqui você aprende ciência para construir performance de verdade. Se inscreve no canal, ativa o sininho e me segue no Instagram @kaminskao, porque aqui a gente vive 10 anos à frente da ciência com os pés na bioquímica e os olhos na longevidade. Yeah.

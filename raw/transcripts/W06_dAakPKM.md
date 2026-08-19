@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=W06_dAakPKM
 youtube_id: W06_dAakPKM
 title: "TREINÃO DE PEITO COM FRANCISCON NA OFICIAL FARMA"

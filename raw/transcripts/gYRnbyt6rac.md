@@ -1,4 +1,5 @@
 ---
+speaker: franciele-conter
 source_url: https://www.youtube.com/watch?v=gYRnbyt6rac
 youtube_id: gYRnbyt6rac
 title: "TOMAR CAFÉ NA GESTAÇÃO FAZ MAL?"
@@ -14,13 +15,13 @@ sha256: 85ea46456a59757fbe43468b2808cf9da4838b2de714fee729a259f1eef04585
 # TOMAR CAFÉ NA GESTAÇÃO FAZ MAL?
 
 - Fonte: https://www.youtube.com/watch?v=gYRnbyt6rac
-- Temas: [[mulher]] · [[nutricao]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[nutricao]] · [[franciele-conter]]
 
 ## Transcript
 
 Tomar café na gestação faz mal? Se você está grávida tentando engravidar ou acompanha conteúdo sobre gestação, provavelmente já ouviu frases como: "Café faz mal, café é proibido". Grávida não pode tomar café de jeito nenhum. Eu sou Dra.
 
-Franciele Kaminsk médica e esse é o nosso canal Kaminski Lab. Aqui eu e meu marido Gabriel Caminsk falamos de ciência aplicada com base fisiológica e evidência científica atualizada. E eu já quero começar esse vídeo deixando algo muito claro. O café não é vilão da gestação.
+Franciele Conter médica e esse é o nosso canal Kaminski Lab. Aqui eu e meu marido Gabriel Kaminski falamos de ciência aplicada com base fisiológica e evidência científica atualizada. E eu já quero começar esse vídeo deixando algo muito claro. O café não é vilão da gestação.
 
 O problema nunca foi o café em si. O problema é o excesso de cafeína. Para entender isso, a gente precisa falar de fisiologia. A cafeína é uma substância estimulante que atravessa a placenta com muita facilidade.
 

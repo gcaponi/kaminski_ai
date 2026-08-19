@@ -1,4 +1,5 @@
 ---
+speaker: franciele-conter
 source_url: https://www.youtube.com/watch?v=AdWOgPALlR0
 youtube_id: AdWOgPALlR0
 title: "COMO RETINÓIDES E LUZ SOLAR MELHORAM SUA PELE"
@@ -14,7 +15,7 @@ sha256: 06fd96f1a78923259ecb93d065b17bd3d4f1f89effa9d39db01edb91c2ced80d
 # COMO RETINÓIDES E LUZ SOLAR MELHORAM SUA PELE
 
 - Fonte: https://www.youtube.com/watch?v=AdWOgPALlR0
-- Temas: [[farmacologia-geral]] · [[gabriel-kaminski]]
+- Temas: [[farmacologia-geral]] · [[franciele-conter]]
 
 ## Transcript
 
@@ -40,7 +41,7 @@ A exposição ao sol deve ser de 10 a 15 minutos, evitando os horários de pico.
 
 Em relação à exposição à luz do VB, exponha braços ou pernas por 5 a 10 minutos pela manhã. Uma, duas vezes por semana já é o suficiente. Depois use o protetor solar. Em relação à suplementação com colágeno mais vitamina C, tome 10 g ao dia de regeptum, peptídeo de colágeno, mais 500 mg de vitamina C no café da manhã ou após o seu treino, por menos seis semanas para anotar efeitos.
 
-E você pode adquirir esses suplementos clicando no link abaixo e utilizando o cupom do meu marido Camisc. E é claro, tem um estilo de vida saudável. Hidratação, alimentação rica em frutas e verduras e ômega-3, além de um sono adequado, exercícios regulares e manejo do estress. Recapitulando, retinoides fortalecem e rejuvenecem a pele.
+E você pode adquirir esses suplementos clicando no link abaixo e utilizando o cupom do meu marido @kaminskao. E é claro, tem um estilo de vida saudável. Hidratação, alimentação rica em frutas e verduras e ômega-3, além de um sono adequado, exercícios regulares e manejo do estress. Recapitulando, retinoides fortalecem e rejuvenecem a pele.
 
 Luz UVB moderada estimula regeneração, hormônios e saúde celular. Colágeno oral com vitamina C reforça a elasticidade e reduz inflamação. A combinação estratégica gera mais resultados do que usar cada intervenção de forma isolada. Use com cuidado.
 

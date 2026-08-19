@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=hftqDJ74u6I
 youtube_id: hftqDJ74u6I
 title: "TUDO QUE NÃO TE CONTARAM SOBRE HCG"

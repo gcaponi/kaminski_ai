@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=JKKpkBdZRP0
 youtube_id: JKKpkBdZRP0
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE A TERMOGÊNESE"
@@ -22,7 +23,7 @@ Existe um componente do gasto energético diário que raramente entra na discuss
 
 Em uma pessoa adulta saudável, esse componente representa aproximadamente 8 a 15% do gasto energético total de água. E a magnitude exata depende fortemente da composição macronutricional da dieta. O ponto que raramente é discutido é que os três macronutrientes principais têm efeitos térmicos significativamente diferentes entre si. E essa diferença produz consequências reais sobre o saldo calórico líquido absorvido de uma dieta.
 
-Neste vídeo você vai entender o que é o efeito térmico dos alimentos, qual é a diferença entre os macronutrientes, porque proteína tem o maior efeito térmico e como isso muda a forma como pensamos sobre composição da dieta no contexto do emagrecimento. Meu nome é Gabriel Caminsk, sou mestre doutor em ciências farmacêuticos e esse conteúdo foi desenvolvido para quem quer entender a fisiologia do metabolismo energético com profundidade real. Para entender a termogênese induzida pela dieta, é preciso pensar no que acontece no organismo após uma refeição. Cada uma dessas etapas consome energia.
+Neste vídeo você vai entender o que é o efeito térmico dos alimentos, qual é a diferença entre os macronutrientes, porque proteína tem o maior efeito térmico e como isso muda a forma como pensamos sobre composição da dieta no contexto do emagrecimento. Meu nome é Gabriel Kaminski, sou mestre doutor em ciências farmacêuticos e esse conteúdo foi desenvolvido para quem quer entender a fisiologia do metabolismo energético com profundidade real. Para entender a termogênese induzida pela dieta, é preciso pensar no que acontece no organismo após uma refeição. Cada uma dessas etapas consome energia.
 
 E a soma dessa energia consumida representa a Tide. A magnitude da Tide ou o efeito térmico dos alimentos varia significativamente entre os três macronutrientes principais por razões bioquímicas específicas. Para os carboidratos, o efeito térmico fica entre 5 a 10% das calorias ingeridas. Ou seja, para a proteína, o efeito térmico é dramaticamente maior, ficando entre 20 a 30% das calorias ingeridas.
 

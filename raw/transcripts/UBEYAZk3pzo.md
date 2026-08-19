@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=UBEYAZk3pzo
 youtube_id: UBEYAZk3pzo
 title: "NOSSAS MENINAS NASCERAM!"

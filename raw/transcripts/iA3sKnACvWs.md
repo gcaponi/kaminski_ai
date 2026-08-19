@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=iA3sKnACvWs
 youtube_id: iA3sKnACvWs
 title: "VOCÊ PRECISA DESSES PEPTÍDEOS OU É SÓ HYPE?"
@@ -40,6 +41,6 @@ Quando alguém investe tempo, dinheiro e crença em uma substância, é muito f�
 
 Mas isso é completamente diferente de dizer que uma pessoa saudável precisa disso para viver mais ou performar melhor. E esse é o ponto central desse vídeo. Você não precisa do SS31, você não precisa do MOT C, pelo menos não com base na ciência que existe hoje. Antes de buscar peptídeos caros, pouco estudados e cercados de marketing, o caminho mais inteligente é otimizar aquilo que já sabemos que funciona.
 
-Peinar melhor, dormir melhor, comer melhor, controlar inflamação, regular hormônios e reduzir estress. Aqui no Caminski Clab, eu e a Dra. Franciale Caminski acreditamos em ciência aplicada à vida real. Se algo funciona, a gente mostra o mecanismo e a evidência.
+Peinar melhor, dormir melhor, comer melhor, controlar inflamação, regular hormônios e reduzir estress. Aqui no Kaminski Lab, eu e a Dra. Franciele Conter acreditamos em ciência aplicada à vida real. Se algo funciona, a gente mostra o mecanismo e a evidência.
 
-Se algo ainda é promessa, a gente deixa claro que é promessa. Mitocôndria saudável não vem de atalho, vem de coerência biológica. Se você quer continuar aprendendo a separar ciência de hype, se inscreva no Caminskilab. Ative o sininho e acompanhe nossos próximos conteúdos.
+Se algo ainda é promessa, a gente deixa claro que é promessa. Mitocôndria saudável não vem de atalho, vem de coerência biológica. Se você quer continuar aprendendo a separar ciência de hype, se inscreva no Kaminski Lab. Ative o sininho e acompanhe nossos próximos conteúdos.

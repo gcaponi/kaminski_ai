@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=kwe77jsd3M8
 youtube_id: kwe77jsd3M8
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE A TESAMORELINA"
@@ -22,7 +23,7 @@ Você já ouviu falar em tesamorelina? Esse peptídio é um dos compostos mais f
 
 Ela atua no eixo hormonal que controla a gordura visceral. Hoje eu vou te explicar o que é a tesamorelina, como ela funciona dentro do corpo e porque ela representa um avanço real no combate à gordura. mais perigosa que existe, a gordura visceral. Mas antes de mais nada, aproveita para se inscrever no canal, ativar as notificações e deixar um like pro YouTube recomendar esse tipo de conteúdo para você.
 
-Eu sou o Dr. Gabriel Caminsk, farmacêutico, bioquímico e PhD em Ciências Farmacêuticas. E aqui a gente fala de bioquímica aplicada a performance, saúde e longevidade, sem hype, sem atalhos e com base científica de verdade. Quando a gente fala em gordura corporal, nem toda a gordura é igual.
+Eu sou o Dr. Gabriel Kaminski, farmacêutico, bioquímico e PhD em Ciências Farmacêuticas. E aqui a gente fala de bioquímica aplicada a performance, saúde e longevidade, sem hype, sem atalhos e com base científica de verdade. Quando a gente fala em gordura corporal, nem toda a gordura é igual.
 
 A gordura subcutânea, aquela logo abaixo da pele, é mais estética, mas a gordura visceral que se acumula em volta dos órgãos é metabolicamente ativa e inflamatória. Ela libera citocinas pró-inflamatórias, como a interleucina 6, TNF alfa e resistina, que aumentam a resistência à insulina, prejudicam o fígado, o pâncreas e o sistema cardiovascular. Pessoas com altos níveis de gordura visceral t maior risco de síndrome metabólica, diabetes tipo 2,idemia, hipertensão e até declínio cognitivo. E o problema é que a gordura visceral não responde bem à dieta e exercícios sozinhos.
 

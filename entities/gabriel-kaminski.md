@@ -10,10 +10,12 @@ confidence: high
 
 # Gabriel Kaminski
 
-PhD em ciências farmacêuticas. Fonte única desta vault: só entra o que ele disse em vídeo, com link e transcript.
+PhD em ciências farmacêuticas. No canal Kaminski Lab apresenta a maior parte das aulas de farmacologia, peptídeos e AAS.
 
-- Canal próprio: [Kaminski Lab](https://www.youtube.com/@kaminskilab)
+- Canal: [Kaminski Lab](https://www.youtube.com/@kaminskilab)
 - Instagram: [@kaminskao](https://www.instagram.com/kaminskao/)
+
+Esposa e co-apresentadora: [[franciele-conter]] (@drafrancieleconter). Os vídeos dela não levam o wikilink `[[gabriel-kaminski]]`.
 
 ## Temas
 
@@ -22,13 +24,8 @@ PhD em ciências farmacêuticas. Fonte única desta vault: só entra o que ele d
 - [[incretinas]]
 - [[esteroides-aas]]
 - [[hormonio-de-crescimento]]
-- [[insulina]]
 - [[tireoide]]
-- [[ciclo-e-pct]]
-- [[exames-e-saude]]
 - [[treino]]
 - [[nutricao]]
-- [[genetica]]
-- [[mulher]]
 - [[farmacologia-geral]]
-- [[_inbox]]
+- [[longevidade]]

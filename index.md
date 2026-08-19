@@ -1,11 +1,12 @@
 # Wiki Index
 
 > Catálogo. Toda página wiki aparece aqui, com uma linha de resumo.
-> Last updated: 2026-08-19 | Total pages: 19
+> Last updated: 2026-08-19 | Total pages: 20
 
 ## Entities
 
-- [[gabriel-kaminski]] — PhD em ciências farmacêuticas; fonte única desta vault.
+- [[gabriel-kaminski]] — PhD; maioria das aulas de farmacologia.
+- [[franciele-conter]] — médica; vídeos de mulher / gestação / climatério.
 
 ## Temas
 

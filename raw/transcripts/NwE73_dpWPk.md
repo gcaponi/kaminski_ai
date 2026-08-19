@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=NwE73_dpWPk
 youtube_id: NwE73_dpWPk
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE SELANK E SEMAX"
@@ -22,7 +23,7 @@ O canal já cobriu peptídeos de reparo como VPC157, TB500, secretagogos de GH c
 
 Eles não são estimulantes, não são sedativos, não são esteroides e não tem nada a ver com GH ou reparo muscular. São ferramentas para a biologia do cérebro. Neste vídeo você vai entender de onde vem o CELC e o Semax e qual é a biologia que motivou o seu desenvolvimento, como o CELANC modula o sistema gabaérgico e a ansiedade, como o CMAX age sobre BDNF e os circuitos cognitivos. O que os diferencia de ansiolíticos e neutrópicos convencionais?
 
-e quais são as evidências disponíveis e seus limites. Meu nome é Gabriel Camins, sou mestre tutor em ciências farmacêuticas e esse conteúdo foi desenvolvida para quem quer entender a neurociência aplicada com profundidade. O selan é um eptapeptídeo sintético desenvolvido no Instituto de Biologia Molecular da Academia de Ciências da Rússia, baseado na estrutura da tuftosina, um tetrapeptídio naturalmente presente no organismo com funções imunológicas. A tuftosina tem a propriedade de se ligar a receptores no sistema nervoso central com efeitos ansiolíticos.
+e quais são as evidências disponíveis e seus limites. Meu nome é Gabriel Kaminski, sou mestre tutor em ciências farmacêuticas e esse conteúdo foi desenvolvida para quem quer entender a neurociência aplicada com profundidade. O selan é um eptapeptídeo sintético desenvolvido no Instituto de Biologia Molecular da Academia de Ciências da Rússia, baseado na estrutura da tuftosina, um tetrapeptídio naturalmente presente no organismo com funções imunológicas. A tuftosina tem a propriedade de se ligar a receptores no sistema nervoso central com efeitos ansiolíticos.
 
 E o selanque foi desenvolvido como um análogo estabilizado com maior resistência à degradação enzimática e maior meia vida biológica. Está registrado como medicamento na Rússia e em alguns países do Leste Europeu para tratamento de transtornos de ansiedade e como neuroprotetor, com toda a base de dados clínicos disponível proveniente de estudos conduzidos na Rússia e na Ucrânia. Seu mecanismo ansiolítico envolve modulação do receptor gaba a o mesmo receptor que os benenso de azepínicos modulam, mas de forma diferente, um perfil muito mais favorável em termos de dependência e tolerância. Enquanto benodas epílicos potencializam a ação do GABA de forma não seletiva e intensa, produzindo sedação, tolerância e dependência física, o selante parece modular o sistema gabaérgico de forma mais sutil e seletiva, com efeito ansiolítico sem sedação clinicamente significativa e sem os mecanismos que produzem a dependência física nos dias.
 

@@ -1,4 +1,5 @@
 ---
+speaker: franciele-conter
 source_url: https://www.youtube.com/watch?v=HF92xlNC5IU
 youtube_id: HF92xlNC5IU
 title: "GRÁVIDA PODE TOMAR CREATINA?"
@@ -14,13 +15,13 @@ sha256: d64864818068bc8d09ee7b53213dcc538e13113bc5719c4f1d695505623bce0a
 # GRÁVIDA PODE TOMAR CREATINA?
 
 - Fonte: https://www.youtube.com/watch?v=HF92xlNC5IU
-- Temas: [[mulher]] · [[nutricao]] · [[gabriel-kaminski]]
+- Temas: [[mulher]] · [[nutricao]] · [[franciele-conter]]
 
 ## Transcript
 
 Hoje eu falo diretamente com as grávidas. Toda grávida já ouviu criatina é coisa de atleta. Creatina não pode na gestação ou que não existe estudo suficiente ainda para ser utilizado. Será que essas frases são verdadeiras?
 
-Eu sou Dra. Francele Kaminsk, médica e esse é o nosso canal Kaminski Lab. Aqui eu e meu marido Gabriel Kaminski falamos de ciência aplicada com base fisiológica e evidência científica atualizada para quem quer cuidar da saúde com responsabilidade. Então, antes da gente entrar no assunto, eu quero pedir para você se inscrever no canal e ativar as notificações para não perder nenhum vídeo novo.
+Eu sou Dra. Franciele Conter, médica e esse é o nosso canal Kaminski Lab. Aqui eu e meu marido Gabriel Kaminski falamos de ciência aplicada com base fisiológica e evidência científica atualizada para quem quer cuidar da saúde com responsabilidade. Então, antes da gente entrar no assunto, eu quero pedir para você se inscrever no canal e ativar as notificações para não perder nenhum vídeo novo.
 
 E eu já quero começar esse vídeo com uma afirmação muito importante. A creatina não é suplemento apenas para quem faz musculação. Ela é uma molécula endógena essencial pra bioenergética celular, inclusive durante a gestação. Para entender isso, a gente precisa sair do imaginário da academia e entrar na fisiologia.
 

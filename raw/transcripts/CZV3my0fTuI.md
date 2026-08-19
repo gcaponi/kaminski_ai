@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=CZV3my0fTuI
 youtube_id: CZV3my0fTuI
 title: "TUDO QUE VOCÊ PRECISA saber SOBRE ELAMIPRETIDE - SS-31"
@@ -20,7 +21,7 @@ sha256: 78a1abd169132e9ec0d9f8c06614db7f2f94cc0e4b1e15e575e8b444f3ad67be
 
 Você já ouviu falar em um peptídeo chamado SS31? Talvez não. Mas essa molécula está sendo chamada de a chave da nova era mitocondrial. Enquanto o mundo olha para medicamentos que queimam gordura ou reduzem apetite, a ciência mais avançada está olhando para dentro da célula, pro lugar onde toda a energia do corpo é realmente gerada, a mitocôndria.
 
-Hoje eu vou te mostrar o que é o SS31, como ele funciona dentro da célula e porque esse pequeno peptídeo pode ser o elo entre performance, regeneração e longevidade. Mas antes, aproveito para se inscrever no canal, ativar as notificações e curtir esse vídeo pro YouTube te recomendar conteúdos semelhantes. Eu sou o Dr. Gabriel Caminsk, farmacêutico bioquímico, PhD em Ciências Farmacêuticas e aqui no canal a gente fala de bioquímica aplicada à performance e à vida real, sem hype, sem milagre e com base em ciência sólida.
+Hoje eu vou te mostrar o que é o SS31, como ele funciona dentro da célula e porque esse pequeno peptídeo pode ser o elo entre performance, regeneração e longevidade. Mas antes, aproveito para se inscrever no canal, ativar as notificações e curtir esse vídeo pro YouTube te recomendar conteúdos semelhantes. Eu sou o Dr. Gabriel Kaminski, farmacêutico bioquímico, PhD em Ciências Farmacêuticas e aqui no canal a gente fala de bioquímica aplicada à performance e à vida real, sem hype, sem milagre e com base em ciência sólida.
 
 Antes de entender o SS31, a gente precisa entender o campo de batalha aonde ele atua. A mitocôndria. A mitocôndria é o coração bioquímico da célula. É ali que acontece a fosforilação oxidativa, o processo que transforma os nutrientes, glicose, gordura e aminoácidos, em ATP.
 

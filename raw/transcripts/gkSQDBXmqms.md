@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=gkSQDBXmqms
 youtube_id: gkSQDBXmqms
 title: "FAZ TUDO CORRETO E VIVE SEM LIBIDO? O QUE FAZER?"
@@ -20,7 +21,7 @@ sha256: 11e1fe789e6bf86ee5f625ad02723fdfdb2597988cca7959a3a3f9917881e8f7
 
 Você treina certo, come bem, dorme melhor do que a média e mesmo assim sente a libido cair, o shape estagnar e o corpo responder menos ao estímulo. O que pode estar acontecendo? Muitas vezes o problema não está no treino nem na dieta, mas no ambiente. No copo de café, no recibo da maquininha, no pote que você esquenta no microondas ou até na garrafinha de água que ficou no carro quente.
 
-Hoje eu vou te mostrar como os disruptores endócrinos estão destruindo silenciosamente o seu eixo hormonal, alterando testosterona, estradiol, tireoide e metabolismo. E o que você pode fazer na prática para se proteger? Eu sou o Dr. Gabriel Camiski, farmacêutico bioquímico, PhD em Ciências Farmacêuticas.
+Hoje eu vou te mostrar como os disruptores endócrinos estão destruindo silenciosamente o seu eixo hormonal, alterando testosterona, estradiol, tireoide e metabolismo. E o que você pode fazer na prática para se proteger? Eu sou o Dr. Gabriel Kaminski, farmacêutico bioquímico, PhD em Ciências Farmacêuticas.
 
 E aqui no canal a gente fala de bioquímica aplicada a performance e longevidade real. Mas afinal, o que são disruptores endócrinos? Os disruptores endócrinos são substâncias químicas que imitam ou bloqueiam hormônios no corpo, interferindo nos receptores e na regulação hormonal. Eles se ligam a receptores de estrogênio, androgênio, progesterona, tireoide, glicocorticoides e até interferem em enzimas como aromatase e assim com alfar redutase.
 
@@ -46,4 +47,4 @@ Como o corpo elimina os disruptores endócrinos? O fígado é o principal órgã
 
 Os disruptores endócrinos são o novo doping invisível, mas ao contrário do que buscamos, eles sabotam a sua performance, sua fertilidade e também a longevidade. O corpo que você constrói na academia é o mesmo que você destrói na cozinha, no banheiro, no escritório, se não prestar atenção nesses detalhes. Evitar um copo plástico, um recibo térmico e micro-ondas com pote errado vale mais pra sua testosterona do que muita gente imagina. Eu sou o Dr.
 
-Gabriel Camiski e aqui no canal eu te ensino a viver 10 anos à frente da ciência sem deixar que o ambiente desligue o seu eixo hormonal. Se inscreva no canal, ativa o sininho e me segue no Instagram @camenscão. Porque longevidade não é sobreviver mais, é sobreviver limpo, funcional e com hormônio que é seu.
+Gabriel Kaminski e aqui no canal eu te ensino a viver 10 anos à frente da ciência sem deixar que o ambiente desligue o seu eixo hormonal. Se inscreva no canal, ativa o sininho e me segue no Instagram @kaminskao. Porque longevidade não é sobreviver mais, é sobreviver limpo, funcional e com hormônio que é seu.

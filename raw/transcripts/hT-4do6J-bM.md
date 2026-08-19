@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=hT-4do6J-bM
 youtube_id: hT-4do6J-bM
 title: "TALK SOBRE MATERNIDADE COM CAROL SARAIVA"
@@ -18,7 +19,7 @@ sha256: 152e6a07a61a83d6976a9e8dd246b641a32e88d87841f47a03b0ad9af297fe12
 
 ## Transcript
 
-Sejam muito bem-vindos a Caminsk Lab. Hoje eu tenho uma convidada muito especial, Carol Saraiva, minha amiga, empresária, mãe não, primeiro mãe, amiga, empresária, profissional de educação física, de nutrição. E hoje a gente vai falar sobre um assunto que é muito querido e muito pouco explorado, que é a maternidade, né, amiga? Ah, tô muito feliz de estar aqui, principalmente que, ó, gentilma quase quase conhecendo o grande amor da vida dela, né?
+Sejam muito bem-vindos a Kaminski Lab. Hoje eu tenho uma convidada muito especial, Carol Saraiva, minha amiga, empresária, mãe não, primeiro mãe, amiga, empresária, profissional de educação física, de nutrição. E hoje a gente vai falar sobre um assunto que é muito querido e muito pouco explorado, que é a maternidade, né, amiga? Ah, tô muito feliz de estar aqui, principalmente que, ó, gentilma quase quase conhecendo o grande amor da vida dela, né?
 
 Os dois amores. Então, tô muito feliz de estar aqui contigo. Vamos falar um pouquinho. Realmente, eu acho que o meu principal título é ser mãe, porque eu amo esse papel e vou amar compartilhar um pouquinho aqui com vocês.
 

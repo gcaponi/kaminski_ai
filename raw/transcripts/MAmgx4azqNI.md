@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=MAmgx4azqNI
 youtube_id: MAmgx4azqNI
 title: "LEG DAY E RESENHA COM GABRIEL FRANCISCON"

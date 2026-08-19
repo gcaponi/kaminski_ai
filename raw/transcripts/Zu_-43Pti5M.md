@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=Zu_-43Pti5M
 youtube_id: Zu_-43Pti5M
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE O PT141"
@@ -20,7 +21,7 @@ sha256: cd558995f035b9c90f94279d7b59c50abdb19628f70b0d67d839cec823ac9327
 
 A maioria dos compostitos usados para disfunção sexual age de baixo para cima, atuam nos vasos periféricos, aumentam fluxo sanguíneo genital e produzem resposta erétil ou o engurgitamento. Se o denafio, tadalafil e compostos similares funcionam assim. O PT141 faz o caminho oposto. Ele age no cérebro, especificamente nos receptores de melanocortina, no sistema nervoso central e produz desejo sexual antes de produzir qualquer resposta vascular.
 
-Essa diferença de mecanismo não é apenas academicamente interessante, é clinicamente relevante, porque posiciona o PT141 como ferramenta para um problema que os inibidores da fósforo deesterase 5 não resolvem. a disfunção sexual de origem central, seja em homens com libido a ou transtorno do desejo sexual hipoativo. Nesse vídeo, você vai entender o que é o sistema melanocortina e como ele regula o desejo sexual, o que é o PT141 e como foi descoberto, como age diferente dos tratamentos convencionais, o que a evidência clínica mostra para homens e mulheres e quais são os efeitos adversos que precisam ser conhecidos. Meu nome é Gabriel Caminski, sou mestre, doutor em Ciências Farmacêuticas e esse conteúdo foi desenvolvido para quem quer entender a neurobiologia da função sexual.
+Essa diferença de mecanismo não é apenas academicamente interessante, é clinicamente relevante, porque posiciona o PT141 como ferramenta para um problema que os inibidores da fósforo deesterase 5 não resolvem. a disfunção sexual de origem central, seja em homens com libido a ou transtorno do desejo sexual hipoativo. Nesse vídeo, você vai entender o que é o sistema melanocortina e como ele regula o desejo sexual, o que é o PT141 e como foi descoberto, como age diferente dos tratamentos convencionais, o que a evidência clínica mostra para homens e mulheres e quais são os efeitos adversos que precisam ser conhecidos. Meu nome é Gabriel Kaminski, sou mestre, doutor em Ciências Farmacêuticas e esse conteúdo foi desenvolvido para quem quer entender a neurobiologia da função sexual.
 
 O sistema melanocortina é um dos eixos de sinalização mais multifuncionais do sistema nervoso central. Os peptídeos melanocortínicos são derivados da proteína precursora POMC, que produz múltiplos fragmentos biologicamente ativos, incluindo o ACTH e os hormônios estimuladores de melanócitos alfa mesh, beta mesh e gama mh. Esses peptídios agem em cinco receptores MC1R a MC5R, com distribuição distinta no organismo. O MC1R na pele regula a produção de melanina.
 

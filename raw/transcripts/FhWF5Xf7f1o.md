@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=FhWF5Xf7f1o
 youtube_id: FhWF5Xf7f1o
 title: "TUDO QUE VOCÊ PRECISA SABER SOBRE A OXANDROLONA"
@@ -18,7 +19,7 @@ sha256: b510501514c54d2fc6f5161cef3ad3a6fdec7598a4f014e3a679b6b91b384d49
 
 ## Transcript
 
-Você sabia que um dos esteroides anabolizantes mais usados no fisiculturismo nasceu com medicamento para tratar crianças e pacientes queimados? Eu estou falando da oxandrolona, também conhecida como a navicamento hospitalar, a droga de performance, a oxandrolona carrega uma história cheia de curiosidades, benefícios e riscos. E é sobre isso que eu vou te contar hoje. Olá, eu sou o Gabriel Caminsk, farmacêutico de equipo, mestre e doutor em ciências farmacêuticas.
+Você sabia que um dos esteroides anabolizantes mais usados no fisiculturismo nasceu com medicamento para tratar crianças e pacientes queimados? Eu estou falando da oxandrolona, também conhecida como a navicamento hospitalar, a droga de performance, a oxandrolona carrega uma história cheia de curiosidades, benefícios e riscos. E é sobre isso que eu vou te contar hoje. Olá, eu sou o Gabriel Kaminski, farmacêutico de equipo, mestre e doutor em ciências farmacêuticas.
 
 No vídeo de hoje, vamos explorar a trajetória de um dos esteroides mais conhecidos, a oxandrolona. Você vai descobrir como ela foi desenvolvida, quais eram suas indicações médicas originais, como era prescrita e utilizada clinicamente e porque ela ganhou tanta fama no meio esportivo. A oxandro foi desenvolvida nos anos 1960 pela Cleories com o nome comercial Anavar. O seu objetivo era ser um anabolizante seguro com baixa hepatotoxicidade e baixo risco de virilização em mulheres.
 
@@ -34,4 +35,4 @@ Apesar de sua reputação de ser segura, a oxandrolona não está livre de colat
 
 Em mulheres, em doses altas pode causar virilização, como engrossamento da voz, aumento de clitórios, acne e queda de cabelo. A oxandrolona é um exemplo de como um fármaco criado com objetivos nobres, tratar queimados, crianças e pacientes debilitados, acabou se tornando uma das drogas mais populares no esporte. Ela tem o seu espaço histórico e científico, mas o seu uso recreativo e estético envolve alguns riscos, especialmente em doses altas e sem acompanhamento. O aprendizado aqui é que em farmacologia não existe substância totalmente segura.
 
-O que existe é indicação correta, dose adequada e monitoramento do risco. Se você gostou desse vídeo, deixe o seu like, se inscreva no canal e comente se gostaria que eu falasse também sobre a história da Oxandrolano no Brasil ou sobre ciclos femininos com esse esteroide. Nos acompanhe nas redes sociais @caminscão @dfrancielter e até próximo vídeo.
+O que existe é indicação correta, dose adequada e monitoramento do risco. Se você gostou desse vídeo, deixe o seu like, se inscreva no canal e comente se gostaria que eu falasse também sobre a história da Oxandrolano no Brasil ou sobre ciclos femininos com esse esteroide. Nos acompanhe nas redes sociais @kaminskao @drafrancieleconter e até próximo vídeo.

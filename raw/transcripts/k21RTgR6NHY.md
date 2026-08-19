@@ -1,4 +1,5 @@
 ---
+speaker: gabriel-kaminski
 source_url: https://www.youtube.com/watch?v=k21RTgR6NHY
 youtube_id: k21RTgR6NHY
 title: "VOU SAIR DE 120KG E METER O SHAPE - PROJETO SHAPE DE PAI EP #01"
