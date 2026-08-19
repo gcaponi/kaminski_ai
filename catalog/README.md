@@ -1,22 +1,6 @@
 # catalog/
 
-Metti qui la lista dei video.
+Lista umana dei video ufficiali. La fonte degli URL è `../video.txt`.
 
-## File
-
-Sorgente di verità: `../video.txt` (già nel repo, 265 URL).
-
-`video-urls.txt` resta solo come eventuale coda extra.
-
-Righe vuote e righe che iniziano con `#` vengono ignorate.
-
-Formati accettati:
-
-```
-https://www.youtube.com/watch?v=xxxxxxxxxxx
-https://youtu.be/xxxxxxxxxxx
-https://www.youtube.com/shorts/xxxxxxxxxxx
-xxxxxxxxxxx
-```
-
-Quando il file è su GitHub, Fama lancia `scripts/ingest_urls.py`.
+- `kaminskilab-videos.md` — titolo + durata dei 67 video di [@kaminskilab/videos](https://www.youtube.com/@kaminskilab/videos)
+- `kaminskilab-videos.tsv` — stesso elenco, tabulato
