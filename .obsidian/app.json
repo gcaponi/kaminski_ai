@@ -1,0 +1,10 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "raw/transcripts",
+  "attachmentFolderPath": "raw/assets",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true
+}

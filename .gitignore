@@ -1,0 +1,15 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.DS_Store
+Thumbs.db
+__pycache__/
+.venv/
+venv/
+*.pyc
+*.mp4
+*.webm
+*.wav
+*.mp3
+.cache/
