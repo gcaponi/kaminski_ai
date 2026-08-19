@@ -21,3 +21,8 @@
 - Svuotata `raw/transcripts/` (tenuto solo README)
 - Nuovo catalogo: 67 video da https://www.youtube.com/@kaminskilab/videos
 - `video.txt` sostituito. Lista umana in `catalog/kaminskilab-videos.md`
+
+## [2026-08-19] ingest | 59/67 video ufficiali
+
+- Transcripts PT-BR dei video @kaminskilab/videos (parser con chiusure)
+- Mancano 8 ID in coda al catalogo
