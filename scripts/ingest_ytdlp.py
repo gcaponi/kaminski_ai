@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import html
 import json
 import re
 import subprocess
@@ -56,25 +57,51 @@ def parse_ids(path: Path) -> list[str]:
     return ids
 
 
+def clean_caption_line(line: str) -> str:
+    text = html.unescape(TAG_RE.sub("", line))
+    text = text.replace(">>", " ").replace("\xa0", " ")
+    return " ".join(text.split()).strip()
+
+
 def vtt_to_segments(text: str) -> list[tuple[str, str]]:
-    """Keep clean auto-caption lines (no word-level <c> tags), drop dupes."""
+    """Parse YouTube auto-VTT cue-by-cue.
+
+    Auto-captions keep the newest words only on the last payload line of a
+    cue (often with <c> word timestamps). Skipping those lines dropped the
+    final seconds of every video.
+    """
     segs: list[tuple[str, str]] = []
     last = ""
     current_ts = "00:00:00"
+    payload: list[str] = []
+
+    def flush() -> None:
+        nonlocal last, payload
+        if not payload:
+            return
+        candidate = clean_caption_line(payload[-1])
+        payload = []
+        if not candidate or candidate == last:
+            return
+        last = candidate
+        segs.append((current_ts, candidate))
+
     for line in text.splitlines():
         m = CUE_TS.search(line)
         if m:
+            flush()
             current_ts = m.group(1)[:8]
             continue
-        if not line.strip() or line.startswith("WEBVTT") or line.startswith("Kind:") or line.startswith("Language:"):
+        stripped = line.strip()
+        if (
+            not stripped
+            or stripped.startswith("WEBVTT")
+            or stripped.startswith("Kind:")
+            or stripped.startswith("Language:")
+        ):
             continue
-        if "<c>" in line or "</c>" in line:
-            continue
-        clean = TAG_RE.sub("", line).strip()
-        if not clean or clean == last:
-            continue
-        last = clean
-        segs.append((current_ts, clean))
+        payload.append(stripped)
+    flush()
     return segs
 
 
@@ -208,6 +235,12 @@ def main() -> int:
     parser.add_argument("urls_file", type=Path)
     parser.add_argument("--limit", type=int, default=0)
     parser.add_argument("--sleep", type=float, default=5.0)
+    parser.add_argument("--force", action="store_true", help="re-fetch even if the note exists")
+    parser.add_argument(
+        "--reparse-cache",
+        action="store_true",
+        help="rebuild existing notes from cached VTTs without hitting YouTube",
+    )
     args = parser.parse_args()
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -224,7 +257,46 @@ def main() -> int:
     ok = skip = fail = ratelimited = 0
     for i, vid in enumerate(ids, 1):
         dest = OUT_DIR / f"{vid}.md"
-        if dest.exists() and dest.stat().st_size > 200:
+        if args.reparse_cache:
+            vtts = sorted(WORKDIR.glob(f"{vid}*.vtt"))
+            if dest.exists() and vtts:
+                segs = vtt_to_segments(vtts[0].read_text(encoding="utf-8", errors="replace"))
+                if segs:
+                    meta = {"id": vid, "title": "", "channel": "", "duration": 0, "upload_date": ""}
+                    info_path = WORKDIR / f"{vid}.info.json"
+                    if info_path.exists():
+                        info = json.loads(info_path.read_text(encoding="utf-8"))
+                        meta.update(
+                            {
+                                "title": info.get("title") or "",
+                                "channel": info.get("channel") or info.get("uploader") or "",
+                                "duration": info.get("duration") or 0,
+                                "upload_date": info.get("upload_date") or "",
+                            }
+                        )
+                    else:
+                        # keep title from existing note if no info json
+                        head = dest.read_text(encoding="utf-8", errors="replace").splitlines()
+                        for line in head[:20]:
+                            if line.startswith("title:"):
+                                meta["title"] = line.split(":", 1)[1].strip().strip('"')
+                            elif line.startswith("channel:"):
+                                meta["channel"] = line.split(":", 1)[1].strip().strip('"')
+                            elif line.startswith("duration_s:"):
+                                try:
+                                    meta["duration"] = int(line.split(":", 1)[1].strip())
+                                except ValueError:
+                                    pass
+                            elif line.startswith("published:"):
+                                meta["upload_date"] = line.split(":", 1)[1].strip().replace("-", "")
+                    write_note(vid, {"segments": segs, "meta": meta})
+                    print(f"[{i}/{len(ids)}] REPARSE {vid}  segs={len(segs)}  last={segs[-1][0]}", flush=True)
+                    ok += 1
+                    continue
+            print(f"[{i}/{len(ids)}] SKIP {vid}  no cached vtt", flush=True)
+            skip += 1
+            continue
+        if dest.exists() and dest.stat().st_size > 200 and not args.force:
             print(f"[{i}/{len(ids)}] SKIP {vid}", flush=True)
             skip += 1
             continue
