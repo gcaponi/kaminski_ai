@@ -21,6 +21,8 @@ import time
 from datetime import date
 from pathlib import Path
 
+_venv_ytdlp = Path(sys.executable).parent / "yt-dlp"
+YTDLP = str(_venv_ytdlp if _venv_ytdlp.exists() else "yt-dlp")
 ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / "raw" / "transcripts"
 COOKIE_BROWSER = "chrome:/root/.config/google-chrome/Profile 3"
@@ -87,7 +89,7 @@ def run(cmd: list[str], timeout: int = 90) -> subprocess.CompletedProcess:
 def refresh_cookies() -> None:
     WORKDIR.mkdir(parents=True, exist_ok=True)
     cmd = [
-        "yt-dlp",
+        YTDLP,
         "--cookies-from-browser",
         COOKIE_BROWSER,
         "--cookies",
@@ -113,7 +115,7 @@ def fetch_one(video_id: str) -> dict:
     for leftover in WORKDIR.glob(f"{video_id}*"):
         leftover.unlink()
     cmd = [
-        "yt-dlp",
+        YTDLP,
         "--cookies",
         str(COOKIE_FILE),
         "--write-auto-sub",
