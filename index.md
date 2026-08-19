@@ -27,4 +27,4 @@
 
 ## Transcripts
 
-Nenhum ainda. Aguardando `catalog/video-urls.txt`.
+Nenhum ainda. Catalogo oficial: 67 vídeos em `video.txt` (`@kaminskilab/videos`). Sem Shorts.

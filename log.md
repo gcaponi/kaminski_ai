@@ -14,3 +14,10 @@
 - Metodo: `scripts/ingest_ytdlp.py` (yt-dlp + cookie Chrome Profile 3, `pt-orig`)
 - Test: 3/3 OK (MI4B18okOyY, hXCADESzQgM, Lq7Sa42QUWw)
 - Catalogo restante: 262 video. Job in corso sulla VPS.
+
+## [2026-08-19] scope | solo @kaminskilab/videos
+
+- Fermato ingest dei 265 (troppi Shorts/Reels senza contenuto serio)
+- Svuotata `raw/transcripts/` (tenuto solo README)
+- Nuovo catalogo: 67 video da https://www.youtube.com/@kaminskilab/videos
+- `video.txt` sostituito. Lista umana in `catalog/kaminskilab-videos.md`

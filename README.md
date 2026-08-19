@@ -11,7 +11,7 @@ Stesso repo, stesso grafo. Nessun file sulla Scrivania.
 
 ## Come lavoriamo
 
-1. I link sono in `video.txt` (265 URL).
+1. I link sono in `video.txt` — **solo i video di** [youtube.com/@kaminskilab/videos](https://www.youtube.com/@kaminskilab/videos). Niente Shorts/Reels.
 2. Fama scarica i transcript **dalla VPS**, in automatico (yt-dlp + cookie del Chrome già loggato). Tu non lanci nulla.
 3. Tu fai `git pull` e apri la cartella come vault Obsidian.
 
@@ -28,7 +28,7 @@ git pull
 | `SCHEMA.md` | Regole. Leggerlo prima di toccare qualsiasi nota. |
 | `index.md` | Catalogo di tutte le pagine wiki. |
 | `log.md` | Diario append-only. |
-| `video.txt` | Lista dei 265 video da ingerire. |
+| `video.txt` | Lista ufficiale @kaminskilab/videos (67 video, no Shorts). |
 | `raw/transcripts/` | Una nota per video. Testo integrale PT-BR. Immutabile. |
 | `temas/` | Mappe di contenuto (un file per tema). Qui nasce il grafo. |
 | `entities/` | Persone / canali. |
