@@ -1,49 +1,50 @@
 # Kaminski AI
 
-Vault Obsidian + base per l’agente Hermes. Contenuto in **portoghese brasiliano**.
+Vault Obsidian + base do agente **[[milo]]**. Conteúdo e arquivos operacionais em **português brasileiro**.
 
 **Repo:** https://github.com/gcaponi/kaminski_ai
 
 ---
 
-## Dove vanno le informazioni
+## Onde fica cada coisa
 
-| Cosa | Dove |
+| O quê | Onde |
 |---|---|
-| Trascrizioni YouTube | `raw/transcripts/<id-video>.md` — testo integrale, una volta sola |
-| File che Kaminski lascia (PDF, Word, PPT, txt) | li mette in `raw/inbox/` → dopo l’ingest diventano `raw/docs/<nome>.md` |
-| Temi (AAS, peptídeos, …) | `temas/<tema>.md` — **non** copiano il testo; elencano i `[[link]]` |
-| Autore | `entities/gabriel-kaminski.md` |
+| Transcrições do YouTube | `raw/transcripts/<id-do-video>.md` — texto integral, uma vez só |
+| Arquivos que Gabriel deixa (PDF, Word, PPT, txt) | ele solta em `raw/inbox/` → depois do ingest viram `raw/docs/<nome>.md` |
+| Temas (AAS, peptídeos, …) | `temas/<tema>.md` — **não** copiam o texto; listam os `[[link]]` |
+| Pessoas | `entities/gabriel-kaminski.md`, `entities/franciele-conter.md` |
+| O agente | `entities/milo.md` |
 
-Il testo non si duplica. Un video su GH e peptídeos resta **un** file in `raw/transcripts/` e punta a due temi.
-
----
-
-## Cosa crea il grafo Obsidian
-
-**I `[[wikilink]]`**, non le cartelle.
-
-Nodi:
-
-- ogni nota in `raw/transcripts/` e `raw/docs/`
-- ogni pagina in `temas/`
-- `entities/gabriel-kaminski.md`
-
-Archi: la riga `- Temas: [[peptideos]] · [[incretinas]]` e le liste `## Vídeos` dentro `temas/`.
-
-In Obsidian: Open folder as vault → Graph view.
+O texto não se duplica. Um vídeo sobre GH e peptídeos continua **um** arquivo em `raw/transcripts/` e aponta para os dois temas.
 
 ---
 
-## Per Kaminski
+## O que cria o grafo do Obsidian
 
-Leggere `PARA-O-KAMINSKI.md`. In sintesi: trascina file in `raw/inbox/`. Se l’agente non riconosce il tema, gli fa 3 domande.
+**Os `[[wikilink]]`**, não as pastas.
+
+Nós:
+
+- cada nota em `raw/transcripts/` e `raw/docs/`
+- cada página em `temas/`
+- `entities/gabriel-kaminski.md`, `entities/franciele-conter.md`, `entities/milo.md`
+
+Arestas: a linha `- Temas: [[peptideos]] · [[incretinas]]` e as listas `## Vídeos` dentro de `temas/`.
+
+No Obsidian: Open folder as vault → Graph view.
 
 ---
 
-## Script (solo agente / VPS)
+## Para o Kaminski
+
+Ler `PARA-O-KAMINSKI.md`. Em resumo: arraste arquivos para `raw/inbox/`. Se o [[milo]] não reconhecer o tema, faz 3 perguntas.
+
+---
+
+## Scripts (só o agente / VPS)
 
 - `scripts/ingest_ytdlp.py` — YouTube
-- `scripts/ingest_inbox.py` — file in inbox
-- `scripts/classify.py` — etichette + aggiorna `temas/`
-- `scripts/themes.py` — regole dei temi
+- `scripts/ingest_inbox.py` — arquivos da inbox
+- `scripts/classify.py` — etiquetas + atualiza `temas/`
+- `scripts/themes.py` — regras dos temas

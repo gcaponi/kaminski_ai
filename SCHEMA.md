@@ -1,23 +1,23 @@
-# Wiki Schema
+# Esquema da wiki
 
-## Domain
+## Domínio
 
 Conhecimento publicado por **Gabriel Kaminski** (PhD em ciências farmacêuticas) em vídeo: farmacologia hormonal, preparo de bodybuilding, peptídeos, exames e limites do que o dado permite dizer.
 
-Não é prontuário clínico. Não é protocolo. É um arquivo das falas dele, classificado para busca humana (Obsidian) e agente (Hermes).
+Não é prontuário clínico. Não é protocolo. É um arquivo das falas dele e da [[franciele-conter]], classificado para busca humana (Obsidian) e para o agente [[milo]].
 
-## Conventions
+## Convenções
 
-- File names: lowercase, hyphens, no spaces (`testosterona.md`, `2024-05-18-farmacologia-esportiva.md`)
+- Nomes de arquivo: minúsculas, hífen, sem espaço (`testosterona.md`, `2024-05-18-farmacologia-esportiva.md`)
 - Transcripts: `raw/transcripts/<youtube-id>.md` — um arquivo por vídeo, **imutável**
 - Temas: `temas/<slug>.md` — mapa de conteúdo, sem copiar o transcript
-- Entities: `entities/<slug>.md`
+- Entidades: `entities/<slug>.md`
 - Toda página wiki começa com YAML frontmatter
 - Ligar com `[[wikilinks]]` (mínimo 2 outbound por página wiki)
 - Ao atualizar uma página, subir o campo `updated`
 - Toda página nova entra em `index.md` na seção certa
 - Toda ação entra em `log.md`
-- Idioma do conteúdo: **pt-BR**. Não traduzir transcripts.
+- Idioma de **toda a repo**: **pt-BR** (docs, notas, scripts, log). Não traduzir o corpo dos transcripts.
 
 ## Frontmatter — páginas wiki (`temas/`, `entities/`)
 
@@ -54,7 +54,7 @@ sha256: <hex do corpo depois do frontmatter>
 
 `speaker:` é a voz do vídeo: `gabriel-kaminski` ou `franciele-conter`. Não é um tema. Não misturar.
 
-## Tag taxonomy
+## Taxonomia de tags
 
 Usar só estas tags. Se faltar uma, acrescentar aqui primeiro.
 
@@ -64,13 +64,13 @@ Usar só estas tags. Se faltar uma, acrescentar aqui primeiro.
 - Prática: `ciclo`, `pct`, `treino`, `nutricao`, `exames`, `mulher`, `longevidade`, `pessoal`
 - Meta: `farmacologia`, `genetica`, `limite`, `controversia`, `clip`, `podcast`
 
-## Page thresholds
+## Limiares de página
 
 - **Criar página de tema** quando 2+ vídeos falarem do assunto, ou quando o assunto for central em um vídeo longo
 - **Não criar** página para menção de passagem
 - **Não copiar** o transcript para dentro de `temas/`
 - **Dividir** uma página wiki acima de ~200 linhas
-- **Inbox:** se le regole non riconoscono o assunto, **não arquivar em silêncio**. O agente pergunta a Gabriel Kaminski (3 perguntas em PT) e só então cria o tema ou aplica um existente.
+- **Inbox:** se as regras não reconhecem o assunto, **não arquivar em silêncio**. O [[milo]] pergunta a Gabriel Kaminski (3 perguntas em pt-BR) e só então cria o tema ou aplica um existente.
 
 ## Temas semente
 
@@ -94,7 +94,7 @@ Usar só estas tags. Se faltar uma, acrescentar aqui primeiro.
 | `longevidade` | `temas/longevidade.md` | Klotho, SIRT, NNMT, longevidade |
 | `pessoal` | `temas/pessoal.md` | vlog, família — não é aula |
 
-## Update policy
+## Política de atualização
 
 Quando um vídeo novo contradiz um antigo:
 
@@ -109,4 +109,5 @@ O grafo nasce dos `[[wikilinks]]`, não das pastas.
 
 - Transcript `[[testosterona]]` e `[[peptideos]]` → o vídeo aparece ligado aos dois temas
 - Página de tema lista os vídeos e conceitos vizinhos
-- `entities/gabriel-kaminski.md` liga o autor a todos os temas
+- `entities/gabriel-kaminski.md` e `entities/franciele-conter.md` ligam as vozes aos temas
+- `entities/milo.md` é o agente / futuro bot Telegram

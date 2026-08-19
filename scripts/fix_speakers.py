@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fix ASR names/handles and set speaker entity on each transcript."""
+"""Corrige nomes/handles do ASR e grava a entidade speaker em cada transcript."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DIR = ROOT / "raw" / "transcripts"
 
-# Longer / more specific first.
+# Mais longos / específicos primeiro.
 REPLACEMENTS: list[tuple[re.Pattern[str], str]] = [
     (re.compile(r"@dfrancelteror", re.I), "@drafrancieleconter"),
     (re.compile(r"@dorfrancielecontor", re.I), "@drafrancieleconter"),
@@ -66,7 +66,7 @@ GABRIEL = re.compile(
 )
 
 
-# Continuations of Franciele's series without "eu sou" in the clip.
+# Continuação da série da Franciele sem "eu sou" no recorte.
 FRANCIELE_IDS = {
     "n_4TkZXtqjY",
     "06IiQ6uAaB8",

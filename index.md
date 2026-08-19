@@ -1,12 +1,13 @@
-# Wiki Index
+# Índice da wiki
 
 > Catálogo. Toda página wiki aparece aqui, com uma linha de resumo.
-> Last updated: 2026-08-19 | Total pages: 20
+> Atualizado: 2026-08-19 | Total de páginas: 21
 
-## Entities
+## Entidades
 
 - [[gabriel-kaminski]] — PhD; maioria das aulas de farmacologia.
 - [[franciele-conter]] — médica; vídeos de mulher / gestação / climatério.
+- [[milo]] — agente desta vault e futuro bot do Telegram.
 
 ## Temas
 

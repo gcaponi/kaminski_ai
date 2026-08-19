@@ -1,4 +1,4 @@
-"""Turn timestamped caption lines into readable Portuguese prose."""
+"""Junta linhas de legenda com timestamp em prosa legível em português."""
 
 from __future__ import annotations
 

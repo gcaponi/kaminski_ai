@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Automatic YouTube transcript ingest via yt-dlp + Chrome Profile 3 cookies.
+"""Ingest automático de transcripts do YouTube via yt-dlp + cookies do Chrome.
 
-YouTube blocks datacenter IPs. The VPS already has a logged-in Chrome
-profile; we reuse those cookies, one PT-orig track per video, with pacing.
+O YouTube bloqueia IP de datacenter. Na VPS reutilizamos o Chrome já
+logado: um track pt-orig por vídeo, com pausa anti-429.
 
-Usage:
-    uv run python scripts/ingest_ytdlp.py video.txt
-    uv run python scripts/ingest_ytdlp.py video.txt --limit 5
+Uso:
+    python scripts/ingest_ytdlp.py video.txt
+    python scripts/ingest_ytdlp.py video.txt --limit 5
 """
 
 from __future__ import annotations

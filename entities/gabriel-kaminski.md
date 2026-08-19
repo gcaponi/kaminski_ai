@@ -17,6 +17,8 @@ PhD em ciências farmacêuticas. No canal Kaminski Lab apresenta a maior parte d
 
 Esposa e co-apresentadora: [[franciele-conter]] (@drafrancieleconter). Os vídeos dela não levam o wikilink `[[gabriel-kaminski]]`.
 
+Agente da vault: [[milo]].
+
 ## Temas
 
 - [[testosterona]]

@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Auto-classify vault notes into temas/ via deterministic rules.
+"""Classifica as notas da vault em temas/ com regras determinísticas.
 
-Updates:
-  - frontmatter `temas:` and the Temas wikilink line on each note
-  - the ## Vídeos list on every temas/*.md
+Atualiza:
+  - o frontmatter `temas:` e a linha de wikilink Temas em cada nota
+  - a lista ## Vídeos de cada temas/*.md
   - temas/_inbox.md
 
-Usage:
+Uso:
     python scripts/classify.py
     python scripts/classify.py --dry-run
 """

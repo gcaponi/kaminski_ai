@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Ingest files dropped in raw/inbox/ (Kaminski does not run this).
+"""Ingere arquivos deixados em raw/inbox/ (Gabriel não roda isto).
 
-Supported: .txt .md .pdf .pptx .docx
-Writes a wiki note in raw/docs/ and classifies it.
+Suportados: .txt .md .pdf .pptx .docx
+Escreve uma nota wiki em raw/docs/ e classifica.
 
-Usage:
+Uso:
     python scripts/ingest_inbox.py
 """
 

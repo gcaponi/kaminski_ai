@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rewrite existing transcripts as prose (no [00:00:00] lines)."""
+"""Reescreve transcripts já baixados como prosa (sem linhas [00:00:00])."""
 
 from __future__ import annotations
 

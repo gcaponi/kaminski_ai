@@ -1,14 +1,15 @@
-"""Shared theme rules for automatic classification.
+"""Regras compartilhadas de tema para classificação automática.
 
-Deterministic: same text → same labels. Hermes and a future laptop
-agent must agree. Add a pattern here BEFORE using a new theme.
+Determinístico: o mesmo texto → os mesmos rótulos. O Milo e qualquer
+outro agente precisam concordar. Acrescente um padrão AQUI antes de
+usar um tema novo.
 """
 
 from __future__ import annotations
 
 import re
 
-# slug -> (weight, compiled patterns). Title hits count 3x.
+# slug -> padrões. Acerto no título vale 3x.
 THEME_PATTERNS: dict[str, list[str]] = {
     "esteroides-aas": [
         r"\bboldenon",

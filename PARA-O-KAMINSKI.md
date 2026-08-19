@@ -1,6 +1,10 @@
 # Para o Kaminski
 
-O canal tem duas vozes:
+Esta pasta é a sua biblioteca. Você não precisa programar.
+
+O agente se chama **[[milo]]** — como Milo de Crotona, o atleta grego do bezerro que virou touro. A nota: `entities/milo.md`.
+
+O canal tem duas vozes humanas:
 
 - [[gabriel-kaminski]] — @kaminskao
 - [[franciele-conter]] — @drafrancieleconter
@@ -11,7 +15,7 @@ Não misturar. Se o vídeo é dela, o link da nota é `[[franciele-conter]]`.
 
 1. Abra esta pasta no **Obsidian** (Open folder as vault).
 2. Para acrescentar material: arraste o arquivo para `raw/inbox/`.
-3. Pronto. O agente lê, classifica e liga aos temas.
+3. Pronto. O [[milo]] lê, classifica e liga aos temas.
 
 Se o agente **não reconhecer o assunto**, ele te pergunta 3 coisas em português (o que é, se cabe num tema já existente, ou que nome dar ao tema novo). Responda curto. Aí ele classifica.
 
