@@ -9,4 +9,8 @@
 - Estrutura: SCHEMA, index, temas semente, entities, scripts de ingest
 - Transcripts: 0
 - Catalogo: `video.txt` — 265 URL YouTube unici (commit 9d11548)
-- Ingest dalla VPS bloccato (YouTube RequestBlocked / bot check su IP datacenter). Prossimo passo: ingest dal laptop.
+## [2026-08-19] ingest | pipeline automatica VPS
+
+- Metodo: `scripts/ingest_ytdlp.py` (yt-dlp + cookie Chrome Profile 3, `pt-orig`)
+- Test: 3/3 OK (MI4B18okOyY, hXCADESzQgM, Lq7Sa42QUWw)
+- Catalogo restante: 262 video. Job in corso sulla VPS.

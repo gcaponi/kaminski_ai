@@ -28,10 +28,10 @@ Workspace: vault-wiki delle trascrizioni di Gabriel Kaminski.
 
 ## Ingest
 
-YouTube blocca gli IP da VPS/cloud. Lanciare **dal laptop**, non dalla VPS:
+Automatico dalla VPS. YouTube blocca gli IP datacenter: usiamo i cookie del Chrome Profile 3 già loggato, un caption `pt-orig` per video, con pausa anti-429.
 
 ```bash
-python scripts/ingest_urls.py video.txt
+uv run python scripts/ingest_ytdlp.py video.txt
 ```
 
 Poi classificare i nuovi file in `raw/transcripts/` collegandoli ai temi.

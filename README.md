@@ -12,23 +12,14 @@ Stesso repo, stesso grafo. Nessun file sulla Scrivania.
 ## Come lavoriamo
 
 1. I link sono in `video.txt` (265 URL).
-2. **I transcript non si scaricano dalla VPS**: YouTube blocca gli IP da datacenter. Li scarichi tu dal laptop (IP residenziale), poi pusho la classificazione io.
-3. Tu fai pull e apri questa cartella come vault Obsidian.
+2. Fama scarica i transcript **dalla VPS**, in automatico (yt-dlp + cookie del Chrome già loggato). Tu non lanci nulla.
+3. Tu fai `git pull` e apri la cartella come vault Obsidian.
 
 ```bash
 git clone git@github.com:gcaponi/kaminski_ai.git
-cd kaminski_ai
-# sul laptop, una volta sola:
-python3 -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install youtube-transcript-api
-python scripts/ingest_urls.py video.txt
-git add raw/transcripts
-git commit -m "Ingest transcripts"
-git push
+# Obsidian → Open folder as vault → cartella del clone
+git pull
 ```
-
-Poi dimmi e io classifico i temi + grafo.
 
 ## Cosa c'è dentro
 
