@@ -1,6 +1,0 @@
-# Kaminski AI — URL dei video
-# Un URL o ID YouTube per riga.
-# Righe vuote e #commenti vengono ignorate.
-#
-# Incolla qui i ~300 link e fai push.
-

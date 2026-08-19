@@ -41,3 +41,7 @@
 ## [2026-08-19] rule | tema sconosciuto → domande a Gabriel
 
 - Ingest senza tema: non archiviare. Chiedere 3 domande in PT. File resta in `raw/inbox/`, domande in `raw/inbox/perguntas/`.
+
+## [2026-08-19] chore | pulizia repo
+
+- Rimossi leftover: `catalog/video-urls.txt`, tsv, script di prova (cdp, seed, ingest_urls), README ridondanti.

@@ -1,85 +1,49 @@
 # Kaminski AI
 
-Vault-wiki delle **trascrizioni** di [Gabriel Kaminski](https://www.youtube.com/@kaminskilab) (PhD, farmacologia).
-
-Due lettori, un solo repo:
-
-- **Guglielmo** — apre la cartella come vault Obsidian sul laptop
-- **Fama / Hermes** — lavora sulla VPS, classifica, tiene il grafo
+Vault Obsidian + base per l’agente Hermes. Contenuto in **portoghese brasiliano**.
 
 **Repo:** https://github.com/gcaponi/kaminski_ai
 
-Lingua del contenuto: **portoghese brasiliano**. I transcript non si traducono.
-
 ---
 
-## Cosa entra (e cosa no)
+## Dove vanno le informazioni
 
-Entra **solo** il tab video lunghi del canale ufficiale:
-
-https://www.youtube.com/@kaminskilab/videos
-
-Oggi: **67 video** (elenco in `video.txt` e `catalog/kaminskilab-videos.md`).
-
-**Non entra:**
-
-- Shorts / Reels / clip da 30–90 secondi
-- video di altri canali, podcast ospite, tagli
-- consigli clinici scritti da Fama: qui si archivia quello che ha detto Kaminski, con link
-
----
-
-## Come lavoriamo
-
-1. Fama aggiorna `video.txt` dal tab `/videos` e scarica i transcript **dalla VPS** (automatico).
-2. Tu fai `git pull` e apri questa cartella in Obsidian.
-3. I temi (`temas/`) collegano i video con `[[wikilink]]`. Un video può stare su più temi. Il testo integrale sta **una volta sola** in `raw/transcripts/`.
-
-```bash
-git clone git@github.com:gcaponi/kaminski_ai.git
-# Obsidian → Open folder as vault → cartella del clone
-git pull
-```
-
-Non serve lanciare script sul laptop.
-
----
-
-## Struttura
-
-| Percorso | Ruolo |
+| Cosa | Dove |
 |---|---|
-| `SCHEMA.md` | Regole della wiki. Leggerlo prima di toccare una nota. |
-| `AGENTS.md` | Istruzioni per Hermes. |
-| `index.md` | Catalogo delle pagine wiki. |
-| `log.md` | Diario, solo append. |
-| `video.txt` | URL dei 67 video ufficiali. |
-| `catalog/kaminskilab-videos.md` | Stessa lista, con titolo e durata. |
-| `raw/transcripts/` | Una nota per video. PT-BR. Immutabile dopo l'ingest. |
-| `temas/` | Mappe di contenuto (testosterona, peptídeos, AAS, …). Qui nasce il grafo. |
-| `entities/gabriel-kaminski.md` | Pagina autore. |
-| `scripts/ingest_ytdlp.py` | Ingest automatico (yt-dlp + cookie Chrome VPS). |
+| Trascrizioni YouTube | `raw/transcripts/<id-video>.md` — testo integrale, una volta sola |
+| File che Kaminski lascia (PDF, Word, PPT, txt) | li mette in `raw/inbox/` → dopo l’ingest diventano `raw/docs/<nome>.md` |
+| Temi (AAS, peptídeos, …) | `temas/<tema>.md` — **non** copiano il testo; elencano i `[[link]]` |
+| Autore | `entities/gabriel-kaminski.md` |
+
+Il testo non si duplica. Un video su GH e peptídeos resta **un** file in `raw/transcripts/` e punta a due temi.
 
 ---
 
-## Ingest (solo VPS / agente)
+## Cosa crea il grafo Obsidian
 
-YouTube: `scripts/ingest_ytdlp.py` (cookie Chrome VPS, caption `pt-orig`).
+**I `[[wikilink]]`**, non le cartelle.
 
-Classificazione: `scripts/classify.py` — regole fisse, niente tabella manuale.
+Nodi:
 
-File nuovi di Kaminski: lui li lascia in `raw/inbox/`. L'agente lancia:
+- ogni nota in `raw/transcripts/` e `raw/docs/`
+- ogni pagina in `temas/`
+- `entities/gabriel-kaminski.md`
 
-```bash
-python scripts/ingest_inbox.py
-```
+Archi: la riga `- Temas: [[peptideos]] · [[incretinas]]` e le liste `## Vídeos` dentro `temas/`.
 
-Supportati: txt, md, pdf, pptx, docx.
+In Obsidian: Open folder as vault → Graph view.
 
 ---
 
-## Grafo Obsidian
+## Per Kaminski
 
-Il grafo nasce dai `[[wikilink]]`, non dalle cartelle.
+Leggere `PARA-O-KAMINSKI.md`. In sintesi: trascina file in `raw/inbox/`. Se l’agente non riconosce il tema, gli fa 3 domande.
 
-Esempio: un video su testosterona **e** peptídeos resta un file in `raw/transcripts/` e punta a `[[testosterona]]` e `[[peptideos]]`.
+---
+
+## Script (solo agente / VPS)
+
+- `scripts/ingest_ytdlp.py` — YouTube
+- `scripts/ingest_inbox.py` — file in inbox
+- `scripts/classify.py` — etichette + aggiorna `temas/`
+- `scripts/themes.py` — regole dei temi
