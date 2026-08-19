@@ -28,9 +28,10 @@ Workspace: vault-wiki delle trascrizioni di Gabriel Kaminski.
 
 ## Ingest
 
+YouTube blocca gli IP da VPS/cloud. Lanciare **dal laptop**, non dalla VPS:
+
 ```bash
-uv pip install youtube-transcript-api
-uv run python scripts/ingest_urls.py video.txt
+python scripts/ingest_urls.py video.txt
 ```
 
 Poi classificare i nuovi file in `raw/transcripts/` collegandoli ai temi.

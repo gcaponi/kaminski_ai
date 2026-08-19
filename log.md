@@ -9,3 +9,4 @@
 - Estrutura: SCHEMA, index, temas semente, entities, scripts de ingest
 - Transcripts: 0
 - Catalogo: `video.txt` — 265 URL YouTube unici (commit 9d11548)
+- Ingest dalla VPS bloccato (YouTube RequestBlocked / bot check su IP datacenter). Prossimo passo: ingest dal laptop.
