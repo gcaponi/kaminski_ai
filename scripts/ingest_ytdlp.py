@@ -22,6 +22,9 @@ import time
 from datetime import date
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from prose import segs_to_prose
+
 _venv_ytdlp = Path(sys.executable).parent / "yt-dlp"
 YTDLP = str(_venv_ytdlp if _venv_ytdlp.exists() else "yt-dlp")
 ROOT = Path(__file__).resolve().parents[1]
@@ -106,7 +109,7 @@ def vtt_to_segments(text: str) -> list[tuple[str, str]]:
 
 
 def fmt_body(segs: list[tuple[str, str]]) -> str:
-    return "\n".join(f"[{ts}] {text}" for ts, text in segs) + ("\n" if segs else "")
+    return segs_to_prose(segs)
 
 
 def run(cmd: list[str], timeout: int = 90) -> subprocess.CompletedProcess:

@@ -8,7 +8,7 @@ ingested: 2026-08-19
 language: en
 duration_s: 121
 temas: [pessoal]
-sha256: 96ed238b2efd2a0d6649ad4a102194f356683a483a99a7aa06ee4dde6a829dea
+sha256: 51c06d5ccd0908c881a3a4f627e125d9cf6479b8f8be56132eaf986260ab34e4
 caption_note: "no pt-orig; YouTube ASR en-orig only, low quality (vlog)"
 ---
 
@@ -19,13 +19,6 @@ caption_note: "no pt-orig; YouTube ASR en-orig only, low quality (vlog)"
 
 ## Transcript
 
-[00:00:08] Did you pack
-[00:00:10] you pack
-[00:00:21] was
-[00:00:26] Nice. [music]
-[00:00:31] Where did you go?
-[00:01:02] A good deal. Look at us.
-[00:01:10] [music]
-[00:01:47] Heat up here.
-[00:01:49] Yeah,
-[00:01:54] [music]
+Did you pack you pack was Nice. Where did you go? A good deal. Look at us.
+
+Heat up here. Yeah,

@@ -8,7 +8,7 @@ ingested: 2026-08-19
 language: pt-BR
 duration_s: 335
 temas: [pessoal]
-sha256: 363f428033990ba928e21a5a311b04aea6a392c00c02d7ad595b473b46365c74
+sha256: ab039122661347d968551e51f98811ee7afd9ae3993372523bad3f07f40acce8
 ---
 
 # NOSSAS MENINAS NASCERAM!
@@ -18,69 +18,28 @@ sha256: 363f428033990ba928e21a5a311b04aea6a392c00c02d7ad595b473b46365c74
 
 ## Transcript
 
-[00:00:02] [música]
-[00:00:13] Amor, você se sente pronto?
-[00:00:15] Eu pronto.
-[00:00:17] Nossa,
-[00:00:18] pode ir [risadas]
-[00:00:22] só
-[00:00:23] isso aí
-[00:00:25] tem mais um.
-[00:00:28] Oi. Eu sonhei que eram três. Tu
-[00:00:29] acredita? [risadas]
-[00:00:31] Aham. Que tu tirou três de surpresa.
-[00:00:33] Surprise.
-[00:00:35] Segunda pra terça. Aham. Aí eu olhei
-[00:00:37] três cabecinhas assim. Falei: "Nossa,
-[00:00:39] tava contando com dois". Quem quer
-[00:00:41] [risadas]
-[00:00:43] te brinde franzinha?
-[00:00:45] Compre dois três.
-[00:00:47] É quer falar um de comer dois com três.
-[00:00:53] Fomenal.
-[00:00:55] Hum.
-[00:00:58] Gente, que isso
-[00:01:00] não
-[00:01:02] com
-[00:01:03] tô quase com assim, ó. Tá tão bonito,
-[00:01:05] parece tão tranquila.
-[00:01:07] Car, parvos.
-[00:01:10] Ansioso.
-[00:01:13] Tô bem empolgada, né? Nem parece que vou
-[00:01:15] parir.
-[00:01:17] Não,
-[00:01:17] tem que aparecer a barriga do outro
-[00:01:19] lado. Quer que eu desse lado?
-[00:01:24] [música]
-[00:01:36] Ó, agora vou fazer aquela táinha.
-[00:01:41] Essa pizadinha agora vai arder.
-[00:01:58] Neném
-[00:01:59] fez o quê, gente?
-[00:02:02] A gente não sabe nem o que fazer com os
-[00:02:03] neném ainda.
-[00:02:08] Você já fez curso de trocar fralda de
-[00:02:10] dois ao mesmo tempo? Não,
-[00:02:12] [risadas]
-[00:02:13] a primeira dúvida é como é que dá banho.
-[00:02:19] Aí
-[00:02:19] vai. Ainha fez agora. [risadas]
-[00:03:05] Inhazima
-[00:03:10] filmar aqui ela.
-[00:03:11] Ai meu Deus, que gracinha.
-[00:03:15] [música]
-[00:03:20] Isso pra mamãe. Sora sora, sora.
-[00:03:27] Certo.
-[00:03:37] Meu amor, ela tava
-[00:03:40] falando.
-[00:03:44] Meu Deus do céu.
-[00:03:53] Muito bem. Muito, muito, muito, muito.
-[00:03:58] Eu vou levar só para monitorizar
-[00:04:00] saturação.
-[00:04:08] [música]
-[00:04:32] tirar esse aqui para ficar mais bonito.
-[00:04:35] Vamos lá.
-[00:04:37] Você acha aqui? Ficou bom. Eu [música]
-[00:04:39] vou ajudar ela.
-[00:04:54] [música]
-[00:05:09] São as bonecas.
-[00:05:11] [música]
+Amor, você se sente pronto? Eu pronto. Nossa, pode ir [risadas] só isso aí tem mais um. Oi.
+
+Eu sonhei que eram três. Tu acredita? [risadas] Aham. Que tu tirou três de surpresa.
+
+Surprise. Segunda pra terça. Aham. Aí eu olhei três cabecinhas assim.
+
+Falei: "Nossa, tava contando com dois". Quem quer [risadas] te brinde franzinha? Compre dois três. É quer falar um de comer dois com três.
+
+Fomenal. Hum. Gente, que isso não com tô quase com assim, ó. Tá tão bonito, parece tão tranquila.
+
+Car, parvos. Ansioso. Tô bem empolgada, né? Nem parece que vou parir.
+
+Não, tem que aparecer a barriga do outro lado. Quer que eu desse lado? Ó, agora vou fazer aquela táinha. Essa pizadinha agora vai arder.
+
+Neném fez o quê, gente? A gente não sabe nem o que fazer com os neném ainda. Você já fez curso de trocar fralda de dois ao mesmo tempo? Não, [risadas] a primeira dúvida é como é que dá banho.
+
+Aí vai. Ainha fez agora. [risadas] Inhazima filmar aqui ela. Ai meu Deus, que gracinha.
+
+Isso pra mamãe. Sora sora, sora. Certo. Meu amor, ela tava falando.
+
+Meu Deus do céu. Muito bem. Muito, muito, muito, muito. Eu vou levar só para monitorizar saturação.
+
+tirar esse aqui para ficar mais bonito. Vamos lá. Você acha aqui? Ficou bom.
+
+Eu vou ajudar ela. São as bonecas.

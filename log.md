@@ -45,3 +45,7 @@
 ## [2026-08-19] chore | pulizia repo
 
 - Rimossi leftover: `catalog/video-urls.txt`, tsv, script di prova (cdp, seed, ingest_urls), README ridondanti.
+
+## [2026-08-19] format | transcript in prosa
+
+- Rimossi i timestamp `[00:00:00]`. Testo continuo a paragrafi. Ingest nuovi già in prosa.
