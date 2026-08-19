@@ -26,3 +26,8 @@
 
 - Transcripts PT-BR dei video @kaminskilab/videos (parser con chiusure)
 - Mancano 8 ID in coda al catalogo
+
+## [2026-08-19] ingest | 67/67 video ufficiali
+
+- Chiusi gli 8 mancanti
+- `AdUQmiPvq5Q` (AS MENINAS NASCERAM): niente pt-orig, solo ASR inglese scarsa
