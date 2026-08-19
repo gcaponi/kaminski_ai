@@ -22,8 +22,9 @@ ROOT = Path(__file__).resolve().parents[1]
 INBOX = ROOT / "raw" / "inbox"
 DOCS = ROOT / "raw" / "docs"
 DONE = INBOX / "processados"
+ASK = INBOX / "perguntas"
 sys.path.insert(0, str(ROOT / "scripts"))
-from themes import pick_themes  # noqa: E402
+from themes import kaminski_questions, needs_kaminski, pick_themes  # noqa: E402
 
 SKIP = {".gitkeep", "LEIA-ME.md", "README.md"}
 
@@ -123,6 +124,8 @@ def main() -> int:
         print("inbox empty")
         return 0
     n_ok = 0
+    n_ask = 0
+    ASK.mkdir(parents=True, exist_ok=True)
     for path in files:
         ext = path.suffix.lower()
         text = EXTRACTORS[ext](path)
@@ -131,14 +134,30 @@ def main() -> int:
             continue
         slug = slugify(path.name)
         themes = pick_themes(path.stem, text)
+        if needs_kaminski(themes):
+            qpath = ASK / f"{date.today().isoformat()}-{slug}.md"
+            qpath.write_text(
+                "---\n"
+                f"status: aguardando-kaminski\n"
+                f"source: {path.name}\n"
+                f"created: {date.today().isoformat()}\n"
+                "---\n\n"
+                + kaminski_questions(path.stem, text),
+                encoding="utf-8",
+            )
+            print("ASK_KAMINSKI")
+            print(kaminski_questions(path.stem, text))
+            print(f"WROTE {qpath.relative_to(ROOT)}")
+            n_ask += 1
+            continue
         write_doc(slug, path.stem, path.name, text, themes)
         shutil.move(str(path), str(DONE / path.name))
         print(f"OK   {path.name} → raw/docs/{slug}.md  {themes}")
         n_ok += 1
     if n_ok:
         subprocess.run([sys.executable, str(ROOT / "scripts" / "classify.py")], check=False)
-    print(f"done {n_ok}/{len(files)}")
-    return 0
+    print(f"done ok={n_ok} ask_kaminski={n_ask} total={len(files)}")
+    return 2 if n_ask else 0
 
 
 if __name__ == "__main__":

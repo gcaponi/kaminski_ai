@@ -8,6 +8,8 @@ Esta pasta é a sua biblioteca. Você não precisa programar.
 2. Para acrescentar material: arraste o arquivo para `raw/inbox/`.
 3. Pronto. O agente lê, classifica e liga aos temas.
 
+Se o agente **não reconhecer o assunto**, ele te pergunta 3 coisas em português (o que é, se cabe num tema já existente, ou que nome dar ao tema novo). Responda curto. Aí ele classifica.
+
 Formatos: PDF, Word, PowerPoint, txt.
 
 ## O que não fazer

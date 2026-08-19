@@ -68,7 +68,7 @@ Usar só estas tags. Se faltar uma, acrescentar aqui primeiro.
 - **Não criar** página para menção de passagem
 - **Não copiar** o transcript para dentro de `temas/`
 - **Dividir** uma página wiki acima de ~200 linhas
-- **Inbox:** vídeo ainda sem classificação → `temas/_inbox.md`
+- **Inbox:** se le regole non riconoscono o assunto, **não arquivar em silêncio**. O agente pergunta a Gabriel Kaminski (3 perguntas em PT) e só então cria o tema ou aplica um existente.
 
 ## Temas semente
 

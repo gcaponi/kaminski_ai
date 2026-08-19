@@ -207,3 +207,20 @@ def pick_themes(title: str, body: str, max_themes: int = 3, min_score: int = 3) 
     ranked = sorted(scores.items(), key=lambda kv: (-kv[1], kv[0]))
     chosen = [slug for slug, sc in ranked if sc >= min_score][:max_themes]
     return chosen or ["_inbox"]
+
+
+def needs_kaminski(themes: list[str]) -> bool:
+    return not themes or themes == ["_inbox"]
+
+
+def kaminski_questions(title: str, excerpt: str) -> str:
+    existing = ", ".join(THEME_SLUGS)
+    clip = " ".join((excerpt or "").split())[:400]
+    return (
+        f"Gabriel, não reconheci o tema deste material: **{title}**.\n\n"
+        f"Trecho: {clip or '(vazio)'}\n\n"
+        "Responda em português, bem curto:\n\n"
+        "1. Em uma frase: isto é sobre o quê?\n"
+        f"2. Encaixa em algum tema que já existe? ({existing})\n"
+        "3. Se não: que nome você daria ao tema novo?\n"
+    )

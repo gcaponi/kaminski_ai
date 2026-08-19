@@ -20,6 +20,7 @@ Workspace: vault-wiki delle trascrizioni di Gabriel Kaminski.
 - `raw/transcripts/` è immutabile. Mai modificare il corpo dopo l'ingest.
 - Una trascrizione = un file. Mai duplicarla dentro le cartelle tema.
 - Classificazione = wikilink verso `temas/*.md` (minimo 1, spesso 2+).
+- **Tema sconosciuto = chiedere a Gabriel Kaminski.** Mai inventare un tema e mai archiviare in silenzio in `_inbox` se l'ingest non riconosce l'argomento. Fare le 3 domande in portoghese (cosa è, tema esistente, nome nuovo), aggiungere la regola in `scripts/themes.py` + `SCHEMA.md`, poi ripetere l'ingest.
 - Ogni pagina wiki ha frontmatter YAML e almeno 2 `[[wikilink]]`.
 - Ogni ingest aggiorna `index.md` e appende a `log.md`.
 - Tag solo dalla tassonomia in `SCHEMA.md`.
@@ -30,7 +31,7 @@ Workspace: vault-wiki delle trascrizioni di Gabriel Kaminski.
 
 Automatico. YouTube: `scripts/ingest_ytdlp.py`. File lasciati in `raw/inbox/`: `scripts/ingest_inbox.py` poi `scripts/classify.py`.
 
-Classificare solo con `scripts/themes.py` (tassonomia chiusa). Se manca un tema, aggiungerlo lì e in SCHEMA.md prima di usarlo.
+Classificare solo con `scripts/themes.py`. Se `pick_themes` torna solo `_inbox`: **non archiviare**. Stampare `ASK_KAMINSKI`, scrivere `raw/inbox/perguntas/`, fare le 3 domande a Gabriel. Dopo la risposta: aggiornare `themes.py` e `SCHEMA.md`, rilanciare l'ingest.
 
 Poi aggiornare `index.md` e `log.md`.
 
